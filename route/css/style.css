@@ -1,0 +1,33 @@
+.virtuoso-scroller {
+
+    overflow: visible;
+
+}
+
+.rst__virtualScrollOverride {
+
+    overflow: visible !important;
+    height: auto;
+    position: relative;
+
+}
+
+    .rst__virtualScrollOverride > div {
+    
+        position: relative !important;
+
+    }
+
+.rst__node {
+    height: 40px !important;
+}
+
+.rst__moveHandle, .rst__loadingHandle {
+
+    width: 30px !important;
+
+}
+
+.rst__rowWrapper {
+    padding: 5px 5px 5px 0;
+}
