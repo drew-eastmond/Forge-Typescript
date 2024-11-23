@@ -1,0 +1,154 @@
+{
+    "forge": {
+        "queue": true,
+        "verbose": "low",
+        "port": 1234,
+        "debounce": 500,
+        "race": 2000
+    },
+    "variables": {
+        "www_root": "./build/www",
+        "route_root": "build/_route_",
+        "src_root": "./src",
+        "build_root": "./build",
+        "forge": "./forge"
+    },
+
+    "services": {
+
+        "spawn": {
+
+            "typescript_spawn": {
+                "command": "node {forge}/hello.js",
+                "debounce": 500,
+                "race": 2000,
+                "reboot": true,
+
+                "route_root": "{route_root}/typescript/"
+            },
+
+            "spawn python": {
+                "command": "python ./forge{forge}",
+                "race": 2000
+            }
+        },
+
+        "fork": {
+
+            "typescript_fork": {
+                "command": "{forge}/fork-client.js",
+                "debounce": 500,
+                "race": 2000,
+
+                "reboot": true,
+
+                "route_root": "{route_root}/typescript/"
+            }
+
+        },
+
+        "exec": {
+
+            "typescript_exec": {
+                "command": "{{command}}",
+                "debounce": 500,
+                "race": 2000,
+                "route_root": "{route_root}/typescript/"
+            },
+
+            "uglify_test": {
+                "command": "python {forge}/hello.py",
+                "debounce": 500,
+                "race": 250
+
+            }
+
+        },
+
+        "plugin": {
+
+        }
+
+    },
+
+    "tasks": [
+        {
+            "name": "SASS - node ( task )",
+
+            "enabled": true,
+
+
+            "actions": [
+
+                {
+                    "_name_": "tailwindCSS compile",
+                    "_implement_": "watch",
+                    "_service_": "typescript_exec",
+                    "_watch_": [ "src/**/*.css$" ],
+                    "_async_" : true,
+
+                    "command": "npx tailwindcss -i ./src/css/style.css -o ./build/www/css/output.css"
+
+                }
+
+            ]
+
+        },
+
+        {
+            "name": "esbuild",
+
+            "enabled": true,
+
+            "actions": [
+
+                {
+                    "_name_": "typescript",
+                    "_implement_": "watch",
+                    "_service_": "typescript_fork",
+                    "_watch_": [ "src/**/*.ts$" ],
+
+                    "in": "{src_root}/ts/main.tsx",
+                    "out": "{build_root}/www/js/compiled.js",
+                    "bundled": true,
+                    "platform": "browser",
+                    "format": "cjs"
+
+                },
+
+                {
+                    "_name_": "typescript 2",
+                    "_implement_": "watch",
+                    "_service_": "typescript_fork",
+                    "_watch_": [ "src/**/*.tsx" ],
+
+                    "in": "{src_root}/ts/onyx.tsx",
+                    "out": "{build_root}/www/js/onyx.js",
+                    "bundled": true,
+                    "platform": "browser",
+                    "format": "cjs"
+
+                }
+
+
+
+                
+
+            ]
+        }
+    ],
+
+    "graveyard": {
+        "_name_": "uglify teypescript",
+        "_implement_": "execute_direct_doesnt_matter_whatever",
+        "_service_": "uglify_test",
+        "_wait_": [
+            {
+                "task": "esbuild",
+                "action": "typescript"
+            }
+        ]
+
+
+    }
+}

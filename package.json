@@ -9,15 +9,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
-
   "devDependencies": {
-		"@types/node": "^20.7.2",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
-
-    "javascript-obfuscator": "*",
-    "node-minify": "*",
-    "fflate": "*"
-	}
+    "@types/node": "^20.10.6",
+    "javascript-obfuscator": "^4.1.0",
+    "node-minify": "^3.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@onyx-ignition/forge-core": "^1.0.5"
+  }
 }
