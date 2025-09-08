@@ -1,23 +1,27 @@
 {
-  "name": "forge-typescript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-
-
-  "devDependencies": {
-		"@types/node": "^20.7.2",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
-
-    "javascript-obfuscator": "*",
-    "node-minify": "*",
-    "fflate": "*"
-	}
+    "name": "forge-typescript-source",
+    "version": "1.0.0",
+    "description": "",
+    "bin": "bin.js",
+    "scripts": {
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+        "@types/node": "^20.7.2",
+        "compression": "^1.7.5",
+        "esbuild": "^0.25.9",
+        "express": "^4.21.2",
+        "react": "^19.1.1",
+        "react-dom": "^19.1.1",
+        "sass": "^1.85.0",
+        "twig": "^1.17.1"
+    },
+    "devDependencies": {
+        "@types/react": "^19.1.10",
+        "javascript-obfuscator": "^4.1.1",
+        "uglify-js": "^3.19.3"
+    }
 }
