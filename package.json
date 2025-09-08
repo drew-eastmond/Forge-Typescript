@@ -17,11 +17,11 @@
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
         "sass": "^1.85.0",
-        "twig": "^1.17.1"
-    },
-    "devDependencies": {
-        "@types/react": "^19.1.10",
+        "twig": "^1.17.1",
         "javascript-obfuscator": "^4.1.1",
         "uglify-js": "^3.19.3"
+    },
+    "devDependencies": {
+        "@types/react": "^19.1.10"
     }
 }
