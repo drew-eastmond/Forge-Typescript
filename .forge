@@ -1,0 +1,193 @@
+{
+    "variables": {
+        "http": {
+            "root": "./build/www"
+        },
+        "route": {
+            "root": "build/_route_"
+        },
+        "src": {
+            "root": "./src"
+        },
+        "build": {
+            "root": "./build"
+        },
+        "forge": "./forge",
+
+        "typescript": {
+            "root": "./forge/typescript",
+            "http": {
+                "root": "{typescript.root}",
+                "route": {
+                    "root": {
+                        "fetch": "{typescript.root}",
+                        "fetch": "https://user.onyxignition.com/typescript"
+                    },
+                    "api": {
+                        "build": {
+                            "list": {
+                                "in": "url",
+                                "out": "url",
+                                "bundled": "bool",
+                                "format": ["cjs", "esm", "iife"],
+                                "platform": ["node", "browser", "neutral"],
+                                "tree-shaking": "bool",
+                                "watch": "bool"
+
+                            },
+                            "": ""
+                        },
+                        "obfuscate": {
+                            "list": {
+                                "fetch": "{typescript.root}/api/build/form.htmx",
+                                "fetch_": "https://{typescript.root}/api/build/form.htmx"
+                            }
+                        },
+                        "minify": {
+                            
+                        }
+                    }
+                }
+            }
+        }
+    },
+
+    "services": {
+
+        "spawn": {
+
+            "typescript_spawn": {
+                "command": "node {forge}/build.js --spawn",
+                "debounce": 500,
+                "race": 2000,
+                "reboot": true,
+
+                "route": {
+                    "root": "{route.root}/typescript/"
+                }
+            },
+
+            "spawn python": {
+                "command": "python ./forge{forge}",
+                "race": 2000
+            }
+        },
+
+        "fork": {
+
+            "typescript_fork": {
+                "command": "{forge}/build.js --fork",
+                "debounce": 500,
+                "race": 2000,
+
+                "reboot": true,
+
+                "route": {
+                    "http": {
+                        "root": "{forge}/typescript/http/"
+                    },
+                    "ether": { 
+                        "port": 9876
+                    },
+                    "api": {
+                        "build": {
+                            "url": "{typescript.http.root}/build/build.html",
+                            "form": "{typescript.http.root}/build/form.htmx"
+                        }
+                    }
+                }
+            }
+
+        },
+
+        "exec": {
+
+            "typescript_exec": {
+                "command": "{{command}}",
+                "debounce": 500,
+                "race": 2000,
+                "route_root": "{route_root}/typescript/"
+            },
+
+            "typescript_uglify": {
+                "command": "python {forge}/hello.py",
+                "debounce": 500,
+                "race": 250
+
+            }
+
+        },
+
+        "plugin": {
+
+        }
+
+    },
+
+    "tasks": [
+        {
+            "name": "SASS - node ( task )",
+
+            "enabled": true,
+
+
+            "actions": [
+
+                {
+                    "_name_": "tailwindCSS compile",
+                    "_implement_": "watch",
+                    "_service_": "typescript_exec",
+                    "_watch_": [ "src/**/*.css$" ],
+                    "_async_" : true,
+
+                    "command": "npx tailwindcss -i ./src/css/style.css -o ./build/www/css/output.css"
+
+                }
+
+            ]
+
+        },
+
+        {
+            "name": "esbuild",
+
+            "enabled": true,
+
+            "actions": [
+
+                {
+                    "_name_": "typescript",
+                    "_implement_": "watch",
+                    "_service_": "typescript_fork",
+                    "_watch_": [ "src/**/*.ts$" ],
+
+                    "in": "{src_root}/ts/main.tsx",
+                    "out": "{build_root}/www/js/compiled.js",
+                    "bundled": true,
+                    "platform": "browser",
+                    "format": "cjs"
+
+                },
+
+                {
+                    "_name_": "typescript 2",
+                    "_implement_": "watch",
+                    "_service_": "typescript_fork",
+                    "_watch_": [ "src/**/*.tsx" ],
+
+                    "in": "{src_root}/ts/onyx.tsx",
+                    "out": "{build_root}/www/js/onyx.js",
+                    "bundled": true,
+                    "platform": "browser",
+                    "format": "cjs"
+
+                }
+
+
+
+                
+
+            ]
+        }
+    ]
+}
