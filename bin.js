@@ -8,7 +8,7 @@ const { exec, execSync } = require("child_process");
 const JavaScriptObfuscator = require('javascript-obfuscator');
 const UglifyJS = require("uglify-js");
 
-console.log("worker started", workerData);
+console.log("client started", workerData);
 
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \".www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \"./www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
@@ -472,6 +472,12 @@ or({ "builds": true } ); { "builds": true }; "forge/undefined"; empty();
 
 
     await application.$connect({ hi: "drew", client: true });
+
+    setInterval(function () {
+
+        console.green("stay alive");
+
+    }, 2500);
 
 }());
 
