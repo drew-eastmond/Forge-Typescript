@@ -1,13 +1,17 @@
 {
-    "name": "forge-typescript-source",
+    "name": "forge-typescript",
     "version": "1.0.0",
-    "description": "",
+    "description": "Typescript package for Forge",
     "bin": "bin.js",
     "scripts": {
     },
     "keywords": [],
-    "author": "",
+    "author": "Drew Eastmond",
     "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
+    },
     "dependencies": {
         "@onyx-ignition/forge": "github:drew-eastmond/Forge",
         "@types/node": "^20.7.2",
@@ -22,6 +26,6 @@
         "uglify-js": "^3.19.3"
     },
     "devDependencies": {
-        "@types/react": "^19.1.10"  
+        "@types/react": "^19.1.10"
     }
 }
