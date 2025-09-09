@@ -36,7 +36,8 @@ setInterval(function () {
 
             (async function () {
 
-                console.green("worker connected", await this.$connect({ child: true, typescript: true }));
+                console.green("client connected")
+                console.yellow(await this.$connect({ child: true, typescript: true }));
                 console.red("ready and waiting", await this.$ready);
 
                 const [model, permission] = await this._$setupModel();
