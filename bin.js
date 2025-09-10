@@ -8,7 +8,7 @@ const { exec, execSync } = require("child_process");
 const JavaScriptObfuscator = require('javascript-obfuscator');
 const UglifyJS = require("uglify-js");
 
-console.log("client started", workerData);
+console.log("client started", workerData, __dirname);
 
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \".www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \"./www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
