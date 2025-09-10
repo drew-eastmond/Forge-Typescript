@@ -9,11 +9,6 @@ const JavaScriptObfuscator = require('javascript-obfuscator');
 const UglifyJS = require("uglify-js");
 
 console.log("client started", workerData);
-setInterval(function () {
-
-    console.green("stay alive");
-
-}, 2500);
 
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \".www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
 // `npx --node-options=--inspect @onyx-ignition/forge-core --build-- {{\"entry\": \"./src/tsx/index.tsx\", \"target\": \"./www/js/app.js\", \"format\": \"cjs\", \"platform\": \"node\" }}`
@@ -36,8 +31,7 @@ setInterval(function () {
 
             (async function () {
 
-                console.green("client connected")
-                console.yellow(await this.$connect({ child: true, typescript: true }));
+                console.green("client connected", await this.$connect({ child: true, typescript: true }));
                 console.red("ready and waiting", await this.$ready);
 
                 const [model, permission] = await this._$setupModel();
