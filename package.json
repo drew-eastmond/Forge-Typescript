@@ -3,8 +3,7 @@
     "version": "1.0.0",
     "description": "Typescript package for Forge",
     "bin": "bin.js",
-    "scripts": {
-    },
+    "scripts": {},
     "keywords": [],
     "author": "Drew Eastmond",
     "license": "ISC",
@@ -12,19 +11,21 @@
         "type": "git",
         "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
     },
-    "dependencies": {
-        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
-        "@types/node": "^20.7.2",
-        "compression": "^1.7.5",
-        "esbuild": "^0.25.9",
-        "express": "^4.21.2",
-        "react": "^19.1.1",
-        "react-dom": "^19.1.1",
-        "sass": "^1.85.0",
-        "twig": "^1.17.1",
-        "javascript-obfuscator": "^4.1.1",
-        "uglify-js": "^3.19.3"
-    },
+  "dependencies": {
+    "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+    "@types/node": "^20.7.2",
+    "compression": "^1.7.5",
+    "esbuild": "^0.25.9",
+    "express": "^4.21.2",
+    "javascript-obfuscator": "^4.1.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "sass": "^1.85.0",
+    "twig": "^1.17.1",
+    "typescript": "^5.9.3",
+    "uglify-js": "^3.19.3",
+    "@types/react": "^19.1.10"
+  },
     "devDependencies": {
         "@types/react": "^19.1.10"
     }
