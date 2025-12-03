@@ -22,3 +22,22 @@ npm run library -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/i
 # npm 
 
 npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json
+
+
+npx @onyx-igntion/Forge-Typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
+
+npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[out]] ./ [[name]] onyx-ignition/forge-typescript [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts [[external]] json.key://./package.json:: [[transform]] [write.obfuscate
+
+
+
+
+npx github.com/drew-eastmond/Forge-Typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies
+
+npm run npm
+npx @onyx-ignition/forge-typescript npm
+npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] "G:\work\onyx-ignition\forge-typescript\Forge-Typescript\node_modules\@onyx-ignition\forge-typescript" [[root]] ../Forge-Typescript-Source/src/ts [[clean [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.keys://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
+
+
+node ./bin.js -- [[npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] "G:\work\onyx-ignition\forge-typescript\Forge-Typescript\node_modules\@onyx-ignition\forge-typescript\" [[root]] ../Forge-Typescript-Source/src/ts [[clean [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.keys://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
+
+npx @onyx-ignition/forge-typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts

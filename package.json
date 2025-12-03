@@ -29,6 +29,7 @@
     },
     "dependencies": {
         "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+        "@onyx-ignition/forge-typescript": "github:drew-eastmond/Forge-Typescript",
         "@types/node": "^20.7.2",
         "compression": "^1.7.5",
         "esbuild": "^0.25.9",
