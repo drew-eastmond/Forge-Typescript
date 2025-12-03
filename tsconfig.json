@@ -1,1 +1,22 @@
-{}
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "target": "ESNext",
+        "module": "NodeNext",
+        "lib": [ "DOM", "ESNext", "ESNext.AsyncIterable" ],
+        "moduleResolution": "node",
+        "paths": {
+            "@ts/*": [ "./src/ts/*" ],
+            "@tsx/*": [ "./src/tsx/*" ]
+        }
+    },
+    "include": [
+        "**/*",
+        "./index.d.ts"
+    ],
+    "exclude": [
+
+    ]
+}
