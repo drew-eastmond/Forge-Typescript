@@ -1,12 +1,22 @@
 {
-  "compilerOptions": {
-    "target": "ES2022",
-    "module": "commonjs",
-    "strict": true,
-    "esModuleInterop": true,
-    "outDir": "./dist",
-    "rootDir": "./src"
-  },
-  "include": [ "src/**/*" ],
-  "exclude": [ "node_modules" ]
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "jsx": "react-jsx",
+        "esModuleInterop": true,
+        "target": "ESNext",
+        "module": "NodeNext",
+        "lib": [ "DOM", "ESNext", "ESNext.AsyncIterable" ],
+        "moduleResolution": "node",
+        "paths": {
+            "@ts/*": [ "./src/ts/*" ],
+            "@tsx/*": [ "./src/tsx/*" ]
+        }
+    },
+    "include": [
+        "**/*",
+        "./index.d.ts"
+    ],
+    "exclude": [
+
+    ]
 }

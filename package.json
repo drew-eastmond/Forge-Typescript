@@ -1,42 +1,45 @@
 {
-  "name": "@onyx-ignition/forge-typescript",
-  "author": "Drew Eastmond",
-  "version": "0.0.1",
-  "keywords": ["forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve"],
-  "description": "Typescript package for Forge",
-  "bin": "./bin.js",
-  "main": "./index.js",
-  "exports": {
-    ".": {
-      "require": "./index.js",
-      "import": "./index.mjs",
-      "types": "./index.d.ts"
+    "name": "@onyx-ignition/forge-typescript",
+    "author": "Drew Eastmond",
+    "version": "0.0.1",
+    "keywords": [ "forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve" ],
+    "description": "Typescript package for Forge",
+    "bin": "./bin.js",
+    "main": "./index.js",
+    "exports": {
+        ".": {
+            "types": "./index.d.ts",
+            "require": "./index.js",
+            "import": "./index.mjs"
+        }
+    },
+    "scripts": {
+        "types": "node ./bin.js -- [[types",
+        "build": "node ./bin.js -- [[build",
+        "library": "node ./bin.js --inspect -- [[library",
+        "listen": "node ./bin.js -- [[listen",
+        "clean": "node ./bin.js -- [[clean",
+        "inline": "node ./bin.js -- [[inline",
+        "npm": "node ./bin.js -- [[npm"
+    },
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
+    },
+    "dependencies": {
+        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+        "@types/node": "^20.7.2",
+        "compression": "^1.7.5",
+        "esbuild": "^0.25.9",
+        "express": "^4.21.2",
+        "javascript-obfuscator": "^4.1.1",
+        "react": "^19.1.1",
+        "react-dom": "^19.1.1",
+        "sass": "^1.85.0",
+        "twig": "^1.17.1",
+        "typescript": "^5.9.3",
+        "uglify-js": "^3.19.3",
+        "@types/react": "^19.1.10"
     }
-  },
-  "scripts": {
-    "types": "node ./bin.js --types",
-    "build": "node ./bin.js --build",
-    "library": "node ./bin.js --library",
-    "listen": "node ./bin.js --listen"
-  },
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
-  },
-  "dependencies": {
-    "@onyx-ignition/forge": "github:drew-eastmond/Forge",
-    "@types/node": "^20.7.2",
-    "compression": "^1.7.5",
-    "esbuild": "^0.25.9",
-    "express": "^4.21.2",
-    "javascript-obfuscator": "^4.1.1",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
-    "sass": "^1.85.0",
-    "twig": "^1.17.1",
-    "typescript": "^5.9.3",
-    "uglify-js": "^3.19.3",
-    "@types/react": "^19.1.10"
-  }
 }
