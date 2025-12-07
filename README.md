@@ -1,94 +1,106 @@
-# Forge-Typescript 
+# Forge-Typescript ( beta release )
 
 ## Command Line Interface Routes
 
-### Generate Types ( d.ts )
+## CLI Quick Guide
+
+### Build Types
+
+`$ npx @onyx-ignition/forge-typescript types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
+
+`$ npm run types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
+
+### Build and Bundle ( exclude package.json dependencies via keys )
+
+`$ npx @onyx-ignition/forge-typescript build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
+
+`$ node run build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
+
+### Build Library Export ( exclude package.json dependencies via keys )
+
+`$ npx @onyx-ignition/forge-typescript library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+
+`$ node run library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+
+## Clean
+
+Recursively deletes all files in the internal temporary folders. Executed before any following route are processed.
+
+## Generate Types ( d.ts )
 
 Compile and bundle all files provided via the following arguments `{ files, name, ignore, out }` into a d.ts format.
 
 | Argument  | values | Description|
 | ------------- | :-------------: | ------------- |
-| `files`, `ignore`      | file[], glob[] | Comma seperated file list. Also will resolve glob targets.     |
-| `name`      | string    | Used the decalre the namespace in `declare module` statement  |
-| `out`      | file     | Optional argument to target to write or default to stdout |
+| `files`, `ignore`      | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets.     |
+| `name`      | string    | Used the decalre the namespace in `declare module` statement.  |
+| `out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
 
-### Build
+## Build
 
-Using an entry file. Builds and bundles files.
+Using an entry file. Builds and bundles files. Build does not support aliases like library but will in future releases.
 
 | Argument  | values | Description|
 | ------------- | :-------------: | ------------- |
 | `entry`      | file | Entry file for build process.     |
-| `build`
+| `out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
+| `format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
+| `platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
 
-### Generate Library
+| Flags  | Description|
+| ------------- | ------------- |
+| `Transform.write.obfuscate` | All code produce is obfuscated using default values.     |
+
+
+## Generate Library
 
 Export all files provided via the following arguments `{ files, library: { root },  ignore, out }` into a library file. Unlike typical builds library exports dont have an entry point and are simply all the file bundled while preserving imports and export. Use these to dynamically load in javascript or speed up bundling by precompiling code; 
 
 
 | Argument  | values | Description |
 | ------------- | :-------------: | ------------- |
-| `files`, `ignore`     | file[], glob[] | Comma seperated file list. Also will resolve glob targets. |
-| `library.root`        | string    | All files will use this as a reference to   |
+| `files`, `ignore`     | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets. |
+| `library.root`        | string    | All files will use this as a base when resolving file location to import/export   |
 | `alias.files`         | Record<string, string>     | This will resolves aliases during imports |
-| `alias.files`   | Record<string, string>     | This will resolves aliases for directories during imports |
+| `alias.directores`   | Record<string, string>     | This will resolves aliases for directories during imports |
 | `external`   | string, json://file::props...     | External files to exclude it from your build. If your suppy `json.keys://package.json::dependencies` You can load a json file and tarverse to the appropriate keys, properties, or array values.   |
+| `format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
+| `platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
+
+| Flags  | Description|
+| ------------- | ------------- |
+| `Transform.write.obfuscate` | All code produce is obfuscated using default values.     |
+
+## Inline execution of files
+
+transform and execute a script inline. Provides the finest control over `@onyx-ignition/forge-typescript`. More documentation and examples to come
+
+| Argument  | values | Description|
+| ------------- | :-------------: | ------------- |
+| `inline`      | file | `.js` or `.ts` file to evaluate. The provided script has access to `@onyx-ignition/forge-typescript` modules and can direct call     |
 
 
+``` 
+// Example to show how to bundle a ts file into js. Then 
 
+// build properties
+const builderOptions: ForgeBuilderOptions = new BuilderConfig({
+    bundled: "merge", 
+    platform: "node",
+    format: "cjs"
+});
 
-node .\bin.js --build --in-- C:\work\forge-typescript\Forge-Typescript-Source\src\ts\client.ts --out-- ./index.mjs --platform-- node --format-- esm
+// load code soruce
+const source: string = fs.readFileSync("./index.ts");
 
-node .\bin.js --types --in-- C:\work\forge-typescript\Forge-Typescript-Source\src\ts\client.ts --out-- ./index-cli.d.ts --name-- tester
+// transform code and returnin object
+const result: IResult<Attributes> = await $Transform({ source, root: "./", contents }, builderOptions);
 
-node ./bin.js --library -- --in-- ../Forge-Typescript-Source/src/ts/client.ts --out-- ./lib/index.js --root-- ../Forge-Typescript-Source/src/ts --platform-- node --clean
+if (result.success == true) {
 
-## ClI 
+    // use the code for whatever conquests drives you. Be the master of your destiny!!!
+    const { code }: { code?: unknown } = result.or({ code: true }).first;
 
-### Generate Types ( d.ts )
+}
 
-Currently supports compiling and bundling all files via the { files } argument while filtering out conflicts with the { ignore } argument. The { name } argument will be used for declare module. Finally if an { out } argument is provided
-
-::
-
-Options to preserve or mangle the output will be explored in future releases.
-
-npm run types [[files]] ../Forge-Typescript-Source/src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts
-npm run types ::files:: ../Forge-Typescript-Source/src/ts/*/** ::name:: forge/example ::out:: ./forge.d.ts
-
-
-
-# library 
-
-npm run library -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[platform]] node [[clean [[format]] esm [[external]] "@onyx-ignition/forge" [[walk [[alias.file]]  dsfdsdsfsdfsd [[drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directory] "@ts:../Forge-Typescript-Source/src/ts" [happy
-
-
-npm run library -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[platform]] node [[clean [[format]] esm [[external]] "@onyx-ignition/forge" [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directory] "@ts:../Forge-Typescript-Source/src/ts" [happy
-
-
-# npm 
-
-npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json
-
-
-npx @onyx-igntion/Forge-Typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
-
-npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./lib/index.mjs [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[out]] ./ [[name]] onyx-ignition/forge-typescript [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts [[external]] json.key://./package.json:: [[transform]] [write.obfuscate
-
-
-
-
-npx github.com/drew-eastmond/Forge-Typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies
-
-npm run npm
-npx @onyx-ignition/forge-typescript npm
-npm run npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] "G:\work\onyx-ignition\forge-typescript\Forge-Typescript\node_modules\@onyx-ignition\forge-typescript" [[root]] ../Forge-Typescript-Source/src/ts [[clean [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.keys://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
-
-
-node ./bin.js -- [[npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] "G:\work\onyx-ignition\forge-typescript\Forge-Typescript\node_modules\@onyx-ignition\forge-typescript\" [[root]] ../Forge-Typescript-Source/src/ts [[clean [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.keys://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
-
-npx @onyx-ignition/forge-typescript npm -- [[in]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[root]] ../Forge-Typescript-Source/src/ts [[clean [[external]] "@onyx-ignition/forge" [[alias.file]]  dsfdsdsfsdfsd [[_drew]] .\package.json [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] "../Forge-Typescript-Source/src/ts" [happy [[alias]] [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[alias]] [files] drew.txt [[alias]] [files] drew.json [[external]] json.key://./package.json::dependencies [[bin]] ../Forge-Typescript-Source/src/ts/bin.ts
-
-
-# NPX
-npm run npm -- [[files]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[library]] [root] ../Forge-Typescript-Source/src/ts [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] ../Forge-Typescript-Source/src/ts [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ../Forge-Typescript-Source/src/ts/bin.ts [[transform]] [write.obfuscate [[clean
+```

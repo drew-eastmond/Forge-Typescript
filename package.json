@@ -14,13 +14,13 @@
         }
     },
     "scripts": {
-        "types": "node ./bin.js -- [[types",
-        "build": "node ./bin.js -- [[build",
-        "library": "node ./bin.js --inspect -- [[library",
-        "listen": "node ./bin.js -- [[listen",
-        "clean": "node ./bin.js -- [[clean",
-        "inline": "node ./bin.js -- [[inline",
-        "npm": "node ./bin.js -- [[npm"
+        "types": "node --inspect ./bin.js -- [[forge-typescript/types",
+        "build": "node ./bin.js -- [[forge-typescript/build",
+        "library": "node --inspect ./bin.js [[forge-typescript/library",
+        "listen": "node ./bin.js -- [[forge-typescript/listen",
+        "clean": "node ./bin.js -- [[forge-typescript/clean",
+        "inline": "node ./bin.js -- [[forge-typescript/inline",
+        "npm": "node --inspect-brk ./bin.js [[forge-typescript/npm"
     },
     "license": "ISC",
     "repository": {
