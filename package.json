@@ -20,7 +20,7 @@
         "listen": "node ./bin.js -- [[forge-typescript/listen",
         "clean": "node ./bin.js -- [[forge-typescript/clean",
         "inline": "node ./bin.js -- [[forge-typescript/inline",
-        "npm": "node --inspect-brk ./bin.js [[forge-typescript/npm"
+        "npm": "node --inspect ./bin.js [[forge-typescript/npm"
     },
     "license": "ISC",
     "repository": {

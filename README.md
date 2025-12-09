@@ -1,30 +1,45 @@
 # Forge-Typescript ( beta release )
 
+Typescript Builder Package for Forge Workflow Orchestrator. Currently the CLI interface, serve
+
 ## Command Line Interface Routes
 
 ## CLI Quick Guide
 
-### Build Types
+### Generate Types ( d.ts )
 
-`$ npx @onyx-ignition/forge-typescript types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
+`$ npx @onyx-ignition/forge-typescript [[types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
 
 `$ npm run types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
 
-### Build and Bundle ( exclude package.json dependencies via keys )
+### Build and Bundle ( also exclude package.json dependencies via keys )
 
-`$ npx @onyx-ignition/forge-typescript build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
+`$ npx @onyx-ignition/forge-typescript [[build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
 
 `$ node run build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
 
-### Build Library Export ( exclude package.json dependencies via keys )
+### Build Library Export ( also exclude package.json dependencies via keys )
 
-`$ npx @onyx-ignition/forge-typescript library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+`$ npx @onyx-ignition/forge-typescript [[library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
 
 `$ node run library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+
+
+### Build NPM/NPX Package ( also exclude package.json dependencies via keys )
+
+`$ npx @onyx-ignition/forge-typescript [[npm [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
+
+`$ npm run npm [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
 
 ## Clean
 
 Recursively deletes all files in the internal temporary folders. Executed before any following route are processed.
+
+`$ node run clean` 
+
+or
+
+`$ node run library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies [[clean`
 
 ## Generate Types ( d.ts )
 
