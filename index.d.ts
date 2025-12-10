@@ -2,7 +2,7 @@
 
 // @ts-nocheck
 
-declare module "undefined" {
+declare module "@onyx-ignition/forge-typescript" {
 
 	
 	/**
@@ -18,13 +18,11 @@ declare module "undefined" {
 	    files?: string[];
 	    code?: Record<string, string>;
 	    root?: string;
-	    resolves?: Record<string, string>;
 	};
 	export type BuildLibraryParameters = {
 	    source: {
 	        root: string;
 	        files: string[];
-	        resolves: Record<string, string>;
 	    };
 	    build: ForgeBuilderOptions;
 	    target?: {
@@ -33,25 +31,27 @@ declare module "undefined" {
 	        compress?: boolean;
 	    };
 	};
-	export type GenericBuilderResult = {
-	    code?: unknown;
-	    path?: string;
-	    error?: unknown;
-	};
-	export type IBuilderResult = IResult<GenericBuilderResult>;
-	export function BuildLibrary(socket: IForgeSocket, parameters: BuildLibraryParameters): Promise<IBuilderResult>;
-	export function ParseResult([serialize, error]: [Serialize, unknown]): IBuilderResult;
 	export type BuildParameters = {
 	    entry: string;
 	    build: ForgeBuilderOptions;
 	};
-	export function $BuildBundle(socket: IForgeSocket, parameters: BuildParameters): Promise<IBuilderResult>;
 	export type TypesParameters = {
 	    entry: BuilderSource;
 	    build: ForgeBuilderOptions;
 	    name: string;
-	    options: {};
+	    options?: {};
 	};
+	export type GenericBuilderResult = {
+	    code?: unknown;
+	    path?: string;
+	    error?: unknown;
+	    elapsed?: number;
+	    size?: number;
+	};
+	export type IBuilderResult = IResult<GenericBuilderResult>;
+	export function BuildLibrary(socket: IForgeSocket, parameters: BuildLibraryParameters): Promise<IBuilderResult>;
+	export function ParseResult([serialize, error]: [Serialize, unknown]): IBuilderResult;
+	export function $BuildBundle(socket: IForgeSocket, parameters: BuildParameters): Promise<IBuilderResult>;
 	export function $ResetBuilder(socket: IForgeSocket): Promise<boolean>;
 	export function $ClientBuildTypes(socket: IForgeSocket, parameters: TypesParameters): Promise<IBuilderResult>;
 	export function $ReadResolveFile(file: string): Promise<{
@@ -79,22 +79,19 @@ declare module "undefined" {
 	export type LibrarySources = {
 	    root: string;
 	    files: string[];
-	    aliases?: {
-	        files?: Record<string, string>;
-	        directories?: Record<string, string>;
-	    };
 	};
 	export class LibraryBuilder {
 	    private readonly _exportedComponents;
 	    private _sanitizeSources;
 	    private _$extractImportations;
-	    $merge(sources: LibrarySources, basic?: boolean): Promise<string>;
+	    $merge(sources: LibrarySources, alias: ForgeBuilderAliases, basic?: boolean): Promise<string>;
 	    $bundle(sources: LibrarySources, buildOptions: ForgeBuilderOptions): Promise<string>;
 	    $export(sources: LibrarySources, buildOptions: ForgeBuilderOptions, libraryExport: {
 	        join: string;
 	        ext: string;
 	    }): Promise<IResult<Attributes>>;
 	}
+	
 	
 	
 	
@@ -116,6 +113,7 @@ declare module "undefined" {
 	        resolves?: Record<string, string>;
 	    });
 	}
+	export function CalcCodeSize(code: unknown): number;
 	export function UncacheFile(file: string): void;
 	export function $Strip(entryFile: string, buildOptions: ForgeBuilderOptions, callback?: (type: "import-default" | "import-components" | "import-file" | "export", properties: {
 	    statement: string;
@@ -134,7 +132,7 @@ declare module "undefined" {
 	export function $Build(entryFile: string, buildOptions: ForgeBuilderOptions, options?: {
 	    plugins?: Plugin[];
 	    cache?: boolean;
-	}): Promise<IResult<Attributes>>;
+	}): Promise<IBuilderResult>;
 	export function $Obfuscate(code: string): Promise<string>;
 	export function $ApplyWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
 	export function $UnWrapWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
@@ -142,9 +140,7 @@ declare module "undefined" {
 	
 	
 	
-	export function $BuildTypes(entry: BuilderSource, packageName: string, buildOptions: ForgeBuilderOptions, options?: {
-	    temp?: string;
-	}): Promise<IResult<Attributes>>;
+	export function $BuildTypes(entry: BuilderSource, packageName: string, buildOptions: ForgeBuilderOptions): Promise<IResult<Attributes>>;
 	export function ParseTypeErrors(output: string, result: IResult<Attributes>): IResult<Attributes>;
 	
 	
@@ -163,6 +159,21 @@ declare module "undefined" {
 	    $listen(port: number, key: string): Promise<ForgeWebSocketServer>;
 	    $types(data: Serialize, session: SignalSession): Promise<Serialize>;
 	}
+	
+	
+	
+	export function $BuildNPM(builderOptions: ForgeBuilderOptions, bin: {
+	    entry: string;
+	}, library: {
+	    root: string;
+	    files: string[];
+	    join: string;
+	    name: string;
+	    ext: {
+	        cjs: string;
+	        esm: string;
+	    };
+	}): Promise<IBuilderResult>;
 	
 	
 	
@@ -424,8 +435,6 @@ declare module "undefined" {
 	    select(...parents: ReactNode[]): ReactNode;
 	}
 	export function BuildSelectorParser(content: string, roots: ReactNode[]): void;
-	
-	
 	
 	
 	
