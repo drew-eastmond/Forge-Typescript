@@ -1,19 +1,46 @@
 {
-  "name": "forge-typescript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-
-
-  "devDependencies": {
-		"@types/node": "^20.7.2",
-		"react": "^18.2.0",
-		"react-dom": "^18.2.0"
-	}
+    "name": "@onyx-ignition/forge-typescript",
+    "author": "Drew Eastmond",
+    "version": "0.0.1",
+    "keywords": [ "forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve" ],
+    "description": "Typescript package for Forge",
+    "bin": "./bin.js",
+    "main": "./index.js",
+    "exports": {
+        ".": {
+            "types": "./index.d.ts",
+            "require": "./index.js",
+            "import": "./index.mjs"
+        }
+    },
+    "scripts": {
+        "types": "node --inspect ./bin.js -- [[forge-typescript/types",
+        "build": "node ./bin.js -- [[forge-typescript/build",
+        "library": "node --inspect ./bin.js [[forge-typescript/library",
+        "listen": "node ./bin.js -- [[forge-typescript/listen",
+        "clean": "node ./bin.js -- [[forge-typescript/clean",
+        "inline": "node ./bin.js -- [[forge-typescript/inline",
+        "npm": "node --inspect ./bin.js [[forge-typescript/npm"
+    },
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
+    },
+    "dependencies": {
+        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+        "@onyx-ignition/forge-typescript": "github:drew-eastmond/Forge-Typescript",
+        "@types/node": "^20.7.2",
+        "compression": "^1.7.5",
+        "esbuild": "^0.25.9",
+        "express": "^4.21.2",
+        "javascript-obfuscator": "^4.1.1",
+        "react": "^19.1.1",
+        "react-dom": "^19.1.1",
+        "sass": "^1.85.0",
+        "twig": "^1.17.1",
+        "typescript": "^5.9.3",
+        "uglify-js": "^3.19.3",
+        "@types/react": "^19.1.10"
+    }
 }

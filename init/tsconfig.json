@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "target": "ESNext",
+        "module": "NodeNext",
+        "moduleResolution": "nodenext",
+        "paths": {
+
+        }
+    },
+    "exclude": [
+    ]
+}
