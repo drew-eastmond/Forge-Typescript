@@ -1,7 +1,7 @@
 {
     "name": "@onyx-ignition/forge-typescript",
     "author": "Drew Eastmond",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [ "forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve" ],
     "description": "Typescript package for Forge ( Beta Test )",
     "bin": "./bin.js",
