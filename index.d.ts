@@ -13,6 +13,121 @@ declare module "@onyx-ignition/forge-typescript" {
 	 */
 	export function FetchArguments(): IForgeArguments;
 	
+	class FileCacheInternal {
+	    private readonly _cache;
+	    private readonly _decoder;
+	    Has(url: string): boolean;
+	    $FetchString(url: string): Promise<string>;
+	    $Fetch(url: string): Promise<ArrayBuffer>;
+	    Cache(url: string, data: ArrayBuffer): boolean;
+	    Uncache(url: string): boolean;
+	    Clear(): void;
+	}
+	export const FileCache: FileCacheInternal;
+	
+	
+	
+	
+	
+	export type Platform = "browser" | "node" | "neutral";
+	export type Format = "iife" | "cjs" | "esm" | "tsc" | "forge-js" | "forge-ts";
+	export type Bundle = "preserve" | "mangle" | "merge";
+	export type Verbosity = "all" | "log" | "warn" | "error" | "silent";
+	export type Write = "memory" | "file" | "stdout";
+	export type ReadTranform = "gzip" | "brotli" | "zip" | "base64";
+	export type WriteTransform = "obfuscate" | "minify" | "gzip" | "brotli" | "zip" | "base64";
+	export type ForgeBuilderAliases = {
+	    files: Record<string, string>;
+	    directories: Record<string, string>;
+	};
+	export type ForgeBuilderOptions = Partial<{
+	    bundled: Bundle;
+	    platform: Platform;
+	    format: Format;
+	    metafile: boolean;
+	    treeShaking: boolean;
+	    aliases: ForgeBuilderAliases;
+	    external: string[];
+	    verbose: Verbosity;
+	    ignores: string[];
+	    transform: {
+	        read?: ReadTranform[];
+	        write?: WriteTransform[];
+	    };
+	    write: Write;
+	}>;
+	export class BuildSocketParams {
+	    source: {
+	        root: string;
+	        files?: string[];
+	        walk?: string;
+	    };
+	    build: ForgeBuilderOptions;
+	    resolves: Record<string, string>;
+	    constructor(options: {
+	        source: {
+	            root: string;
+	            files?: string[];
+	            walk?: string;
+	        };
+	        build: ForgeBuilderOptions;
+	        resolves?: Record<string, string>;
+	    });
+	}
+	export function FilterFormat(value: unknown): Format;
+	export function FilterPlatform(value: unknown): Platform;
+	export function FilterBundled(value: unknown): Bundle;
+	export class BuilderConfig {
+	    static $From(options: {
+	        args: IForgeArguments;
+	    }): Promise<BuilderConfig>;
+	    bundled: Bundle;
+	    platform: Platform;
+	    format: Format;
+	    metafile: boolean;
+	    external: string[];
+	    verbose: Verbosity;
+	    treeShaking: boolean;
+	    ignores: string[];
+	    aliases: ForgeBuilderAliases;
+	    write: Write;
+	    transform: {
+	        read: ReadTranform[];
+	        write: WriteTransform[];
+	    };
+	    constructor(options: ForgeBuilderOptions);
+	    $validate(): $IResult<Error>;
+	}
+	export function $ParseExternals(externals: string[]): Promise<string[]>;
+	export function CalcCodeSize(code: unknown): number;
+	export function UncacheFile(file: string): void;
+	export function $Strip({ code, root }: {
+	    code: string;
+	    root: string;
+	}, builderOptions: ForgeBuilderOptions, callback?: (type: "import-default" | "import-components" | "import-file" | "export", properties: {
+	    statement: string;
+	    file?: string;
+	    components?: string[];
+	    export?: string;
+	}, code: string) => string): Promise<IBuilderResult>;
+	export function $Transform({ root, contents, source }: {
+	    root: string;
+	    contents: string;
+	    source?: string;
+	}, buildOptions: ForgeBuilderOptions, options?: {
+	    plugins?: Plugin[];
+	    cache?: boolean;
+	}): $IResult<Attributes>;
+	export function $Build(entryFile: string, buildOptions: ForgeBuilderOptions, options?: {
+	    plugins?: Plugin[];
+	    cache?: boolean;
+	}): Promise<IBuilderResult>;
+	export function $Obfuscate(code: string): Promise<string>;
+	export function $ApplyWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
+	export function $UnWrapWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
+	export function $Clean(): Promise<void>;
+	
+	
 	
 	export type BuilderSource = {
 	    files?: string[];
@@ -62,18 +177,6 @@ declare module "@onyx-ignition/forge-typescript" {
 	export function $OutputCompiledCode(code: string | ArrayBuffer): Promise<void>;
 	export function $OutputCompiledCode(code: string | ArrayBuffer, outFile: string): Promise<void>;
 	
-	class FileCacheInternal {
-	    private readonly _cache;
-	    private readonly _decoder;
-	    Has(url: string): boolean;
-	    $FetchString(url: string): Promise<string>;
-	    $Fetch(url: string): Promise<ArrayBuffer>;
-	    Cache(url: string, data: ArrayBuffer): boolean;
-	    Uncache(url: string): boolean;
-	    Clear(): void;
-	}
-	export const FileCache: FileCacheInternal;
-	
 	
 	
 	export type LibrarySources = {
@@ -92,51 +195,6 @@ declare module "@onyx-ignition/forge-typescript" {
 	    }): Promise<IResult<Attributes>>;
 	}
 	
-	
-	
-	
-	export class BuildSocketParams {
-	    source: {
-	        root: string;
-	        files?: string[];
-	        walk?: string;
-	    };
-	    build: ForgeBuilderOptions;
-	    resolves: Record<string, string>;
-	    constructor(options: {
-	        source: {
-	            root: string;
-	            files?: string[];
-	            walk?: string;
-	        };
-	        build: ForgeBuilderOptions;
-	        resolves?: Record<string, string>;
-	    });
-	}
-	export function CalcCodeSize(code: unknown): number;
-	export function UncacheFile(file: string): void;
-	export function $Strip(entryFile: string, buildOptions: ForgeBuilderOptions, callback?: (type: "import-default" | "import-components" | "import-file" | "export", properties: {
-	    statement: string;
-	    file?: string;
-	    components?: string[];
-	    export?: string;
-	}, code: string) => string): Promise<string>;
-	export function $Transform({ root, contents, source }: {
-	    root: string;
-	    contents: string;
-	    source?: string;
-	}, buildOptions: ForgeBuilderOptions, options?: {
-	    plugins?: Plugin[];
-	    cache?: boolean;
-	}): $IResult<Attributes>;
-	export function $Build(entryFile: string, buildOptions: ForgeBuilderOptions, options?: {
-	    plugins?: Plugin[];
-	    cache?: boolean;
-	}): Promise<IBuilderResult>;
-	export function $Obfuscate(code: string): Promise<string>;
-	export function $ApplyWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
-	export function $UnWrapWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
-	export function $Clean(): Promise<void>;
 	
 	
 	
@@ -163,7 +221,9 @@ declare module "@onyx-ignition/forge-typescript" {
 	
 	
 	export function $BuildNPM(builderOptions: ForgeBuilderOptions, bin: {
-	    entry: string;
+	    root: string;
+	    contents: string;
+	    source?: string;
 	}, library: {
 	    root: string;
 	    files: string[];
@@ -176,6 +236,153 @@ declare module "@onyx-ignition/forge-typescript" {
 	}): Promise<IBuilderResult>;
 	
 	
+	
+	
+	export interface IForgeBuildPlugin {
+	    atrributes: Attributes;
+	    $start(iResult: IResult<Attributes>): Promise<void>;
+	    $complete(iResult: IResult<Attributes>): Promise<void>;
+	    $fetch(file: string, results: IResult<Attributes>): Promise<void>;
+	    $resolve(file: string, results: any): Promise<void>;
+	}
+	export class ForgeBuildPlugin implements IForgeBuildPlugin {
+	    atrributes: Attributes;
+	    $start(iResult: IResult<Attributes>): Promise<void>;
+	    $complete(iResult: IResult<Attributes>): Promise<void>;
+	    $fetch(file: string, iResults: IResult<Attributes>): Promise<void>;
+	    $resolve(file: string, results: any): Promise<void>;
+	}
+	
+	
+	
+	
+	
+	class TypescriptFileTraversal {
+	    private _root;
+	    private _externals;
+	    private _$fetch;
+	    private readonly _imports;
+	    readonly files: Map<string, TypescriptFile>;
+	    /**
+	     *
+	     * @param root directory of of root of all Typescript file wintin the graph
+	     * @param options
+	     */
+	    constructor(root: string, options: {
+	        $fetch: (file: string) => Promise<string>;
+	        externals: string[];
+	    });
+	    private _dependencies;
+	    private hasDependency;
+	    $add(file: string): Promise<boolean>;
+	    /**
+	     *
+	     * Sort all files based on import sequencing
+	     *
+	     */
+	    sort(): void;
+	}
+	export class TypescriptFile {
+	    /**
+	     *
+	     * Universal callback to fetch file contents based on the path. Best used for caching but default to readoing from ta
+	     *
+	     * @param file
+	     * @returns
+	     */
+	    static $Fetch(file: string): Promise<string>;
+	    private _path;
+	    private _code;
+	    private _root;
+	    private _$fetch;
+	    private readonly _externals;
+	    readonly imports: Map<string, Set<string>>;
+	    readonly exports: Set<string>;
+	    hash: string;
+	    constructor({ entry, root }: {
+	        entry: string;
+	        root: string;
+	    }, options?: {
+	        $fetch?: (file: string) => Promise<string>;
+	        externals?: string[];
+	    });
+	    /**
+	     *
+	     *
+	     *
+	     * @return { relative: string, resolved: string, dir: string }
+	     */
+	    get path(): {
+	        relative: string;
+	        resolved: string;
+	        dir: string;
+	    };
+	    set code(value: string);
+	    reset(): void;
+	    $traverse(traversal?: TypescriptFileTraversal): Promise<Map<string, TypescriptFile>>;
+	    $load(file: string): Promise<this>;
+	    $strip(callback?: (type: string, script: this, file: string, values: string | Set<string>) => string): Promise<IBuilderResult>;
+	    $bundle(builderOptions: ForgeBuilderOptions, iPlugins?: IForgeBuildPlugin): Promise<IBuilderResult>;
+	    $library(): $IResult<Attributes>;
+	}
+	
+	
+	
+	
+	
+	
+	class ReorderManager {
+	    private _root;
+	    readonly topology: Topology<string>;
+	    constructor(root: string, options?: {
+	        $fetch: (file: string) => Promise<string>;
+	    });
+	    import(input: string): this;
+	    $load(file: string, spaces: number): Promise<this>;
+	    add(file: string, attributes: Attributes): this;
+	    add(file: string, attributes: Attributes, parent: string): this;
+	}
+	export class ForgeBuilder extends Subscription {
+	    private _builderOptions;
+	    readonly cache: Map<string, {
+	        contents: string | Uint8Array;
+	        loader: string;
+	    }>;
+	    readonly iPlugins: IForgeBuildPlugin[];
+	    readonly root: string;
+	    readonly reorder: ReorderManager;
+	    constructor(root: string, builderOptions: ForgeBuilderOptions);
+	    constructor(root: string, builderOptions: ForgeBuilderOptions, iPlugins: IForgeBuildPlugin[]);
+	    protected _$resolve(file: string): Promise<string>;
+	    protected _$fetch(file: string): Promise<{
+	        contents: string | Uint8Array;
+	        loader: string;
+	    }>;
+	    protected _$fetchTypescript(file: string): Promise<string>;
+	    private _reorderManifest;
+	    $bundle(entry: string): Promise<IBuilderResult>;
+	}
+	
+	
+	
+	
+	
+	export class TypescriptBuilder {
+	    static $Library(root: string, options?: {
+	        ignore: string[];
+	    }): Promise<string>;
+	    static StripImports(code: string): string;
+	    private _entry;
+	    private _root;
+	    private readonly _$package;
+	    private _$packages;
+	    private _options;
+	    private _iPlugins;
+	    constructor(entry: string, options: ForgeBuilderOptions, iPlugins?: IForgeBuildPlugin[]);
+	    $fetch(file: string): Promise<string>;
+	    $bundle(): $IResult<Attributes>;
+	    $library(): $IResult<Attributes>;
+	}
 	
 	
 	
