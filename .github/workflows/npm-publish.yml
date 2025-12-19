@@ -5,8 +5,8 @@ name: Publish package to NPM
 
 on:
   push:
-    tags:
-      - 'beta*'
+    branches:
+      - main'
 
 jobs:
   build:
