@@ -4,10 +4,9 @@
 name: Publish package to NPM
 
 on:
-  pull_request:
-    types: [closed]
-    branches:
-      - main
+  push:
+    tags:
+      - 'beta*'
 
 jobs:
   build:

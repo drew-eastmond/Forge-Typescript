@@ -3,7 +3,7 @@
     "author": "Drew Eastmond",
     "version": "0.0.1",
     "keywords": [ "forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve" ],
-    "description": "Typescript package for Forge",
+    "description": "Typescript package for Forge ( Beta Test )",
     "bin": "./bin.js",
     "main": "./index.js",
     "exports": {
@@ -20,7 +20,8 @@
         "listen": "node ./bin.js -- [[forge-typescript/listen",
         "clean": "node ./bin.js -- [[forge-typescript/clean",
         "inline": "node ./bin.js -- [[forge-typescript/inline",
-        "npm": "node --inspect ./bin.js [[forge-typescript/npm"
+        "npm": "node --inspect ./bin.js [[forge-typescript/npm",
+        "test": "echo mock testing"
     },
     "license": "ISC",
     "repository": {
