@@ -1,8 +1,21 @@
 {
     "name": "@onyx-ignition/forge-typescript",
     "author": "Drew Eastmond",
-    "version": "0.0.2",
-    "keywords": [ "forge", "onyx-ignition", "typescript", "build", "builder", "d.ts", "esbuild", "tsc", "library", "obfuscate", "minify", "serve" ],
+    "version": "0.0.1",
+    "keywords": [
+        "forge",
+        "onyx-ignition",
+        "typescript",
+        "build",
+        "builder",
+        "d.ts",
+        "esbuild",
+        "tsc",
+        "library",
+        "obfuscate",
+        "minify",
+        "serve"
+    ],
     "description": "Typescript package for Forge ( Beta Test )",
     "bin": "./bin.js",
     "main": "./index.js",
@@ -30,8 +43,9 @@
     },
     "dependencies": {
         "@onyx-ignition/forge": "github:drew-eastmond/Forge",
-        "@onyx-ignition/forge-typescript": "github:drew-eastmond/Forge-Typescript",
+        "@onyx-ignition/forge-typescript": "*",
         "@types/node": "^20.7.2",
+        "@types/react": "^19.1.10",
         "compression": "^1.7.5",
         "esbuild": "^0.25.9",
         "express": "^4.21.2",
@@ -41,7 +55,6 @@
         "sass": "^1.85.0",
         "twig": "^1.17.1",
         "typescript": "^5.9.3",
-        "uglify-js": "^3.19.3",
-        "@types/react": "^19.1.10"
+        "uglify-js": "^3.19.3"
     }
 }

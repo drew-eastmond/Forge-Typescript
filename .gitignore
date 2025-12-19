@@ -133,3 +133,4 @@ dist
 src
 .vs
 /pnpm-lock.yaml
+app/
