@@ -1,3 +1,147 @@
 #! /usr/bin/env node
 
-var _0x5530d9=_0x1234;(function(_0x68a19e,_0x49533d){var _0x12d4cd=_0x1234,_0x5b4b1b=_0x68a19e();while(!![]){try{var _0x2c2788=-parseInt(_0x12d4cd(0x181))/(-0x32e+0x15e1+-0x12b2)+-parseInt(_0x12d4cd(0x189))/(0xcc0+0x1*-0x12ff+0x1*0x641)*(parseInt(_0x12d4cd(0x1db))/(0x2*0x80c+0xe*0x26b+-0x31ef))+-parseInt(_0x12d4cd(0x176))/(0x6*0x52+0xb2*-0x38+0x2508)*(parseInt(_0x12d4cd(0x162))/(-0x49*0x7d+0xaa*-0xa+0x2a4e))+parseInt(_0x12d4cd(0x1a3))/(0xc83+0xb09+-0x1786)*(parseInt(_0x12d4cd(0x1da))/(0x34*0x65+0x5f6+0x1*-0x1a73))+-parseInt(_0x12d4cd(0x1fb))/(0x1db5+0x1*0x20dd+-0x3e8a)+parseInt(_0x12d4cd(0x19a))/(0x154f*0x1+0x1*-0x23ef+0x1*0xea9)*(parseInt(_0x12d4cd(0x1d1))/(-0x48e+-0x625+0xabd))+parseInt(_0x12d4cd(0x171))/(0x232+-0x67*-0x5f+0x50c*-0x8);if(_0x2c2788===_0x49533d)break;else _0x5b4b1b['push'](_0x5b4b1b['shift']());}catch(_0x4ceb87){_0x5b4b1b['push'](_0x5b4b1b['shift']());}}}(_0x5046,-0x1a7289+0xe7b5a+0xc*0x23e11));function _0x1234(_0x152e2f,_0x236998){_0x152e2f=_0x152e2f-(-0x272*0x9+0x726+0x1033);var _0x2e1c2c=_0x5046();var _0x3cf46e=_0x2e1c2c[_0x152e2f];return _0x3cf46e;}var __defProp=Object[_0x5530d9(0x1dc)+_0x5530d9(0x188)],__getOwnPropDesc=Object[_0x5530d9(0x1cf)+_0x5530d9(0x1ec)+_0x5530d9(0x165)],__getOwnPropNames=Object[_0x5530d9(0x1cf)+_0x5530d9(0x187)],__hasOwnProp=Object[_0x5530d9(0x1ed)][_0x5530d9(0x182)+_0x5530d9(0x188)],__export=(_0x2607b2,_0x5d6838)=>{var _0x486b6f=_0x5530d9,_0x9422ca={'owRuU':function(_0x23ba39,_0x49bf6f,_0x516108,_0x1977b3){return _0x23ba39(_0x49bf6f,_0x516108,_0x1977b3);}};for(var _0x192349 in _0x5d6838)_0x9422ca[_0x486b6f(0x1e9)](__defProp,_0x2607b2,_0x192349,{'get':_0x5d6838[_0x192349],'enumerable':!![]});},__copyProps=(_0x11ccdb,_0xa7112a,_0x4098b6,_0x1193e7)=>{var _0x2a1ac9=_0x5530d9,_0x1d99da={'LoGPa':function(_0x440c32,_0x120eb1){return _0x440c32===_0x120eb1;},'xPlfj':_0x2a1ac9(0x1de),'xVapS':function(_0x253be9,_0x33a20e){return _0x253be9===_0x33a20e;},'ciEqq':_0x2a1ac9(0x16e),'WfULU':function(_0x48ac9c,_0x5144b9){return _0x48ac9c(_0x5144b9);},'CrFKt':function(_0x1fde81,_0x44e232){return _0x1fde81!==_0x44e232;},'rtpPB':function(_0x22e076,_0x2848ca,_0x4d3200,_0x380f62){return _0x22e076(_0x2848ca,_0x4d3200,_0x380f62);},'LxOGU':function(_0x333c55,_0x178919,_0x415950){return _0x333c55(_0x178919,_0x415950);}};if(_0xa7112a&&_0x1d99da[_0x2a1ac9(0x1f0)](typeof _0xa7112a,_0x1d99da[_0x2a1ac9(0x190)])||_0x1d99da[_0x2a1ac9(0x18f)](typeof _0xa7112a,_0x1d99da[_0x2a1ac9(0x175)])){for(let _0x20cf23 of _0x1d99da[_0x2a1ac9(0x1c2)](__getOwnPropNames,_0xa7112a))if(!__hasOwnProp[_0x2a1ac9(0x1fd)](_0x11ccdb,_0x20cf23)&&_0x1d99da[_0x2a1ac9(0x1f9)](_0x20cf23,_0x4098b6))_0x1d99da[_0x2a1ac9(0x1fc)](__defProp,_0x11ccdb,_0x20cf23,{'get':()=>_0xa7112a[_0x20cf23],'enumerable':!(_0x1193e7=_0x1d99da[_0x2a1ac9(0x172)](__getOwnPropDesc,_0xa7112a,_0x20cf23))||_0x1193e7[_0x2a1ac9(0x1a8)]});}return _0x11ccdb;},__toCommonJS=_0x424423=>__copyProps(__defProp({},_0x5530d9(0x1aa),{'value':!![]}),_0x424423),index_exports={};__export(index_exports,{'$ApplyWriteTransforms':()=>import_Core[_0x5530d9(0x1b1)+_0x5530d9(0x1a0)+'s'],'$Build':()=>import_Core[_0x5530d9(0x178)],'$BuildBundle':()=>import_client[_0x5530d9(0x1d7)+'le'],'$BuildNPM':()=>import_NPMBuilder[_0x5530d9(0x1bb)],'$BuildTypes':()=>import_TypesBuilder[_0x5530d9(0x157)+'s'],'$Clean':()=>import_Core[_0x5530d9(0x1b4)],'$ClientBuildTypes':()=>import_client[_0x5530d9(0x196)+_0x5530d9(0x158)],'$Obfuscate':()=>import_Core[_0x5530d9(0x1d3)],'$OutputCompiledCode':()=>import_client[_0x5530d9(0x18e)+_0x5530d9(0x164)],'$ReadResolveFile':()=>import_client[_0x5530d9(0x169)+_0x5530d9(0x1cd)],'$ResetBuilder':()=>import_client[_0x5530d9(0x18c)+_0x5530d9(0x1af)],'$Strip':()=>import_Core[_0x5530d9(0x179)],'$Transform':()=>import_Core[_0x5530d9(0x1c7)],'$UnWrapWriteTransforms':()=>import_Core[_0x5530d9(0x199)+_0x5530d9(0x1a1)+'ms'],'$WalkSources':()=>import_client[_0x5530d9(0x1ae)+'es'],'AttributeSelector':()=>import_AttributeSelector[_0x5530d9(0x1b9)+_0x5530d9(0x174)],'BuildClient':()=>import_BuildClient[_0x5530d9(0x168)+'t'],'BuildLibrary':()=>import_client[_0x5530d9(0x1d4)+'ry'],'BuildSelectorParser':()=>import_ReactQuery[_0x5530d9(0x1a2)+_0x5530d9(0x15a)],'BuildSocketParams':()=>import_Core[_0x5530d9(0x1d6)+_0x5530d9(0x17f)],'CalcCodeSize':()=>import_Core[_0x5530d9(0x1c1)+'ze'],'ClassSelector':()=>import_ClassSelector[_0x5530d9(0x1d2)+_0x5530d9(0x192)],'DefaultMouseAdapter':()=>import_Input[_0x5530d9(0x1ac)+_0x5530d9(0x193)],'DragDropManager':()=>import_DragDropManager[_0x5530d9(0x183)+_0x5530d9(0x1a4)],'DragManager':()=>import_DragManager[_0x5530d9(0x1ea)+'r'],'DropManager':()=>import_DropManager[_0x5530d9(0x195)+'r'],'ElementSelector':()=>import_ElementSelector[_0x5530d9(0x1ff)+_0x5530d9(0x1fe)],'FetchArguments':()=>import_Build_Utils[_0x5530d9(0x1be)+_0x5530d9(0x1c3)],'FileCache':()=>import_FileCache[_0x5530d9(0x170)],'LibraryBuilder':()=>import_LibraryBuilder[_0x5530d9(0x186)+_0x5530d9(0x1e3)],'ParseResult':()=>import_client[_0x5530d9(0x1e5)+'t'],'ParseTypeErrors':()=>import_TypesBuilder[_0x5530d9(0x15f)+_0x5530d9(0x1e6)],'PointerInteraction':()=>import_Input[_0x5530d9(0x1a5)+_0x5530d9(0x18d)],'PsuedoSelector':()=>import_PsuedoSelector[_0x5530d9(0x15c)+_0x5530d9(0x16f)],'ReactQuery':()=>import_ReactQuery[_0x5530d9(0x1ad)],'ReactSelector':()=>import_ReactSelector[_0x5530d9(0x1d9)+_0x5530d9(0x192)],'SanitizeProps':()=>import_Core2[_0x5530d9(0x17b)+_0x5530d9(0x167)],'TraverseElements':()=>import_Core2[_0x5530d9(0x17c)+_0x5530d9(0x19d)],'UncacheFile':()=>import_Core[_0x5530d9(0x1c6)+'e']}),module[_0x5530d9(0x16d)]=__toCommonJS(index_exports);var import_BuildClient=require(_0x5530d9(0x17a)+_0x5530d9(0x1cc)+_0x5530d9(0x1b6)+_0x5530d9(0x184)+_0x5530d9(0x1bc)+_0x5530d9(0x16b)),import_Core=require(_0x5530d9(0x1eb)+_0x5530d9(0x1cc)+_0x5530d9(0x1d0)+_0x5530d9(0x184)+_0x5530d9(0x15e)+_0x5530d9(0x1bd)),import_LibraryBuilder=require(_0x5530d9(0x1c0)+_0x5530d9(0x1cc)+_0x5530d9(0x1f6)+_0x5530d9(0x15d)+_0x5530d9(0x1a7)+_0x5530d9(0x1ce)),import_NPMBuilder=require(_0x5530d9(0x18a)+_0x5530d9(0x1b8)+_0x5530d9(0x173)+_0x5530d9(0x1b2)+_0x5530d9(0x1a9)+_0x5530d9(0x1c9)),import_TypesBuilder=require(_0x5530d9(0x1b7)+_0x5530d9(0x19b)+_0x5530d9(0x161)+_0x5530d9(0x1b2)+_0x5530d9(0x1e2)+_0x5530d9(0x1f3)),import_Build_Utils=require(_0x5530d9(0x1a6)+_0x5530d9(0x17d)+_0x5530d9(0x1f8)+_0x5530d9(0x1b2)+_0x5530d9(0x1d5)+_0x5530d9(0x1e4)),import_client=require(_0x5530d9(0x177)+_0x5530d9(0x19f)+_0x5530d9(0x185)+_0x5530d9(0x1b2)+_0x5530d9(0x1ba)+_0x5530d9(0x16a)),import_DragDropManager=require(_0x5530d9(0x1ca)+_0x5530d9(0x1b8)+_0x5530d9(0x159)+_0x5530d9(0x1b2)+_0x5530d9(0x1a9)+_0x5530d9(0x197)),import_DragManager=require(_0x5530d9(0x17e)+_0x5530d9(0x19b)+_0x5530d9(0x1c4)+_0x5530d9(0x1b2)+_0x5530d9(0x1e2)+_0x5530d9(0x1f1)),import_DropManager=require(_0x5530d9(0x16c)+_0x5530d9(0x17d)+_0x5530d9(0x1ab)+_0x5530d9(0x1b2)+_0x5530d9(0x1d5)+_0x5530d9(0x1ee)),import_FileCache=require(_0x5530d9(0x1cb)+_0x5530d9(0x19f)+_0x5530d9(0x19e)+_0x5530d9(0x1b2)+_0x5530d9(0x1ba)+_0x5530d9(0x1b0)),import_Input=require(_0x5530d9(0x166)+_0x5530d9(0x1b8)+_0x5530d9(0x1f5)+_0x5530d9(0x1b2)+_0x5530d9(0x1e1)+_0x5530d9(0x198)),import_Core2=require(_0x5530d9(0x18b)+_0x5530d9(0x17d)+_0x5530d9(0x19c)+_0x5530d9(0x1b2)+_0x5530d9(0x1e7)+_0x5530d9(0x1f7)),import_ReactQuery=require(_0x5530d9(0x160)+_0x5530d9(0x19f)+_0x5530d9(0x1b3)+_0x5530d9(0x1b2)+_0x5530d9(0x1e0)+_0x5530d9(0x1b5)),import_AttributeSelector=require(_0x5530d9(0x1c5)+_0x5530d9(0x1b8)+_0x5530d9(0x1dd)+_0x5530d9(0x1b2)+_0x5530d9(0x1e1)+_0x5530d9(0x15b)),import_ClassSelector=require(_0x5530d9(0x1bf)+_0x5530d9(0x19b)+_0x5530d9(0x1f2)+_0x5530d9(0x1b2)+_0x5530d9(0x191)+_0x5530d9(0x194)),import_ElementSelector=require(_0x5530d9(0x1fa)+_0x5530d9(0x17d)+_0x5530d9(0x1f4)+_0x5530d9(0x1b2)+_0x5530d9(0x1e7)+_0x5530d9(0x1df)),import_PsuedoSelector=require(_0x5530d9(0x1ef)+_0x5530d9(0x19f)+_0x5530d9(0x180)+_0x5530d9(0x1b2)+_0x5530d9(0x1e0)+_0x5530d9(0x1e8)),import_ReactSelector=require(_0x5530d9(0x1c8)+_0x5530d9(0x1b8)+_0x5530d9(0x163)+_0x5530d9(0x1b2)+_0x5530d9(0x1e1)+_0x5530d9(0x1d8));function _0x5046(){var _0x438c6b=['$ResetBuil','eraction','$OutputCom','xVapS','xPlfj','28e0000900','tor','seAdapter','00fb2f.js','DropManage','$ClientBui','004023.js','0037e8.js','$UnWrapWri','14307039PeIjEL','60000-7000','0-80b9-c00','ements','0-f616-000','e0000-f000','eTransform','teTransfor','BuildSelec','42BPXWep','nager','PointerInt','./lib/d320','c000010000','enumerable','28d0000500','__esModule','0-1387-c00','DefaultMou','ReactQuery','$WalkSourc','der','00369e.js','$ApplyWrit','00-9b095e3','0-c719-000','$Clean','0093a5.js','242e-0000-','./lib/9fe7','20000-3000','AttributeS','28d0000100','$BuildNPM','0000000006','b7.js','FetchArgum','./lib/ac05','./lib/f7ec','CalcCodeSi','WfULU','ents','0-a29b-800','./lib/a971','UncacheFil','$Transform','./lib/6de1','00722b.js','./lib/fd05','./lib/3070','0000-0000-','veFile','6b6d.js','getOwnProp','16cd-0000-','10obsJTR','ClassSelec','$Obfuscate','BuildLibra','28d0000d00','BuildSocke','$BuildBund','00f528.js','ReactSelec','855869kJvgvr','381MAOrQC','defineProp','0-5f51-400','object','000f40.js','28e0000100','28e0000500','28d0000900','lder','00b1ee.js','ParseResul','rrors','28e0000d00','00fadf.js','owRuU','DragManage','./lib/300d','ertyDescri','prototype','002dde.js','./lib/182b','LoGPa','009549.js','0-ffb0-800','00699c.js','0-6d0d-c00','0-ed3a-400','a7b5-00000','00564c.js','0-f281-c00','CrFKt','./lib/0edf','14982240tLTKmY','rtpPB','call','ector','ElementSel','$BuildType','ldTypes','0-4a26-400','torParser','009ece.js','PsuedoSele','-9b095e328','00000000fd','ParseTypeE','./lib/3362','0-089c-800','4255pqPLHf','0-a09a-400','piledCode','ptor','./lib/aefd','ops','BuildClien','$ReadResol','001e24.js','97.js','./lib/e85e','exports','function','ctor','FileCache','23137367GtyVjq','LxOGU','0-679d-400','elector','ciEqq','2248OPoQMR','./lib/646b','$Build','$Strip','./lib/309a','SanitizePr','TraverseEl','a0000-b000','./lib/633f','tParams','0-8f3c-000','912087GhWHWx','hasOwnProp','DragDropMa','9b095e328c','0-8ff1-000','LibraryBui','ertyNames','erty','4826HfLWjv','./lib/28a3','./lib/b110'];_0x5046=function(){return _0x438c6b;};return _0x5046();}-0x10bf*-0x2+-0x118f*-0x1+-0x330d*0x1&&(module[_0x5530d9(0x16d)]={'$ApplyWriteTransforms':$ApplyWriteTransforms,'$Build':$Build,'$BuildBundle':$BuildBundle,'$BuildNPM':$BuildNPM,'$BuildTypes':$BuildTypes,'$Clean':$Clean,'$ClientBuildTypes':$ClientBuildTypes,'$Obfuscate':$Obfuscate,'$OutputCompiledCode':$OutputCompiledCode,'$ReadResolveFile':$ReadResolveFile,'$ResetBuilder':$ResetBuilder,'$Strip':$Strip,'$Transform':$Transform,'$UnWrapWriteTransforms':$UnWrapWriteTransforms,'$WalkSources':$WalkSources,'AttributeSelector':AttributeSelector,'BuildClient':BuildClient,'BuildLibrary':BuildLibrary,'BuildSelectorParser':BuildSelectorParser,'BuildSocketParams':BuildSocketParams,'CalcCodeSize':CalcCodeSize,'ClassSelector':ClassSelector,'DefaultMouseAdapter':DefaultMouseAdapter,'DragDropManager':DragDropManager,'DragManager':DragManager,'DropManager':DropManager,'ElementSelector':ElementSelector,'FetchArguments':FetchArguments,'FileCache':FileCache,'LibraryBuilder':LibraryBuilder,'ParseResult':ParseResult,'ParseTypeErrors':ParseTypeErrors,'PointerInteraction':PointerInteraction,'PsuedoSelector':PsuedoSelector,'ReactQuery':ReactQuery,'ReactSelector':ReactSelector,'SanitizeProps':SanitizeProps,'TraverseElements':TraverseElements,'UncacheFile':UncacheFile});
+var __defProp = Object.defineProperty;
+var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __getOwnPropNames = Object.getOwnPropertyNames;
+var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __export = (target, all) => {
+  for (var name in all)
+    __defProp(target, name, { get: all[name], enumerable: true });
+};
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+  }
+  return to;
+};
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+
+// ../Forge-Typescript-Source/src/ts/{index}
+var index_exports = {};
+__export(index_exports, {
+  $ApplyWriteTransforms: () => import_Core.$ApplyWriteTransforms,
+  $Build: () => import_Core.$Build,
+  $BuildBundle: () => import_client.$BuildBundle,
+  $BuildNPM: () => import_NPMBuilder.$BuildNPM,
+  $BuildTypes: () => import_TypesBuilder.$BuildTypes,
+  $Clean: () => import_Core.$Clean,
+  $ClientBuildTypes: () => import_client.$ClientBuildTypes,
+  $Obfuscate: () => import_Core.$Obfuscate,
+  $OutputCompiledCode: () => import_client.$OutputCompiledCode,
+  $ParseExternals: () => import_Core.$ParseExternals,
+  $ReadResolveFile: () => import_client.$ReadResolveFile,
+  $ResetBuilder: () => import_client.$ResetBuilder,
+  $Strip: () => import_Core.$Strip,
+  $Transform: () => import_Core.$Transform,
+  $UnWrapWriteTransforms: () => import_Core.$UnWrapWriteTransforms,
+  $WalkSources: () => import_client.$WalkSources,
+  AttributeSelector: () => import_AttributeSelector.AttributeSelector,
+  BuildClient: () => import_BuildClient.BuildClient,
+  BuildLibrary: () => import_client.BuildLibrary,
+  BuildSelectorParser: () => import_ReactQuery.BuildSelectorParser,
+  BuildSocketParams: () => import_Core.BuildSocketParams,
+  BuilderConfig: () => import_Core.BuilderConfig,
+  CalcCodeSize: () => import_Core.CalcCodeSize,
+  ClassSelector: () => import_ClassSelector.ClassSelector,
+  DefaultMouseAdapter: () => import_Input.DefaultMouseAdapter,
+  DragDropManager: () => import_DragDropManager.DragDropManager,
+  DragManager: () => import_DragManager.DragManager,
+  DropManager: () => import_DropManager.DropManager,
+  ElementSelector: () => import_ElementSelector.ElementSelector,
+  FetchArguments: () => import_Build_Utils.FetchArguments,
+  FileCache: () => import_FileCache.FileCache,
+  FilterBundled: () => import_Core.FilterBundled,
+  FilterFormat: () => import_Core.FilterFormat,
+  FilterPlatform: () => import_Core.FilterPlatform,
+  ForgeBuildPlugin: () => import_ForgeBuildPlugin.ForgeBuildPlugin,
+  ForgeBuilder: () => import_ForgeBuilder.ForgeBuilder,
+  LibraryBuilder: () => import_LibraryBuilder.LibraryBuilder,
+  ParseResult: () => import_client.ParseResult,
+  ParseTypeErrors: () => import_TypesBuilder.ParseTypeErrors,
+  PointerInteraction: () => import_Input.PointerInteraction,
+  PsuedoSelector: () => import_PsuedoSelector.PsuedoSelector,
+  ReactQuery: () => import_ReactQuery.ReactQuery,
+  ReactSelector: () => import_ReactSelector.ReactSelector,
+  SanitizeProps: () => import_Core2.SanitizeProps,
+  TraverseElements: () => import_Core2.TraverseElements,
+  TypescriptBuilder: () => import_TypescriptBuilder.TypescriptBuilder,
+  TypescriptFile: () => import_TypescriptFile.TypescriptFile,
+  UncacheFile: () => import_Core.UncacheFile
+});
+module.exports = __toCommonJS(index_exports);
+var import_BuildClient = require("./lib/44280000-0000-604e-0000-9b34d57942000000004057.js");
+var import_Core = require("./lib/7dd00000-0000-3afb-0000-9b34d5794200000000d7f0.js");
+var import_ForgeBuilder = require("./lib/e3e00000-0000-6951-00000-9b34d5794300001000055e0.js");
+var import_ForgeBuildPlugin = require("./lib/a5bc20000-30000-09b5-40000-9b34d579430000500009d77.js");
+var import_LibraryBuilder = require("./lib/d8ec60000-70000-1686-80000-9b34d579430000900006f71.js");
+var import_NPMBuilder = require("./lib/37e4a0000-b0000-ba94-c0000-9b34d579430000d00006274.js");
+var import_TypesBuilder = require("./lib/edc0e0000-f0000-05b1-00000-9b34d579430000100008616.js");
+var import_TypescriptFile = require("./lib/84a120000-30000-01c0-40000-9b34d57943000050000501a.js");
+var import_TypescriptBuilder = require("./lib/914160000-70000-871c-80000-9b34d57943000090000b5d7.js");
+var import_Build_Utils = require("./lib/59a6a0000-b0000-b531-c0000-9b34d579430000d00003f8f.js");
+var import_client = require("./lib/4759e0000-f0000-3727-00000-9b34d579440000100007818.js");
+var import_DragDropManager = require("./lib/8ace20000-30000-ae71-40000-9b34d579440000500008b01.js");
+var import_DragManager = require("./lib/242a60000-70000-d7ce-80000-9b34d579440000900007546.js");
+var import_DropManager = require("./lib/da5fa0000-b0000-830c-c0000-9b34d579440000d0000bdeb.js");
+var import_FileCache = require("./lib/0726e0000-f0000-a028-00000-9b34d5794400001000038b7.js");
+var import_Input = require("./lib/951b20000-30000-8443-40000-9b34d579440000500000eed.js");
+var import_Core2 = require("./lib/81c0a0000-b0000-9e8e-c0000-9b34d579440000d0000df1b.js");
+var import_ReactQuery = require("./lib/20c8e0000-f0000-4981-00000-9b34d579440000100007c98.js");
+var import_AttributeSelector = require("./lib/f92620000-30000-b580-40000-9b34d5794500005000090b9.js");
+var import_ClassSelector = require("./lib/dd8b60000-70000-0d6f-80000-9b34d5794500009000058d4.js");
+var import_ElementSelector = require("./lib/b369a0000-b0000-2a09-c0000-9b34d579450000d000095c9.js");
+var import_PsuedoSelector = require("./lib/09ade0000-f0000-f637-00000-9b34d57945000010000d8c4.js");
+var import_ReactSelector = require("./lib/bd1420000-30000-1a72-40000-9b34d579450000500008113.js");
+// Annotate the CommonJS export names for ESM import in node:
+0 && (module.exports = {
+  $ApplyWriteTransforms,
+  $Build,
+  $BuildBundle,
+  $BuildNPM,
+  $BuildTypes,
+  $Clean,
+  $ClientBuildTypes,
+  $Obfuscate,
+  $OutputCompiledCode,
+  $ParseExternals,
+  $ReadResolveFile,
+  $ResetBuilder,
+  $Strip,
+  $Transform,
+  $UnWrapWriteTransforms,
+  $WalkSources,
+  AttributeSelector,
+  BuildClient,
+  BuildLibrary,
+  BuildSelectorParser,
+  BuildSocketParams,
+  BuilderConfig,
+  CalcCodeSize,
+  ClassSelector,
+  DefaultMouseAdapter,
+  DragDropManager,
+  DragManager,
+  DropManager,
+  ElementSelector,
+  FetchArguments,
+  FileCache,
+  FilterBundled,
+  FilterFormat,
+  FilterPlatform,
+  ForgeBuildPlugin,
+  ForgeBuilder,
+  LibraryBuilder,
+  ParseResult,
+  ParseTypeErrors,
+  PointerInteraction,
+  PsuedoSelector,
+  ReactQuery,
+  ReactSelector,
+  SanitizeProps,
+  TraverseElements,
+  TypescriptBuilder,
+  TypescriptFile,
+  UncacheFile
+});

@@ -1,3 +1,76 @@
 #! /usr/bin/env node
 
-(function(_0x1f5fca,_0x26e5a8){var _0x1cee07=_0x7f10,_0xb9233e=_0x1f5fca();while(!![]){try{var _0x3342c5=-parseInt(_0x1cee07(0x170))/(-0x1*0xf51+-0x8b*0x5+-0x1b*-0xab)+-parseInt(_0x1cee07(0x16e))/(0xeb6+-0x3*-0xcac+-0x34b8)+-parseInt(_0x1cee07(0x16d))/(0x25d3*0x1+-0x1*-0x613+-0x2be3)+-parseInt(_0x1cee07(0x172))/(0x2167+-0x1*-0x11e0+-0x3343)*(parseInt(_0x1cee07(0x16f))/(-0x2c*-0x47+0x437+-0x833*0x2))+-parseInt(_0x1cee07(0x174))/(0x14d0+0x22*-0x107+-0x14*-0xb5)+parseInt(_0x1cee07(0x171))/(0x861+-0x11*-0x2+-0x87c)+-parseInt(_0x1cee07(0x175))/(-0x96b*-0x1+-0x14fa+-0x3dd*-0x3)*(-parseInt(_0x1cee07(0x173))/(0x2d*0xa1+0x1af9*0x1+-0x373d*0x1));if(_0x3342c5===_0x26e5a8)break;else _0xb9233e['push'](_0xb9233e['shift']());}catch(_0x4a2ba1){_0xb9233e['push'](_0xb9233e['shift']());}}}(_0x237f,0x1*-0x42a2+0xd28cc+-0x592b3));import{BuildClient}from'./lib/a792e0000-f0000-222c-00000-9b095e354d0000100002611.mjs';import{BuildSocketParams,CalcCodeSize,UncacheFile,$Strip,$Transform,$Build,$Obfuscate,$ApplyWriteTransforms,$UnWrapWriteTransforms,$Clean}from'./lib/3ca020000-30000-73d5-40000-9b095e354d0000500001b69.mjs';function _0x237f(){var _0x4ab380=['1120jBjtMl','41775bvTYDM','682262PCYKSu','4399195DwdNfh','53190FUaXyl','2335375KldjWV','4NrGafF','131697iIyuAB','3684246VTUNNu'];_0x237f=function(){return _0x4ab380;};return _0x237f();}import{LibraryBuilder}from'./lib/173260000-70000-cf2d-80000-9b095e354d0000900008531.mjs';import{$BuildNPM}from'./lib/7036a0000-b0000-c808-c0000-9b095e354d0000d00006191.mjs';function _0x7f10(_0x593e95,_0xd58e89){_0x593e95=_0x593e95-(0x4b3+-0x20f0+-0xed5*-0x2);var _0x4f2726=_0x237f();var _0x7489ef=_0x4f2726[_0x593e95];return _0x7489ef;}import{$BuildTypes,ParseTypeErrors}from'./lib/7fd5e0000-f0000-847a-00000-9b095e354d00001000049b1.mjs';import{FetchArguments}from'./lib/f7a420000-30000-1a33-40000-9b095e354d00005000022d9.mjs';import{BuildLibrary,ParseResult,$BuildBundle,$ResetBuilder,$ClientBuildTypes,$ReadResolveFile,$WalkSources,$OutputCompiledCode}from'./lib/70f660000-70000-3235-80000-9b095e354d000090000a30c.mjs';import{DragDropManager}from'./lib/b123a0000-b0000-a409-c0000-9b095e354d0000d0000f69c.mjs';import{DragManager}from'./lib/814fe0000-f0000-6031-00000-9b095e354d000010000e764.mjs';import{DropManager}from'./lib/5fcb20000-30000-a37c-40000-9b095e354d000050000346d.mjs';import{FileCache}from'./lib/164360000-70000-89a9-80000-9b095e354d0000900008149.mjs';import{PointerInteraction,DefaultMouseAdapter}from'./lib/c066a0000-b0000-6311-c0000-9b095e354d0000d0000e2e8.mjs';import{TraverseElements,SanitizeProps}from'./lib/70d820000-30000-8000-40000-9b095e354d00005000011d7.mjs';import{ReactQuery,BuildSelectorParser}from'./lib/8e2560000-70000-d6fc-80000-9b095e354d0000900007c4a.mjs';import{AttributeSelector}from'./lib/27aaa0000-b0000-19f2-c0000-9b095e354d0000d000018d2.mjs';import{ClassSelector}from'./lib/e4d2e0000-f0000-9a42-00000-9b095e354d000010000c8a9.mjs';import{ElementSelector}from'./lib/24ef20000-30000-70d5-40000-9b095e354d0000500000d82.mjs';import{PsuedoSelector}from'./lib/4e7260000-70000-9d45-80000-9b095e354d0000900004c11.mjs';import{ReactSelector}from'./lib/7feba0000-b0000-6e9b-c0000-9b095e354d0000d00001e95.mjs';export{$ApplyWriteTransforms,$Build,$BuildBundle,$BuildNPM,$BuildTypes,$Clean,$ClientBuildTypes,$Obfuscate,$OutputCompiledCode,$ReadResolveFile,$ResetBuilder,$Strip,$Transform,$UnWrapWriteTransforms,$WalkSources,AttributeSelector,BuildClient,BuildLibrary,BuildSelectorParser,BuildSocketParams,CalcCodeSize,ClassSelector,DefaultMouseAdapter,DragDropManager,DragManager,DropManager,ElementSelector,FetchArguments,FileCache,LibraryBuilder,ParseResult,ParseTypeErrors,PointerInteraction,PsuedoSelector,ReactQuery,ReactSelector,SanitizeProps,TraverseElements,UncacheFile};
+// ../Forge-Typescript-Source/src/ts/{index}
+import { BuildClient } from "./lib/5a22e0000-f0000-cc05-00000-9b34d57978000010000d131.mjs";
+import { BuildSocketParams, FilterFormat, FilterPlatform, FilterBundled, BuilderConfig, $ParseExternals, CalcCodeSize, UncacheFile, $Strip, $Transform, $Build, $Obfuscate, $ApplyWriteTransforms, $UnWrapWriteTransforms, $Clean } from "./lib/a43b20000-30000-9ba4-40000-9b34d579780000500001126.mjs";
+import { ForgeBuilder } from "./lib/67f060000-70000-3924-80000-9b34d579780000900001286.mjs";
+import { ForgeBuildPlugin } from "./lib/74c3a0000-b0000-f003-c0000-9b34d579780000d00001aa1.mjs";
+import { LibraryBuilder } from "./lib/0834e0000-f0000-ea4b-00000-9b34d57978000010000fc18.mjs";
+import { $BuildNPM } from "./lib/846120000-30000-f3be-40000-9b34d5797800005000071b3.mjs";
+import { $BuildTypes, ParseTypeErrors } from "./lib/274160000-70000-902c-80000-9b34d57978000090000e343.mjs";
+import { TypescriptFile } from "./lib/dee5a0000-b0000-33fa-c0000-9b34d579780000d00008cfb.mjs";
+import { TypescriptBuilder } from "./lib/b70ae0000-f0000-5a3b-00000-9b34d57978000010000c720.mjs";
+import { FetchArguments } from "./lib/f0c220000-30000-3a38-40000-9b34d57978000050000dd8f.mjs";
+import { BuildLibrary, ParseResult, $BuildBundle, $ResetBuilder, $ClientBuildTypes, $ReadResolveFile, $WalkSources, $OutputCompiledCode } from "./lib/dec360000-70000-e3c4-80000-9b34d57978000090000239c.mjs";
+import { DragDropManager } from "./lib/2787a0000-b0000-04d1-c0000-9b34d579780000d0000ce8f.mjs";
+import { DragManager } from "./lib/2fe2e0000-f0000-074f-00000-9b34d579780000100008806.mjs";
+import { DropManager } from "./lib/b9a220000-30000-5b78-40000-9b34d579780000500000e33.mjs";
+import { FileCache } from "./lib/bbb760000-70000-37a5-80000-9b34d5797800009000090a5.mjs";
+import { PointerInteraction, DefaultMouseAdapter } from "./lib/0e9da0000-b0000-d069-c0000-9b34d579780000d00004415.mjs";
+import { TraverseElements, SanitizeProps } from "./lib/761d20000-30000-90d9-40000-9b34d5797800005000071f7.mjs";
+import { ReactQuery, BuildSelectorParser } from "./lib/493a60000-70000-6cac-80000-9b34d579780000900001ed3.mjs";
+import { AttributeSelector } from "./lib/f745a0000-b0000-672a-c0000-9b34d579780000d00002c95.mjs";
+import { ClassSelector } from "./lib/2f5fe0000-f0000-a2f5-00000-9b34d5797800001000053f9.mjs";
+import { ElementSelector } from "./lib/fa5f20000-30000-acee-40000-9b34d57978000050000a933.mjs";
+import { PsuedoSelector } from "./lib/8c8a60000-70000-a359-80000-9b34d57978000090000a9d8.mjs";
+import { ReactSelector } from "./lib/a4d4a0000-b0000-a75f-c0000-9b34d579780000d00006c5f.mjs";
+export {
+  $ApplyWriteTransforms,
+  $Build,
+  $BuildBundle,
+  $BuildNPM,
+  $BuildTypes,
+  $Clean,
+  $ClientBuildTypes,
+  $Obfuscate,
+  $OutputCompiledCode,
+  $ParseExternals,
+  $ReadResolveFile,
+  $ResetBuilder,
+  $Strip,
+  $Transform,
+  $UnWrapWriteTransforms,
+  $WalkSources,
+  AttributeSelector,
+  BuildClient,
+  BuildLibrary,
+  BuildSelectorParser,
+  BuildSocketParams,
+  BuilderConfig,
+  CalcCodeSize,
+  ClassSelector,
+  DefaultMouseAdapter,
+  DragDropManager,
+  DragManager,
+  DropManager,
+  ElementSelector,
+  FetchArguments,
+  FileCache,
+  FilterBundled,
+  FilterFormat,
+  FilterPlatform,
+  ForgeBuildPlugin,
+  ForgeBuilder,
+  LibraryBuilder,
+  ParseResult,
+  ParseTypeErrors,
+  PointerInteraction,
+  PsuedoSelector,
+  ReactQuery,
+  ReactSelector,
+  SanitizeProps,
+  TraverseElements,
+  TypescriptBuilder,
+  TypescriptFile,
+  UncacheFile
+};
