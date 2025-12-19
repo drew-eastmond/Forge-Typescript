@@ -43,7 +43,6 @@
     },
     "dependencies": {
         "@onyx-ignition/forge": "github:drew-eastmond/Forge",
-        "@onyx-ignition/forge-typescript": "*",
         "@types/node": "^20.7.2",
         "@types/react": "^19.1.10",
         "compression": "^1.7.5",
