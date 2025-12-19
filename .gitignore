@@ -132,5 +132,4 @@ dist
 # local stuff
 src
 .vs
-/package-lock.json
 /pnpm-lock.yaml
