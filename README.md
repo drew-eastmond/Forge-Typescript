@@ -119,6 +119,3 @@ if (result.success == true) {
 }
 
 ```
-
-
-npm run npm -- [[files]] ../Forge-Typescript-Source/src/ts/*/** [[out]] ./ [[ignore]] ../Forge-Typescript-Source/src/ts/formless/*/** [[alias]] [directories.@ts] ../Forge-Typescript-Source/src/ts [directories.@tsx] ..\Forge-Typescript-Source\src\tsx\ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ../Forge-Typescript-Source/src/ts/bin.ts [[transform]] [write.obfuscatell [[clean [[library]] [root] ../Forge-Typescript-Source/src/ts [name] @onyx-ignition/forge-typescript [[manifest
