@@ -125,7 +125,6 @@ declare module "@onyx-ignition/forge-typescript" {
 	export function $Obfuscate(code: string): Promise<string>;
 	export function $ApplyWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
 	export function $UnWrapWriteTransforms(code: string, options: ForgeBuilderOptions): Promise<string>;
-	export function $Clean(): Promise<void>;
 	
 	
 	
