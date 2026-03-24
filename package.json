@@ -27,13 +27,11 @@
         }
     },
     "scripts": {
-        "types": "node --inspect ./bin.js -- [[forge-typescript/types",
-        "build": "node ./bin.js -- [[forge-typescript/build",
-        "library": "node --inspect ./bin.js [[forge-typescript/library",
-        "listen": "node ./bin.js -- [[forge-typescript/listen",
-        "clean": "node ./bin.js -- [[forge-typescript/clean",
-        "inline": "node ./bin.js -- [[forge-typescript/inline",
-        "npm": "node --inspect ./bin.js [[forge-typescript/npm",
+        "types": "node ./bin.js -- [forge] [[types",
+        "build": "node ./bin.js -- [forge] [[build",
+        "library": "node ./bin.js [forge] [[library",
+        "npm": "node ./bin.js [forge] [[npm",
+        "start": "node ./bin.js -- [forge] [[start",
         "test": "echo mock testing"
     },
     "license": "ISC",
