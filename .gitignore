@@ -136,7 +136,6 @@ src
 app
 package-lock.json
 stdin/
-lib/
 dist/
 bootstrap.js
 *.js.map
