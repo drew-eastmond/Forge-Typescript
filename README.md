@@ -1,45 +1,37 @@
-# Forge-Typescript ( beta release )
+# Forge-Typescript ( beta release with documentation pending March 24, 2026 )
 
-Typescript Builder Package for Forge Workflow Orchestrator. Currently the CLI interface, serve
+Typescript Builder Package for Forge Workflow Orchestrator. Currently the CLI interface has had massive updates for QOL developer features. This includes data packaging via `ArgumentPackage` class assist transporting data ( extending the props drilling paradigm ). These argument packages makes merging parameters easy from multiuple sources by using fragments of data.
 
-## Command Line Interface Routes
-
-## CLI Quick Guide
+## Command Line Interface Routes ( CLI Quick Guide )
 
 ### Generate Types ( d.ts )
 
-`$ npx @onyx-ignition/forge-typescript [[types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
+`$ npx @onyx-ignition/forge-typescript [forge] [[types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
 
-`$ npm run types [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
+`$ npm run types [forge] [[files]] ./src/ts/*/** [[name]] forge/example [[out]] ./forge.d.ts`
 
-### Build and Bundle ( also exclude package.json dependencies via keys )
+### Build and Bundle ( also exclude package.json dependencies via keys retrieval protocol )
 
-`$ npx @onyx-ignition/forge-typescript [[build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
+`$ npx @onyx-ignition/forge-typescript [[build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys(dependencies)://./package.json`
 
-`$ node run build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
+`$ node run build [[entry]] ./src/ts/index.ts [[out]] ./index.js [[platform]] node [[format]] esm [[external]] json.keys(dependencies)://./package.json`
 
-### Build Library Export ( also exclude package.json dependencies via keys )
+### Build Library Export ( also exclude package.json dependencies via keys retrieval protocol )
 
-`$ npx @onyx-ignition/forge-typescript [[library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+`$ npx @onyx-ignition/forge-typescript [forge] [[library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
 
-`$ node run library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies`
+`$ node run library [[files]] ./src/ts/*/** [forge] [[out]] ./dist/ [[platform]] node [[format]] esm [[external]] json.keys://./package.json::dependencies`
 
 
 ### Build NPM/NPX Package ( also exclude package.json dependencies via keys )
 
-`$ npx @onyx-ignition/forge-typescript [[npm [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
+`$ npx @onyx-ignition/forge-typescript [forge] [[npm [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
 
-`$ npm run npm [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [entry] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
+`$ npm run npm [forge] [[files]] ./src/ts/*/** [[out]] ./dist/ [[external]] json.keys://./package.json::dependencies [[bin]] [[[entry]]] ./src/ts/bin.ts [[library]] [root] ./src/ts/ [name] forge/example`
 
-## Clean
+# Advanced usaged and Parameters
 
-Recursively deletes all files in the internal temporary folders. Executed before any following route are processed.
-
-`$ node run clean` 
-
-or
-
-`$ node run library [[files]] ./src/ts/*/** [[out]] ./dist/ [[platform]] node [[forma]] esm [[external]] json.keys://./package.json::dependencies [[clean`
+Although these parameters are still relevent. This is not an exhaustive list of all parameters. Since  Partially retired in favour of `ArgumentPackage`. 
 
 ## Generate Types ( d.ts )
 
@@ -47,9 +39,9 @@ Compile and bundle all files provided via the following arguments `{ files, name
 
 | Argument  | values | Description|
 | ------------- | :-------------: | ------------- |
-| `files`, `ignore`      | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets.     |
-| `name`      | string    | Used the decalre the namespace in `declare module` statement.  |
-| `out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
+| `forge.files`, `builder.ignore`      | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets.     |
+| `forge.name`      | string    | Used the decalre the namespace in `declare module` statement.  |
+| `forge.out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
 
 ## Build
 
@@ -57,10 +49,11 @@ Using an entry file. Builds and bundles files. Build does not support aliases li
 
 | Argument  | values | Description|
 | ------------- | :-------------: | ------------- |
-| `entry`      | file | Entry file for build process.     |
-| `out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
-| `format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
-| `platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
+| `forge.entry`      | file | Entry file for build process.     |
+| `forge.out`      | file     | _(  Optional )_ argument to target to write or default to stdout. |
+| `builder.format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
+| `builder.platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
+| `builder.external`   | string, json://, json.keys()://, json.values()     | External files to exclude it from your build. If your suppy `json.keys(dependencies)://package.json` You can load a json file and traverse and mount it to the appropriate keys, properties, or array values.   |
 
 | Flags  | Description|
 | ------------- | ------------- |
@@ -74,29 +67,30 @@ Export all files provided via the following arguments `{ files, library: { root 
 
 | Argument  | values | Description |
 | ------------- | :-------------: | ------------- |
-| `files`, `ignore`     | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets. |
-| `library.root`        | string    | All files will use this as a base when resolving file location to import/export   |
-| `alias.files`         | Record<string, string>     | This will resolves aliases during imports |
-| `alias.directores`   | Record<string, string>     | This will resolves aliases for directories during imports |
-| `external`   | string, json://file::props...     | External files to exclude it from your build. If your suppy `json.keys://package.json::dependencies` You can load a json file and tarverse to the appropriate keys, properties, or array values.   |
-| `format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
-| `platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
+| `files`, `builder.ignore`     | ( file \| glob )[] | Comma seperated file list. Also will resolve glob targets. |
+| `root`        | string    | All files will use this as a base when resolving file location to import/export   |
+| `builder.alias.files`         | Record<string, string>     | This will resolves aliases during imports |
+| `builder.alias.directores`   | Record<string, string>     | This will resolves aliases for directories during imports |
+| `builder.external`   | string, json://, json.keys()://, json.values()     | External files to exclude it from your build. If your suppy `json.keys(dependencies)://package.json` You can load a json file and traverse and mount it to the appropriate keys, properties, or array values.   |
+| `builder.format`      | "cjs" \| "esm" \| "iife" | The format to use while bundling.    |
+| `builder.platform`      | "node" \| "neutral" \| "browser" | The target platform to optimize imports.    |
 
 | Flags  | Description|
 | ------------- | ------------- |
-| `Transform.write.obfuscate` | All code produce is obfuscated using default values.     |
+| `builder.transform.write.obfuscate` | All code produce is obfuscated using default values.     |
 
-## Inline execution of files
+
+# Examples
+
+## Programatic transformation of source code
 
 transform and execute a script inline. Provides the finest control over `@onyx-ignition/forge-typescript`. More documentation and examples to come
 
-| Argument  | values | Description|
-| ------------- | :-------------: | ------------- |
-| `inline`      | file | `.js` or `.ts` file to evaluate. The provided script has access to `@onyx-ignition/forge-typescript` modules and can direct call     |
-
-
 ``` 
-// Example to show how to bundle a ts file into js. Then 
+// Example to show how to transform code loaded from a .ts file into .js file  
+
+import { Attributes, ForgeFile } from "@onyx-ignition/forge";
+import { BuilderConfig, ForgeBuilderOptions, IBuilderResult, $Transform } from "@onyx-ignition/forge-typescript";
 
 // build properties
 const builderOptions: ForgeBuilderOptions = new BuilderConfig({
@@ -105,11 +99,11 @@ const builderOptions: ForgeBuilderOptions = new BuilderConfig({
     format: "cjs"
 });
 
-// load code soruce
-const source: string = fs.readFileSync("./index.ts");
+// load code source
+const contents: string = await ForgeFile.$ReadDecoded("./index.ts");
 
 // transform code and returnin object
-const result: IResult<Attributes> = await $Transform({ source, root: "./", contents }, builderOptions);
+const result: IBuilderResult = await $Build({ source: "index.js", root: "./", contents }, builderOptions);
 
 if (result.success == true) {
 
