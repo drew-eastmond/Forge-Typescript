@@ -134,3 +134,11 @@ src
 .vs
 /pnpm-lock.yaml
 app
+package-lock.json
+stdin/
+lib/
+dist/
+bootstrap.js
+*.js.map
+.npmignore
+tmp/
