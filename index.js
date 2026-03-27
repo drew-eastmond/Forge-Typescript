@@ -1,3 +1,291 @@
 #! /usr/bin/env node
 
-var _0x1b9b42=_0x58a1;(function(_0x2fc5d7,_0x118d24){var _0x165380=_0x58a1,_0x3d7607=_0x2fc5d7();while(!![]){try{var _0x4e7e39=parseInt(_0x165380(0x112))/(-0x298+0x51a+0x1*-0x281)+parseInt(_0x165380(0xac))/(-0x8d7+-0x2f0+0x1af*0x7)*(-parseInt(_0x165380(0xc3))/(-0x15a5*-0x1+0x2339+-0x38db*0x1))+-parseInt(_0x165380(0xa0))/(-0x17*0x5c+-0x1dcc+0x1*0x2614)+parseInt(_0x165380(0xb5))/(0x1972+-0x6a7+-0x12c6)*(-parseInt(_0x165380(0x1b0))/(-0x1f*-0x2+-0x12f*-0x18+0x394*-0x8))+-parseInt(_0x165380(0x193))/(0x79*0x23+-0x965+0x1*-0x71f)*(parseInt(_0x165380(0xf8))/(0x7f6+-0x21af+0x15b*0x13))+-parseInt(_0x165380(0x150))/(0x2*-0xe46+-0xa0f+0x1*0x26a4)*(parseInt(_0x165380(0xd1))/(-0x20b8+0x23cf+0x47*-0xb))+parseInt(_0x165380(0x156))/(0x1acc+-0x3*-0x4be+-0x28fb);if(_0x4e7e39===_0x118d24)break;else _0x3d7607['push'](_0x3d7607['shift']());}catch(_0x47b738){_0x3d7607['push'](_0x3d7607['shift']());}}}(_0x2ceb,-0x1583*-0x2d+-0x353ac*0x1+0xbf*0x1f7));var __defProp=Object[_0x1b9b42(0xed)+_0x1b9b42(0xa9)],__getOwnPropDesc=Object[_0x1b9b42(0xce)+_0x1b9b42(0xb8)+_0x1b9b42(0xb2)],__getOwnPropNames=Object[_0x1b9b42(0xce)+_0x1b9b42(0x1a1)],__hasOwnProp=Object[_0x1b9b42(0x13a)][_0x1b9b42(0x12a)+_0x1b9b42(0xa9)],__export=(_0x1d5a22,_0xb14eac)=>{var _0x9d31bc=_0x1b9b42,_0x2362a2={'fksGb':function(_0x4dd59f,_0x3becd8,_0x4b35e0,_0x1f5324){return _0x4dd59f(_0x3becd8,_0x4b35e0,_0x1f5324);}};for(var _0x548de5 in _0xb14eac)_0x2362a2[_0x9d31bc(0xaa)](__defProp,_0x1d5a22,_0x548de5,{'get':_0xb14eac[_0x548de5],'enumerable':!![]});},__copyProps=(_0x1502c6,_0x56fca1,_0xa74dab,_0x44f981)=>{var _0x50cbe3=_0x1b9b42,_0x52150d={'khFuR':function(_0x2d7206,_0x3dff93){return _0x2d7206===_0x3dff93;},'mrpYj':_0x50cbe3(0x10d),'xsZSt':function(_0x32cc16,_0x2ab913){return _0x32cc16===_0x2ab913;},'BjmcM':_0x50cbe3(0x138),'PsVvA':function(_0x23c9cc,_0x45dea4){return _0x23c9cc(_0x45dea4);},'BbWBa':function(_0x59b85f,_0xba5b31){return _0x59b85f!==_0xba5b31;},'NgwwW':function(_0x5c6176,_0x227012,_0x49744b,_0x3bd945){return _0x5c6176(_0x227012,_0x49744b,_0x3bd945);},'sKiIq':function(_0x341482,_0x7a4a74,_0x3f4f54){return _0x341482(_0x7a4a74,_0x3f4f54);}};if(_0x56fca1&&_0x52150d[_0x50cbe3(0xca)](typeof _0x56fca1,_0x52150d[_0x50cbe3(0x12b)])||_0x52150d[_0x50cbe3(0x14c)](typeof _0x56fca1,_0x52150d[_0x50cbe3(0xbc)])){for(let _0x202ce8 of _0x52150d[_0x50cbe3(0xe8)](__getOwnPropNames,_0x56fca1))if(!__hasOwnProp[_0x50cbe3(0x119)](_0x1502c6,_0x202ce8)&&_0x52150d[_0x50cbe3(0x15f)](_0x202ce8,_0xa74dab))_0x52150d[_0x50cbe3(0xe6)](__defProp,_0x1502c6,_0x202ce8,{'get':()=>_0x56fca1[_0x202ce8],'enumerable':!(_0x44f981=_0x52150d[_0x50cbe3(0x1b5)](__getOwnPropDesc,_0x56fca1,_0x202ce8))||_0x44f981[_0x50cbe3(0x9e)]});}return _0x1502c6;},__toCommonJS=_0x27eddc=>__copyProps(__defProp({},_0x1b9b42(0x98),{'value':!![]}),_0x27eddc),ts_exports={};function _0x2ceb(){var _0x3397fc=['$BuildNPM','b6c6f9034a','./e6dd33bd','f5f22bea6e','621e.js','./9105c98d','51e0fcf14b','ba86.js','./9032e73d','./5323ce1d','e641.js','object','BuildEntry','./2683325e','DragManage','PointerOpt','170451XLWZXI','./82b84a36','GenericBui','DragDropMa','PointerInt','ter','exports','call','Typescript','Builder','tor','BuilderSta','$VerifyDir','25d3b50921','BuilderPac','ClassSelec','13fcecdcd7','1d909ebcf4','e5e1fce5fb','teTransfor','./f13c3b46','UncacheFil','dbfb7686c5','58698803c6','hasOwnProp','mrpYj','form','ector','nignsAndEr','PsuedoSele','./ceb833d0','NPMParams','$Transform','Verbosity','06a6da737c','ments','9496.js','ddb5e341f4','function','entParams','prototype','8d645e44cb','./feb1e39f','LibraryPar','./fae3d06e','59eeff820c','acf9.js','ageSanitiz','AttributeS','./efefbe0e','rors','12e846e3e6','Typesparam','nager','BuilderSou','46cf.js','065157e107','40aaee8b0e','xsZSt','f3d29ceb0b','6bbc3cd801','ElementSel','16533BaMKcm','149728c73d','itizeNPM','VerifyPack','BuildSocke','./4c8e95ab','5494687YKZrjl','lder','dPlugin','6b99ef3b17','78ed622edf','eters','$BuildType','TraversalS','TypesParam','BbWBa','BuildClien','./6e506d02','torParser','f3a1.js','ReadTranfo','cfba.js','d95fa6650f','11b7dac72d','$WalkSourc','20886766c2','fea5.js','erOptions','be2071e3ae','./7a0362d7','FilterPlat','331c2ea977','402ac6c97a','3ce8e0bda6','79d2a91cf1','kageValida','FilterBund','rces','119caa3619','CalcCodeSi','piledCode','TypesPacka','fig','./82518290','97199f9e0b','dcc5.js','EnvParams','$SanitizeG','geValidate','fed3.js','$UnWrapWri','RenderVeri','53325ee928','./5c36adca','347d7fea77','ctor','./1c471ba9','36d81abafe','ISelector','erAliases','3928.js','./464b33b2','PackageSan','5be8.js','0a99b0049d','a9ab.js','./e564693a','14itMpVG','GetEnvirom','BuilderCon','$Build','$ParseExte','99a796aedb','rce','546d01d4d3','$ApplyWrit','TraverseEl','$Strip','4135a28f51','FileCache','sedTime','ertyNames','a91aba482f','f1f9.js','./9f55a540','f06b.js','eTransform','a11e.js','$VerifyFil','./79e18c39','e388e3afbe','kageSaniti','./232ab5f5','6a09.js','0a63.js','LibraryPac','30504hteDSP','0da2533ce5','f9cc465f27','637454f0c1','Validate','sKiIq','06ff.js','geSanitize','c720.js','6d9c.js','rrors','./505d8427','BundlePack','128f8e924b','721411d104','bdcd.js','ReactSelec','e68ed16a6e','FormatElap','__esModule','SanitizePr','ReactQuery','LibraryBui','5c081337e5','ectoryExis','enumerable','6383ddb5b3','5788MzFrWS','5da52239d1','ions','Format','elector','WriteTrans','5c6c645b25','$OutputCom','ams','erty','fksGb','a135c5a9ad','78212vHFzvm','./2815fdad','lob','ops','DefaultMou','DropManage','ptor','c437.js','LibrarySou','135gXbSGq','ements','IForgeBuil','ertyDescri','BuildSelec','eraction','00044d4c7f','BjmcM','6949.js','Bundle','ProcessWar','71d8118f79','ForgeBuild','e06822e224','9MhDiYP','./9ac06547','BuildParam','9d88.js','d75257ca46','./cd2e8131','4a0263739f','khFuR','Write','c30d.js','kage','getOwnProp','tParams','e7c62ab12f','230nSqZgH','b5de7f07ba','NPMPackage','254d595e53','Plugin','lderResult','ff33.js','seAdapter','f68f6b1fee','$Obfuscate','sult','tate','rnals','57ca.js','ParseTypeE','File','8457cfc67c','7edb55e656','./02e263f9','led','./63ce39ca','NgwwW','fb7a127e3e','PsVvA','f009.js','c980.js','./d9f46ef5','IBuilderRe','defineProp','f961.js','ages','./fdf6fd6f','813285c76c','./63d487cf','be9a.js','./77a6ca05','$FetchArgu','./acca53d0','6acade488c','983296gjMVJq','9df60e2cbf','FilterForm','fyAccessor','IMouseAdap','./e1b8b9fe','886e131d5b','383f.js','1f63419017','Platform'];_0x2ceb=function(){return _0x3397fc;};return _0x2ceb();}function _0x58a1(_0x355148,_0x45bd3f){_0x355148=_0x355148-(0x24c4+-0x5*0x6ee+0x21*-0xc);var _0x23218e=_0x2ceb();var _0x5aa947=_0x23218e[_0x355148];return _0x5aa947;}__export(ts_exports,{'$ApplyWriteTransforms':()=>import_Core[_0x1b9b42(0x19b)+_0x1b9b42(0x1a6)+'s'],'$Build':()=>import_Core[_0x1b9b42(0x196)],'$BuildNPM':()=>import_NPMBuilder[_0x1b9b42(0x102)],'$BuildTypes':()=>import_TypesBuilder[_0x1b9b42(0x15c)+'s'],'$FetchArguments':()=>import_bin_utils[_0x1b9b42(0xf5)+_0x1b9b42(0x135)],'$Obfuscate':()=>import_Core[_0x1b9b42(0xda)],'$OutputCompiledCode':()=>import_Core2[_0x1b9b42(0xa7)+_0x1b9b42(0x178)],'$ParseExternals':()=>import_Core[_0x1b9b42(0x197)+_0x1b9b42(0xdd)],'$SanitizeGlob':()=>import_Core[_0x1b9b42(0x17f)+_0x1b9b42(0xae)],'$Strip':()=>import_Core[_0x1b9b42(0x19d)],'$Transform':()=>import_Core[_0x1b9b42(0x132)],'$UnWrapWriteTransforms':()=>import_Core[_0x1b9b42(0x182)+_0x1b9b42(0x125)+'ms'],'$VerifyDirectoryExists':()=>import_Core[_0x1b9b42(0x11e)+_0x1b9b42(0x9d)+'ts'],'$VerifyFile':()=>import_Core[_0x1b9b42(0x1a8)+'e'],'$WalkSources':()=>import_Core2[_0x1b9b42(0x168)+'es'],'AttributeSelector':()=>import_AttributeSelector[_0x1b9b42(0x142)+_0x1b9b42(0xa4)],'BuildClient':()=>import_BuildClient[_0x1b9b42(0x160)+'t'],'BuildEntry':()=>import_Core[_0x1b9b42(0x10e)],'BuildParameters':()=>import_client[_0x1b9b42(0xc5)+_0x1b9b42(0x15b)],'BuildSelectorParser':()=>import_ReactQuery[_0x1b9b42(0xb9)+_0x1b9b42(0x162)],'BuildSocketParams':()=>import_Core[_0x1b9b42(0x154)+_0x1b9b42(0xcf)],'BuilderConfig':()=>import_Core[_0x1b9b42(0x195)+_0x1b9b42(0x17a)],'BuilderPackage':()=>import_BuilderPackage[_0x1b9b42(0x120)+_0x1b9b42(0xcd)],'BuilderPackageSanitize':()=>import_BuilderPackageSanitize[_0x1b9b42(0x120)+_0x1b9b42(0x1ab)+'ze'],'BuilderPackageValidate':()=>import_BuilderPackageValidate[_0x1b9b42(0x120)+_0x1b9b42(0x173)+'te'],'BuilderSource':()=>import_Core2[_0x1b9b42(0x148)+_0x1b9b42(0x199)],'BuilderStats':()=>import_Core[_0x1b9b42(0x11d)+'ts'],'Bundle':()=>import_Core[_0x1b9b42(0xbe)],'BundlePackageSanitize':()=>import_BundlePackageSanitize[_0x1b9b42(0x1bc)+_0x1b9b42(0x141)+'e'],'CalcCodeSize':()=>import_Core[_0x1b9b42(0x177)+'ze'],'ClassSelector':()=>import_ClassSelector[_0x1b9b42(0x121)+_0x1b9b42(0x11c)],'DefaultMouseAdapter':()=>import_Input[_0x1b9b42(0xb0)+_0x1b9b42(0xd8)],'DragDropManager':()=>import_DragDropManager[_0x1b9b42(0x115)+_0x1b9b42(0x147)],'DragManager':()=>import_DragManager[_0x1b9b42(0x110)+'r'],'DropManager':()=>import_DropManager[_0x1b9b42(0xb1)+'r'],'ElementSelector':()=>import_ElementSelector[_0x1b9b42(0x14f)+_0x1b9b42(0x12d)],'EnvParams':()=>import_Core2[_0x1b9b42(0x17e)],'FileCache':()=>import_FileCache[_0x1b9b42(0x19f)],'FilterBundled':()=>import_Core[_0x1b9b42(0x174)+_0x1b9b42(0xe4)],'FilterFormat':()=>import_Core[_0x1b9b42(0xfa)+'at'],'FilterPlatform':()=>import_Core[_0x1b9b42(0x16e)+_0x1b9b42(0x12c)],'ForgeBuildPlugin':()=>import_ForgeBuildPlugin[_0x1b9b42(0xc1)+_0x1b9b42(0xd5)],'ForgeBuilder':()=>import_ForgeBuilder[_0x1b9b42(0xc1)+'er'],'ForgeBuilderAliases':()=>import_Core[_0x1b9b42(0xc1)+_0x1b9b42(0x18b)],'ForgeBuilderOptions':()=>import_Core[_0x1b9b42(0xc1)+_0x1b9b42(0x16b)],'Format':()=>import_Core[_0x1b9b42(0xa3)],'FormatElapsedTime':()=>import_Core[_0x1b9b42(0x97)+_0x1b9b42(0x1a0)],'GenericBuilderResult':()=>import_client[_0x1b9b42(0x114)+_0x1b9b42(0xd6)],'GetEnviromentParams':()=>import_Core2[_0x1b9b42(0x194)+_0x1b9b42(0x139)],'IBuilderResult':()=>import_client[_0x1b9b42(0xec)+_0x1b9b42(0xdb)],'IForgeBuildPlugin':()=>import_ForgeBuildPlugin[_0x1b9b42(0xb7)+_0x1b9b42(0x158)],'IMouseAdapter':()=>import_Input[_0x1b9b42(0xfc)+_0x1b9b42(0x117)],'ISelector':()=>import_ReactSelector[_0x1b9b42(0x18a)],'LibraryBuilder':()=>import_LibraryBuilder[_0x1b9b42(0x9b)+_0x1b9b42(0x157)],'LibraryPackageSanitize':()=>import_LibraryPackageSanitize[_0x1b9b42(0x1af)+_0x1b9b42(0x1ab)+'ze'],'LibraryPackageValidate':()=>import_BundlePackageValidate[_0x1b9b42(0x1af)+_0x1b9b42(0x173)+'te'],'LibraryParams':()=>import_LibraryBuilder[_0x1b9b42(0x13d)+_0x1b9b42(0xa8)],'LibrarySources':()=>import_LibraryBuilder[_0x1b9b42(0xb4)+_0x1b9b42(0x175)],'NPMPackageValidate':()=>import_NPMPackageValidate[_0x1b9b42(0xd3)+_0x1b9b42(0x1b4)],'NPMParams':()=>import_NPMBuilder[_0x1b9b42(0x131)],'PackageSanitizeNPM':()=>import_NPMPackageSanitize[_0x1b9b42(0x18e)+_0x1b9b42(0x152)],'ParseTypeErrors':()=>import_TypesBuilder[_0x1b9b42(0xdf)+_0x1b9b42(0x1ba)],'Platform':()=>import_Core[_0x1b9b42(0x101)],'PointerInteraction':()=>import_Input[_0x1b9b42(0x116)+_0x1b9b42(0xba)],'PointerOptions':()=>import_Input[_0x1b9b42(0x111)+_0x1b9b42(0xa2)],'ProcessWarnignsAndErrors':()=>import_bin_utils[_0x1b9b42(0xbf)+_0x1b9b42(0x12e)+_0x1b9b42(0x144)],'PsuedoSelector':()=>import_PsuedoSelector[_0x1b9b42(0x12f)+_0x1b9b42(0x187)],'ReactQuery':()=>import_ReactQuery[_0x1b9b42(0x9a)],'ReactSelector':()=>import_ReactSelector[_0x1b9b42(0x95)+_0x1b9b42(0x11c)],'ReadTranform':()=>import_Core[_0x1b9b42(0x164)+'rm'],'RenderVerifyAccessor':()=>import_Core[_0x1b9b42(0x183)+_0x1b9b42(0xfb)],'SanitizeProps':()=>import_Core3[_0x1b9b42(0x99)+_0x1b9b42(0xaf)],'TraversalState':()=>import_ReactQuery[_0x1b9b42(0x15d)+_0x1b9b42(0xdc)],'TraverseElements':()=>import_Core3[_0x1b9b42(0x19c)+_0x1b9b42(0xb6)],'TypesPackageSanitize':()=>import_TypesPackageSanitize[_0x1b9b42(0x179)+_0x1b9b42(0x1b7)],'TypesPackageValidate':()=>import_TypesPackageValidate[_0x1b9b42(0x179)+_0x1b9b42(0x180)],'TypesParameters':()=>import_client[_0x1b9b42(0x15e)+_0x1b9b42(0x15b)],'TypescriptBuilder':()=>import_TypescriptBuilder[_0x1b9b42(0x11a)+_0x1b9b42(0x11b)],'TypescriptFile':()=>import_TypescriptFile[_0x1b9b42(0x11a)+_0x1b9b42(0xe0)],'Typesparams':()=>import_TypesBuilder[_0x1b9b42(0x146)+'s'],'UncacheFile':()=>import_Core[_0x1b9b42(0x127)+'e'],'Verbosity':()=>import_Core[_0x1b9b42(0x133)],'VerifyPackages':()=>import_Core[_0x1b9b42(0x153)+_0x1b9b42(0xef)],'Write':()=>import_Core[_0x1b9b42(0xcb)],'WriteTransform':()=>import_Core[_0x1b9b42(0xa5)+_0x1b9b42(0x12c)]}),module[_0x1b9b42(0x118)]=__toCommonJS(ts_exports);var import_bin_utils=require(_0x1b9b42(0x126)+_0x1b9b42(0xc2)+_0x1b9b42(0xf9)+_0x1b9b42(0xbd)),import_BuildClient=require(_0x1b9b42(0x1bb)+_0x1b9b42(0x108)+_0x1b9b42(0x17c)+_0x1b9b42(0xb3)),import_BuilderPackage=require(_0x1b9b42(0xeb)+_0x1b9b42(0x92)+_0x1b9b42(0xd4)+_0x1b9b42(0xde)),import_BuilderPackageSanitize=require(_0x1b9b42(0x185)+_0x1b9b42(0x1b1)+_0x1b9b42(0x151)+_0x1b9b42(0x149)),import_BuilderPackageValidate=require(_0x1b9b42(0x10a)+_0x1b9b42(0xe1)+_0x1b9b42(0x96)+_0x1b9b42(0x1b6)),import_BundlePackageSanitize=require(_0x1b9b42(0x17b)+_0x1b9b42(0x124)+_0x1b9b42(0xf7)+_0x1b9b42(0x94)),import_BundlePackageValidate=require(_0x1b9b42(0x13e)+_0x1b9b42(0x189)+_0x1b9b42(0x1a2)+_0x1b9b42(0x191)),import_Core=require(_0x1b9b42(0xe3)+_0x1b9b42(0x19a)+_0x1b9b42(0x172)+_0x1b9b42(0x136)),import_ForgeBuilder=require(_0x1b9b42(0xf2)+_0x1b9b42(0x186)+_0x1b9b42(0xe2)+_0x1b9b42(0x1ad)),import_ForgeBuildPlugin=require(_0x1b9b42(0x10f)+_0x1b9b42(0x123)+_0x1b9b42(0x15a)+_0x1b9b42(0x1a3)),import_LibraryBuilder=require(_0x1b9b42(0xad)+_0x1b9b42(0xfe)+_0x1b9b42(0xf1)+_0x1b9b42(0x17d)),import_LibraryPackageSanitize=require(_0x1b9b42(0x155)+_0x1b9b42(0x176)+_0x1b9b42(0xd9)+_0x1b9b42(0xf3)),import_NPMBuilder=require(_0x1b9b42(0x107)+_0x1b9b42(0x171)+_0x1b9b42(0x122)+_0x1b9b42(0x165)),import_NPMPackageSanitize=require(_0x1b9b42(0x130)+_0x1b9b42(0x103)+_0x1b9b42(0x145)+_0x1b9b42(0xd7)),import_NPMPackageValidate=require(_0x1b9b42(0x10b)+_0x1b9b42(0x1b2)+_0x1b9b42(0x198)+_0x1b9b42(0xff)),import_TypesBuilder=require(_0x1b9b42(0x192)+_0x1b9b42(0x105)+_0x1b9b42(0x14b)+_0x1b9b42(0xcc)),import_TypesPackageSanitize=require(_0x1b9b42(0xf0)+_0x1b9b42(0xa6)+_0x1b9b42(0x128)+_0x1b9b42(0xee)),import_TypesPackageValidate=require(_0x1b9b42(0xf6)+_0x1b9b42(0x19e)+_0x1b9b42(0x184)+_0x1b9b42(0x18c)),import_TypescriptFile=require(_0x1b9b42(0x104)+_0x1b9b42(0x1b3)+_0x1b9b42(0x167)+_0x1b9b42(0xea)),import_TypescriptBuilder=require(_0x1b9b42(0x1a4)+_0x1b9b42(0x11f)+_0x1b9b42(0x129)+_0x1b9b42(0x106)),import_client=require(_0x1b9b42(0x188)+_0x1b9b42(0x137)+_0x1b9b42(0x16f)+_0x1b9b42(0x109)),import_Core2=require(_0x1b9b42(0x16d)+_0x1b9b42(0xc7)+_0x1b9b42(0x13b)+_0x1b9b42(0x1a7)),import_DragDropManager=require(_0x1b9b42(0x18d)+_0x1b9b42(0x9f)+_0x1b9b42(0x14d)+_0x1b9b42(0x10c)),import_DragManager=require(_0x1b9b42(0xe5)+_0x1b9b42(0x170)+_0x1b9b42(0xd2)+_0x1b9b42(0x1a5)),import_DropManager=require(_0x1b9b42(0x1ac)+_0x1b9b42(0x93)+_0x1b9b42(0x13f)+_0x1b9b42(0x1b9)),import_FileCache=require(_0x1b9b42(0xc8)+_0x1b9b42(0xc0)+_0x1b9b42(0xc9)+_0x1b9b42(0x140)),import_Input=require(_0x1b9b42(0xfd)+_0x1b9b42(0x14a)+_0x1b9b42(0x14e)+_0x1b9b42(0xc6)),import_Core3=require(_0x1b9b42(0x1a9)+_0x1b9b42(0x134)+_0x1b9b42(0x1aa)+_0x1b9b42(0x1b8)),import_ReactQuery=require(_0x1b9b42(0x143)+_0x1b9b42(0x190)+_0x1b9b42(0xab)+_0x1b9b42(0x16a)),import_AttributeSelector=require(_0x1b9b42(0x113)+_0x1b9b42(0xbb)+_0x1b9b42(0xa1)+_0x1b9b42(0x163)),import_ClassSelector=require(_0x1b9b42(0xc4)+_0x1b9b42(0xd0)+_0x1b9b42(0x169)+_0x1b9b42(0x18f)),import_ElementSelector=require(_0x1b9b42(0xf4)+_0x1b9b42(0xe7)+_0x1b9b42(0x9c)+_0x1b9b42(0x1ae)),import_PsuedoSelector=require(_0x1b9b42(0x161)+_0x1b9b42(0x16c)+_0x1b9b42(0x166)+_0x1b9b42(0x181)),import_ReactSelector=require(_0x1b9b42(0x13c)+_0x1b9b42(0x159)+_0x1b9b42(0x100)+_0x1b9b42(0xe9));-0xea9+0x129c+-0x151*0x3&&(module[_0x1b9b42(0x118)]={'$ApplyWriteTransforms':$ApplyWriteTransforms,'$Build':$Build,'$BuildNPM':$BuildNPM,'$BuildTypes':$BuildTypes,'$FetchArguments':$FetchArguments,'$Obfuscate':$Obfuscate,'$OutputCompiledCode':$OutputCompiledCode,'$ParseExternals':$ParseExternals,'$SanitizeGlob':$SanitizeGlob,'$Strip':$Strip,'$Transform':$Transform,'$UnWrapWriteTransforms':$UnWrapWriteTransforms,'$VerifyDirectoryExists':$VerifyDirectoryExists,'$VerifyFile':$VerifyFile,'$WalkSources':$WalkSources,'AttributeSelector':AttributeSelector,'BuildClient':BuildClient,'BuildEntry':BuildEntry,'BuildParameters':BuildParameters,'BuildSelectorParser':BuildSelectorParser,'BuildSocketParams':BuildSocketParams,'BuilderConfig':BuilderConfig,'BuilderPackage':BuilderPackage,'BuilderPackageSanitize':BuilderPackageSanitize,'BuilderPackageValidate':BuilderPackageValidate,'BuilderSource':BuilderSource,'BuilderStats':BuilderStats,'Bundle':Bundle,'BundlePackageSanitize':BundlePackageSanitize,'CalcCodeSize':CalcCodeSize,'ClassSelector':ClassSelector,'DefaultMouseAdapter':DefaultMouseAdapter,'DragDropManager':DragDropManager,'DragManager':DragManager,'DropManager':DropManager,'ElementSelector':ElementSelector,'EnvParams':EnvParams,'FileCache':FileCache,'FilterBundled':FilterBundled,'FilterFormat':FilterFormat,'FilterPlatform':FilterPlatform,'ForgeBuildPlugin':ForgeBuildPlugin,'ForgeBuilder':ForgeBuilder,'ForgeBuilderAliases':ForgeBuilderAliases,'ForgeBuilderOptions':ForgeBuilderOptions,'Format':Format,'FormatElapsedTime':FormatElapsedTime,'GenericBuilderResult':GenericBuilderResult,'GetEnviromentParams':GetEnviromentParams,'IBuilderResult':IBuilderResult,'IForgeBuildPlugin':IForgeBuildPlugin,'IMouseAdapter':IMouseAdapter,'ISelector':ISelector,'LibraryBuilder':LibraryBuilder,'LibraryPackageSanitize':LibraryPackageSanitize,'LibraryPackageValidate':LibraryPackageValidate,'LibraryParams':LibraryParams,'LibrarySources':LibrarySources,'NPMPackageValidate':NPMPackageValidate,'NPMParams':NPMParams,'PackageSanitizeNPM':PackageSanitizeNPM,'ParseTypeErrors':ParseTypeErrors,'Platform':Platform,'PointerInteraction':PointerInteraction,'PointerOptions':PointerOptions,'ProcessWarnignsAndErrors':ProcessWarnignsAndErrors,'PsuedoSelector':PsuedoSelector,'ReactQuery':ReactQuery,'ReactSelector':ReactSelector,'ReadTranform':ReadTranform,'RenderVerifyAccessor':RenderVerifyAccessor,'SanitizeProps':SanitizeProps,'TraversalState':TraversalState,'TraverseElements':TraverseElements,'TypesPackageSanitize':TypesPackageSanitize,'TypesPackageValidate':TypesPackageValidate,'TypesParameters':TypesParameters,'TypescriptBuilder':TypescriptBuilder,'TypescriptFile':TypescriptFile,'Typesparams':Typesparams,'UncacheFile':UncacheFile,'Verbosity':Verbosity,'VerifyPackages':VerifyPackages,'Write':Write,'WriteTransform':WriteTransform});
+var __defProp = Object.defineProperty;
+var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __getOwnPropNames = Object.getOwnPropertyNames;
+var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __export = (target, all) => {
+  for (var name in all)
+    __defProp(target, name, { get: all[name], enumerable: true });
+};
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+  }
+  return to;
+};
+var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+
+// ../Forge-Typescript-Source/src/ts/index.js
+var ts_exports = {};
+__export(ts_exports, {
+  $ApplyWriteTransforms: () => import_Core.$ApplyWriteTransforms,
+  $Build: () => import_Core.$Build,
+  $BuildNPM: () => import_NPMBuilder.$BuildNPM,
+  $BuildTypes: () => import_TypesBuilder.$BuildTypes,
+  $FetchArguments: () => import_bin_utils.$FetchArguments,
+  $Obfuscate: () => import_Core.$Obfuscate,
+  $OutputCompiledCode: () => import_Core2.$OutputCompiledCode,
+  $ParseExternals: () => import_Core.$ParseExternals,
+  $SanitizeGlob: () => import_Core.$SanitizeGlob,
+  $Strip: () => import_Core.$Strip,
+  $Transform: () => import_Core.$Transform,
+  $UnWrapWriteTransforms: () => import_Core.$UnWrapWriteTransforms,
+  $VerifyDirectoryExists: () => import_Core.$VerifyDirectoryExists,
+  $VerifyFile: () => import_Core.$VerifyFile,
+  $WalkSources: () => import_Core2.$WalkSources,
+  AttributeSelector: () => import_AttributeSelector.AttributeSelector,
+  BuildClient: () => import_BuildClient.BuildClient,
+  BuildEntry: () => import_Core.BuildEntry,
+  BuildParameters: () => import_client.BuildParameters,
+  BuildSelectorParser: () => import_ReactQuery.BuildSelectorParser,
+  BuildSocketParams: () => import_Core.BuildSocketParams,
+  BuilderConfig: () => import_Core.BuilderConfig,
+  BuilderPackage: () => import_BuilderPackage.BuilderPackage,
+  BuilderPackageSanitize: () => import_BuilderPackageSanitize.BuilderPackageSanitize,
+  BuilderPackageValidate: () => import_BuilderPackageValidate.BuilderPackageValidate,
+  BuilderSource: () => import_Core2.BuilderSource,
+  BuilderStats: () => import_Core.BuilderStats,
+  Bundle: () => import_Core.Bundle,
+  BundlePackageSanitize: () => import_BundlePackageSanitize.BundlePackageSanitize,
+  CalcCodeSize: () => import_Core.CalcCodeSize,
+  ClassSelector: () => import_ClassSelector.ClassSelector,
+  ClientModelProxy: () => import_FormlessModelProxy.ClientModelProxy,
+  DefaultMouseAdapter: () => import_Input.DefaultMouseAdapter,
+  DragDropManager: () => import_DragDropManager.DragDropManager,
+  DragManager: () => import_DragManager.DragManager,
+  DropManager: () => import_DropManager.DropManager,
+  ElementSelector: () => import_ElementSelector.ElementSelector,
+  EnvParams: () => import_Core2.EnvParams,
+  FileBrowserInputHTMLElement: () => import_FileBrowserInputHTMLElement.FileBrowserInputHTMLElement,
+  FileCache: () => import_FileCache.FileCache,
+  FileNode: () => import_TreeHTMLElement.FileNode,
+  FilterBundled: () => import_Core.FilterBundled,
+  FilterFormat: () => import_Core.FilterFormat,
+  FilterPlatform: () => import_Core.FilterPlatform,
+  ForgeBuildPlugin: () => import_ForgeBuildPlugin.ForgeBuildPlugin,
+  ForgeBuilder: () => import_ForgeBuilder.ForgeBuilder,
+  ForgeBuilderAliases: () => import_Core.ForgeBuilderAliases,
+  ForgeBuilderOptions: () => import_Core.ForgeBuilderOptions,
+  Format: () => import_Core.Format,
+  FormatElapsedTime: () => import_Core.FormatElapsedTime,
+  FormlessElement: () => import_Formless.FormlessElement,
+  FormlessEvent: () => import_Formless.FormlessEvent,
+  FormlessHTMLElement: () => import_FormlessHTMLElement.FormlessHTMLElement,
+  FormlessManager: () => import_FormlessManager.FormlessManager,
+  FormletHTMLElement: () => import_FormletHTMLElement.FormletHTMLElement,
+  FormletListHTMLElement: () => import_FormletListHTMLElement.FormletListHTMLElement,
+  GenericBuilderResult: () => import_client.GenericBuilderResult,
+  GetEnviromentParams: () => import_Core2.GetEnviromentParams,
+  IBuilderResult: () => import_client.IBuilderResult,
+  IForgeBuildPlugin: () => import_ForgeBuildPlugin.IForgeBuildPlugin,
+  IMouseAdapter: () => import_Input.IMouseAdapter,
+  ISelector: () => import_ReactSelector.ISelector,
+  IsConnected: () => import_Formless.IsConnected,
+  LibraryBuilder: () => import_LibraryBuilder.LibraryBuilder,
+  LibraryPackageSanitize: () => import_LibraryPackageSanitize.LibraryPackageSanitize,
+  LibraryPackageValidate: () => import_BundlePackageValidate.LibraryPackageValidate,
+  LibraryParams: () => import_LibraryBuilder.LibraryParams,
+  LibrarySources: () => import_LibraryBuilder.LibrarySources,
+  ListHandle: () => import_FormletListHTMLElement.ListHandle,
+  ListState: () => import_FormletListHTMLElement.ListState,
+  NPMPackageValidate: () => import_NPMPackageValidate.NPMPackageValidate,
+  NPMParams: () => import_NPMBuilder.NPMParams,
+  PackageSanitizeNPM: () => import_NPMPackageSanitize.PackageSanitizeNPM,
+  ParseElement: () => import_Formless.ParseElement,
+  ParseInput: () => import_Formless.ParseInput,
+  ParseTypeErrors: () => import_TypesBuilder.ParseTypeErrors,
+  Platform: () => import_Core.Platform,
+  PointerInteraction: () => import_Input.PointerInteraction,
+  PointerOptions: () => import_Input.PointerOptions,
+  ProcessWarnignsAndErrors: () => import_bin_utils.ProcessWarnignsAndErrors,
+  ProxyRenderer: () => import_SortableHTMLElement.ProxyRenderer,
+  PsuedoSelector: () => import_PsuedoSelector.PsuedoSelector,
+  ReactQuery: () => import_ReactQuery.ReactQuery,
+  ReactSelector: () => import_ReactSelector.ReactSelector,
+  ReadTranform: () => import_Core.ReadTranform,
+  RenderElement: () => import_Formless.RenderElement,
+  RenderInput: () => import_Formless.RenderInput,
+  RenderVerifyAccessor: () => import_Core.RenderVerifyAccessor,
+  SanitizeProps: () => import_Core3.SanitizeProps,
+  SortableConfig: () => import_SortableHTMLElement.SortableConfig,
+  SortableEvent: () => import_SortableHTMLElement.SortableEvent,
+  SortableHTMLElement: () => import_SortableHTMLElement.SortableHTMLElement,
+  SortableProps: () => import_SortableHTMLElement.SortableProps,
+  TraversalState: () => import_ReactQuery.TraversalState,
+  TraverseElements: () => import_Core3.TraverseElements,
+  TreeHTMLElement: () => import_TreeHTMLElement.TreeHTMLElement,
+  TreeHandle: () => import_TreeHTMLElement.TreeHandle,
+  TreeRenderer: () => import_TreeHTMLElement.TreeRenderer,
+  TreeState: () => import_TreeHTMLElement.TreeState,
+  TypesPackageSanitize: () => import_TypesPackageSanitize.TypesPackageSanitize,
+  TypesPackageValidate: () => import_TypesPackageValidate.TypesPackageValidate,
+  TypesParameters: () => import_client.TypesParameters,
+  TypescriptBuilder: () => import_TypescriptBuilder.TypescriptBuilder,
+  TypescriptFile: () => import_TypescriptFile.TypescriptFile,
+  Typesparams: () => import_TypesBuilder.Typesparams,
+  UncacheFile: () => import_Core.UncacheFile,
+  Verbosity: () => import_Core.Verbosity,
+  VerifyPackages: () => import_Core.VerifyPackages,
+  Write: () => import_Core.Write,
+  WriteTransform: () => import_Core.WriteTransform
+});
+module.exports = __toCommonJS(ts_exports);
+var import_bin_utils = require("./lib/f13c3b46e06822e2249df60e2cbf6949.js");
+var import_BuildClient = require("./lib/505d842751e0fcf14b97199f9e0bc437.js");
+var import_BuilderPackage = require("./lib/d9f46ef5128f8e924b254d595e5357ca.js");
+var import_BuilderPackageSanitize = require("./lib/5c36adca0da2533ce5149728c73d46cf.js");
+var import_BuilderPackageValidate = require("./lib/9032e73d8457cfc67ce68ed16a6e06ff.js");
+var import_BundlePackageSanitize = require("./lib/82518290e5e1fce5fb6acade488cbdcd.js");
+var import_BundlePackageValidate = require("./lib/fae3d06e36d81abafea91aba482fa9ab.js");
+var import_Core = require("./lib/02e263f9546d01d4d379d2a91cf19496.js");
+var import_ForgeBuilder = require("./lib/63d487cf347d7fea777edb55e6566a09.js");
+var import_ForgeBuildPlugin = require("./lib/2683325e1d909ebcf478ed622edff1f9.js");
+var import_LibraryBuilder = require("./lib/2815fdad886e131d5b813285c76cdcc5.js");
+var import_LibraryPackageSanitize = require("./lib/4c8e95ab119caa3619f68f6b1feebe9a.js");
+var import_NPMBuilder = require("./lib/9105c98d3ce8e0bda613fcecdcd7cfba.js");
+var import_NPMPackageSanitize = require("./lib/ceb833d0b6c6f9034a12e846e3e6ff33.js");
+var import_NPMPackageValidate = require("./lib/5323ce1df9cc465f2799a796aedb383f.js");
+var import_TypesBuilder = require("./lib/e564693af5f22bea6e40aaee8b0ec30d.js");
+var import_TypesPackageSanitize = require("./lib/fdf6fd6f5c6c645b25dbfb7686c5f961.js");
+var import_TypesPackageValidate = require("./lib/acca53d04135a28f5153325ee9283928.js");
+var import_TypescriptFile = require("./lib/e6dd33bd637454f0c111b7dac72dc980.js");
+var import_TypescriptBuilder = require("./lib/9f55a54025d3b5092158698803c6621e.js");
+var import_client = require("./lib/1c471ba9ddb5e341f4331c2ea977ba86.js");
+var import_Core2 = require("./lib/7a0362d7d75257ca468d645e44cba11e.js");
+var import_DragDropManager = require("./lib/464b33b26383ddb5b3f3d29ceb0be641.js");
+var import_DragManager = require("./lib/63ce39ca402ac6c97ab5de7f07baf06b.js");
+var import_DropManager = require("./lib/232ab5f5721411d10459eeff820c6d9c.js");
+var import_FileCache = require("./lib/cd2e813171d8118f794a0263739facf9.js");
+var import_FileBrowserInputHTMLElement = require("./lib/e1b8b9fe065157e1076bbc3cd8019d88.js");
+var import_FormletListHTMLElement = require("./lib/b8032d5634b6289b191fe75bf67c31bf.js");
+var import_SortableHTMLElement = require("./lib/79e18c3906a6da737ce388e3afbec720.js");
+var import_TreeHTMLElement = require("./lib/efefbe0e0a99b0049da135c5a9adfea5.js");
+var import_Formless = require("./lib/82b84a3600044d4c7f5da52239d1f3a1.js");
+var import_FormlessHTMLElement = require("./lib/9ac06547e7c62ab12f20886766c25be8.js");
+var import_FormlessManager = require("./lib/77a6ca05fb7a127e3e5c081337e50a63.js");
+var import_FormlessModelProxy = require("./lib/6e506d02be2071e3aed95fa6650ffed3.js");
+var import_FormletHTMLElement = require("./lib/feb1e39f6b99ef3b171f63419017f009.js");
+var import_Input = require("./lib/4a262a37a895a43592f045d9c4ef3539.js");
+var import_Core3 = require("./lib/df401af2a3e76d8a37df1ad17353255f.js");
+var import_ReactQuery = require("./lib/0e9e453ef1019dc9c80dda3d3079fb63.js");
+var import_AttributeSelector = require("./lib/ce226b2ac4fe10865ab1be3da77f92a9.js");
+var import_ClassSelector = require("./lib/4a548f049aa719b4456f038a6626d41b.js");
+var import_ElementSelector = require("./lib/027a007c8fc39d50cdec7ddf963aba96.js");
+var import_PsuedoSelector = require("./lib/350c409adf365f586bb9850e2f851edc.js");
+var import_ReactSelector = require("./lib/270f01db12ac3a5f7ee4949635b5e344.js");
+// Annotate the CommonJS export names for ESM import in node:
+0 && (module.exports = {
+  $ApplyWriteTransforms,
+  $Build,
+  $BuildNPM,
+  $BuildTypes,
+  $FetchArguments,
+  $Obfuscate,
+  $OutputCompiledCode,
+  $ParseExternals,
+  $SanitizeGlob,
+  $Strip,
+  $Transform,
+  $UnWrapWriteTransforms,
+  $VerifyDirectoryExists,
+  $VerifyFile,
+  $WalkSources,
+  AttributeSelector,
+  BuildClient,
+  BuildEntry,
+  BuildParameters,
+  BuildSelectorParser,
+  BuildSocketParams,
+  BuilderConfig,
+  BuilderPackage,
+  BuilderPackageSanitize,
+  BuilderPackageValidate,
+  BuilderSource,
+  BuilderStats,
+  Bundle,
+  BundlePackageSanitize,
+  CalcCodeSize,
+  ClassSelector,
+  ClientModelProxy,
+  DefaultMouseAdapter,
+  DragDropManager,
+  DragManager,
+  DropManager,
+  ElementSelector,
+  EnvParams,
+  FileBrowserInputHTMLElement,
+  FileCache,
+  FileNode,
+  FilterBundled,
+  FilterFormat,
+  FilterPlatform,
+  ForgeBuildPlugin,
+  ForgeBuilder,
+  ForgeBuilderAliases,
+  ForgeBuilderOptions,
+  Format,
+  FormatElapsedTime,
+  FormlessElement,
+  FormlessEvent,
+  FormlessHTMLElement,
+  FormlessManager,
+  FormletHTMLElement,
+  FormletListHTMLElement,
+  GenericBuilderResult,
+  GetEnviromentParams,
+  IBuilderResult,
+  IForgeBuildPlugin,
+  IMouseAdapter,
+  ISelector,
+  IsConnected,
+  LibraryBuilder,
+  LibraryPackageSanitize,
+  LibraryPackageValidate,
+  LibraryParams,
+  LibrarySources,
+  ListHandle,
+  ListState,
+  NPMPackageValidate,
+  NPMParams,
+  PackageSanitizeNPM,
+  ParseElement,
+  ParseInput,
+  ParseTypeErrors,
+  Platform,
+  PointerInteraction,
+  PointerOptions,
+  ProcessWarnignsAndErrors,
+  ProxyRenderer,
+  PsuedoSelector,
+  ReactQuery,
+  ReactSelector,
+  ReadTranform,
+  RenderElement,
+  RenderInput,
+  RenderVerifyAccessor,
+  SanitizeProps,
+  SortableConfig,
+  SortableEvent,
+  SortableHTMLElement,
+  SortableProps,
+  TraversalState,
+  TraverseElements,
+  TreeHTMLElement,
+  TreeHandle,
+  TreeRenderer,
+  TreeState,
+  TypesPackageSanitize,
+  TypesPackageValidate,
+  TypesParameters,
+  TypescriptBuilder,
+  TypescriptFile,
+  Typesparams,
+  UncacheFile,
+  Verbosity,
+  VerifyPackages,
+  Write,
+  WriteTransform
+});

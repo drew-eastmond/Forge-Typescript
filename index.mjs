@@ -1,3 +1,158 @@
 #! /usr/bin/env node
 
-(function(_0x24b61b,_0x16d7a1){var _0x272ceb=_0x9e3f,_0x45fd60=_0x24b61b();while(!![]){try{var _0x41fd61=-parseInt(_0x272ceb(0xd5))/(0x1aa7*0x1+-0x7e3+0x3*-0x641)*(-parseInt(_0x272ceb(0xda))/(0x1dc8+-0x21*0x7d+0x10d*-0xd))+-parseInt(_0x272ceb(0xd4))/(-0x226e+-0x1bf3+0x3e64)+parseInt(_0x272ceb(0xd3))/(-0x1*0x74b+0x1abc+-0x136d)+-parseInt(_0x272ceb(0xd1))/(-0x805+0x397+-0x11*-0x43)+parseInt(_0x272ceb(0xd6))/(-0x9b8*-0x2+-0xeeb+-0x47f)*(parseInt(_0x272ceb(0xd8))/(-0x761*0x5+-0x475*-0x8+0x144))+parseInt(_0x272ceb(0xd7))/(-0x1fd*-0x11+0x228b+-0x8*0x88a)+-parseInt(_0x272ceb(0xd9))/(0xb*-0x1+0x1ab9*-0x1+0x1acd)*(parseInt(_0x272ceb(0xd2))/(0x14bd*0x1+0x13*0xa+-0x1571));if(_0x41fd61===_0x16d7a1)break;else _0x45fd60['push'](_0x45fd60['shift']());}catch(_0x214aab){_0x45fd60['push'](_0x45fd60['shift']());}}}(_0x2e4d,-0xcea37+-0x9128d+-0x2e7f5*-0xa));import{$FetchArguments,ProcessWarnignsAndErrors}from'./a52a5335bc81fac56a09a661fff42c84.mjs';import{BuildClient}from'./01e97d637ea6d19f0fb993de56054a52.mjs';import{BuilderPackage}from'./79724177c42a63f60d976b4cc543849a.mjs';import{BuilderPackageSanitize}from'./f1753fa214af8454bd1849ebf1946945.mjs';import{BuilderPackageValidate}from'./98db3290e32de7b04846916e94e7b879.mjs';import{BundlePackageSanitize}from'./1d76433af1414bfeb6efb855f4fbccb7.mjs';import{LibraryPackageValidate}from'./765ee618e1140eac3ee1a6522d1f8795.mjs';import{BuilderStats,BuildEntry,Platform,Format,Bundle,Verbosity,Write,ReadTranform,WriteTransform,ForgeBuilderAliases,ForgeBuilderOptions,BuildSocketParams,VerifyPackages,$SanitizeGlob,FilterFormat,FilterPlatform,FilterBundled,FormatElapsedTime,RenderVerifyAccessor,$VerifyFile,$VerifyDirectoryExists,BuilderConfig,$ParseExternals,CalcCodeSize,UncacheFile,$Strip,$Transform,$Build,$Obfuscate,$ApplyWriteTransforms,$UnWrapWriteTransforms}from'./fda017fd934f5aa37610fc2a70164a5e.mjs';import{ForgeBuilder}from'./70ad431fb49f144208f1ca449c87752e.mjs';import{IForgeBuildPlugin,ForgeBuildPlugin}from'./31ea0b412bd3380e5c2671a22f5c95f6.mjs';import{LibrarySources,LibraryParams,LibraryBuilder}from'./e1ea2b1d17e55c7011350ffc1464ef0e.mjs';import{LibraryPackageSanitize}from'./a1f5be2c70c5699a5fa7cf838653c988.mjs';import{NPMParams,$BuildNPM}from'./5ab1bda1b09442d3288a4876edc66b85.mjs';import{PackageSanitizeNPM}from'./02e14f9f19497d16de80293c4b09f289.mjs';import{NPMPackageValidate}from'./42925cb99ab5d29b40aa723bc799a767.mjs';import{Typesparams,$BuildTypes,ParseTypeErrors}from'./71c2299d17c8b0e03c17edc196a9ee0a.mjs';import{TypesPackageSanitize}from'./d4f027756ea8d7f777ee981e62a3f73d.mjs';import{TypesPackageValidate}from'./45bd0240e82e1e606fcdbd234786faec.mjs';import{TypescriptFile}from'./de65ce5b8faf0fff0b804a86c2074a38.mjs';import{TypescriptBuilder}from'./59eadd0392c17b083bc2a64273432ee6.mjs';import{BuildParameters,TypesParameters,GenericBuilderResult,IBuilderResult}from'./d65be210630ca941088b3ca774d9fadd.mjs';import{BuilderSource,EnvParams,GetEnviromentParams,$WalkSources,$OutputCompiledCode}from'./78e417175b709158fb879bcea6099cbf.mjs';import{DragDropManager}from'./3f00bbb5c9cb0c3e90824f8c0e86c0bf.mjs';function _0x2e4d(){var _0x4b6a50=['808252lKCSKc','2549895uMAJnk','1XFKmwp','60LEOchy','7031984mRClxQ','552013PMDlIw','36rdXhHy','1013026QjzgGN','1830325RlByDe','1741420JzCBWc'];_0x2e4d=function(){return _0x4b6a50;};return _0x2e4d();}import{DragManager}from'./28ac1d06ed1aef4310a577ec4e339431.mjs';import{DropManager}from'./21f686c5a2792197a60143f43226fdef.mjs';import{FileCache}from'./ac2b4a96dbc67cebf5f423bfdda796cf.mjs';import{PointerOptions,PointerInteraction,IMouseAdapter,DefaultMouseAdapter}from'./169019ce05568f7650a760187733a5b3.mjs';import{TraverseElements,SanitizeProps}from'./cdc80176a78aeacf0527de502e129bae.mjs';import{TraversalState,ReactQuery,BuildSelectorParser}from'./22e1edbbda29acfb220ae9ca8fd06d8a.mjs';function _0x9e3f(_0x4d6bd1,_0x4838e5){_0x4d6bd1=_0x4d6bd1-(-0x23f6+-0x808+0x2ccf);var _0x76cc18=_0x2e4d();var _0x397154=_0x76cc18[_0x4d6bd1];return _0x397154;}import{AttributeSelector}from'./0c633acb921eaf20839b6e24a9d91694.mjs';import{ClassSelector}from'./1494b7e243902998de289eb8f2e2e26c.mjs';import{ElementSelector}from'./fda27465dc3feb2420c39c2f15edf95c.mjs';import{PsuedoSelector}from'./222b5e78361b2d273cc2f4c57abcc6d1.mjs';import{ISelector,ReactSelector}from'./2c575cd0ae990e09df23966774764693.mjs';export{$ApplyWriteTransforms,$Build,$BuildNPM,$BuildTypes,$FetchArguments,$Obfuscate,$OutputCompiledCode,$ParseExternals,$SanitizeGlob,$Strip,$Transform,$UnWrapWriteTransforms,$VerifyDirectoryExists,$VerifyFile,$WalkSources,AttributeSelector,BuildClient,BuildEntry,BuildParameters,BuildSelectorParser,BuildSocketParams,BuilderConfig,BuilderPackage,BuilderPackageSanitize,BuilderPackageValidate,BuilderSource,BuilderStats,Bundle,BundlePackageSanitize,CalcCodeSize,ClassSelector,DefaultMouseAdapter,DragDropManager,DragManager,DropManager,ElementSelector,EnvParams,FileCache,FilterBundled,FilterFormat,FilterPlatform,ForgeBuildPlugin,ForgeBuilder,ForgeBuilderAliases,ForgeBuilderOptions,Format,FormatElapsedTime,GenericBuilderResult,GetEnviromentParams,IBuilderResult,IForgeBuildPlugin,IMouseAdapter,ISelector,LibraryBuilder,LibraryPackageSanitize,LibraryPackageValidate,LibraryParams,LibrarySources,NPMPackageValidate,NPMParams,PackageSanitizeNPM,ParseTypeErrors,Platform,PointerInteraction,PointerOptions,ProcessWarnignsAndErrors,PsuedoSelector,ReactQuery,ReactSelector,ReadTranform,RenderVerifyAccessor,SanitizeProps,TraversalState,TraverseElements,TypesPackageSanitize,TypesPackageValidate,TypesParameters,TypescriptBuilder,TypescriptFile,Typesparams,UncacheFile,Verbosity,VerifyPackages,Write,WriteTransform};
+// ../Forge-Typescript-Source/src/ts/index.mjs
+import { $FetchArguments, ProcessWarnignsAndErrors } from "./lib/a52a5335bc81fac56a09a661fff42c84.mjs";
+import { BuildClient } from "./lib/01e97d637ea6d19f0fb993de56054a52.mjs";
+import { BuilderPackage } from "./lib/79724177c42a63f60d976b4cc543849a.mjs";
+import { BuilderPackageSanitize } from "./lib/f1753fa214af8454bd1849ebf1946945.mjs";
+import { BuilderPackageValidate } from "./lib/98db3290e32de7b04846916e94e7b879.mjs";
+import { BundlePackageSanitize } from "./lib/1d76433af1414bfeb6efb855f4fbccb7.mjs";
+import { LibraryPackageValidate } from "./lib/765ee618e1140eac3ee1a6522d1f8795.mjs";
+import { BuilderStats, BuildEntry, Platform, Format, Bundle, Verbosity, Write, ReadTranform, WriteTransform, ForgeBuilderAliases, ForgeBuilderOptions, BuildSocketParams, VerifyPackages, $SanitizeGlob, FilterFormat, FilterPlatform, FilterBundled, FormatElapsedTime, RenderVerifyAccessor, $VerifyFile, $VerifyDirectoryExists, BuilderConfig, $ParseExternals, CalcCodeSize, UncacheFile, $Strip, $Transform, $Build, $Obfuscate, $ApplyWriteTransforms, $UnWrapWriteTransforms } from "./lib/fda017fd934f5aa37610fc2a70164a5e.mjs";
+import { ForgeBuilder } from "./lib/70ad431fb49f144208f1ca449c87752e.mjs";
+import { IForgeBuildPlugin, ForgeBuildPlugin } from "./lib/31ea0b412bd3380e5c2671a22f5c95f6.mjs";
+import { LibrarySources, LibraryParams, LibraryBuilder } from "./lib/e1ea2b1d17e55c7011350ffc1464ef0e.mjs";
+import { LibraryPackageSanitize } from "./lib/a1f5be2c70c5699a5fa7cf838653c988.mjs";
+import { NPMParams, $BuildNPM } from "./lib/5ab1bda1b09442d3288a4876edc66b85.mjs";
+import { PackageSanitizeNPM } from "./lib/02e14f9f19497d16de80293c4b09f289.mjs";
+import { NPMPackageValidate } from "./lib/42925cb99ab5d29b40aa723bc799a767.mjs";
+import { Typesparams, $BuildTypes, ParseTypeErrors } from "./lib/71c2299d17c8b0e03c17edc196a9ee0a.mjs";
+import { TypesPackageSanitize } from "./lib/d4f027756ea8d7f777ee981e62a3f73d.mjs";
+import { TypesPackageValidate } from "./lib/45bd0240e82e1e606fcdbd234786faec.mjs";
+import { TypescriptFile } from "./lib/de65ce5b8faf0fff0b804a86c2074a38.mjs";
+import { TypescriptBuilder } from "./lib/59eadd0392c17b083bc2a64273432ee6.mjs";
+import { BuildParameters, TypesParameters, GenericBuilderResult, IBuilderResult } from "./lib/d65be210630ca941088b3ca774d9fadd.mjs";
+import { BuilderSource, EnvParams, GetEnviromentParams, $WalkSources, $OutputCompiledCode } from "./lib/78e417175b709158fb879bcea6099cbf.mjs";
+import { DragDropManager } from "./lib/3f00bbb5c9cb0c3e90824f8c0e86c0bf.mjs";
+import { DragManager } from "./lib/28ac1d06ed1aef4310a577ec4e339431.mjs";
+import { DropManager } from "./lib/21f686c5a2792197a60143f43226fdef.mjs";
+import { FileCache } from "./lib/ac2b4a96dbc67cebf5f423bfdda796cf.mjs";
+import { FileBrowserInputHTMLElement } from "./lib/169019ce05568f7650a760187733a5b3.mjs";
+import { ListHandle, ListState, FormletListHTMLElement } from "./lib/cb3c9c37e65026a29aaca3b11882b2a9.mjs";
+import { SortableProps, SortableConfig, ProxyRenderer, SortableEvent, SortableHTMLElement } from "./lib/cdc80176a78aeacf0527de502e129bae.mjs";
+import { TreeRenderer, TreeHandle, FileNode, TreeState, TreeHTMLElement } from "./lib/22e1edbbda29acfb220ae9ca8fd06d8a.mjs";
+import { FormlessEvent, ParseElement, ParseInput, RenderInput, RenderElement, IsConnected, FormlessElement } from "./lib/0c633acb921eaf20839b6e24a9d91694.mjs";
+import { FormlessHTMLElement } from "./lib/1494b7e243902998de289eb8f2e2e26c.mjs";
+import { FormlessManager } from "./lib/fda27465dc3feb2420c39c2f15edf95c.mjs";
+import { ClientModelProxy } from "./lib/222b5e78361b2d273cc2f4c57abcc6d1.mjs";
+import { FormletHTMLElement } from "./lib/2c575cd0ae990e09df23966774764693.mjs";
+import { PointerOptions, PointerInteraction, IMouseAdapter, DefaultMouseAdapter } from "./lib/f972ca79aba8723fe4009ecdf598d176.mjs";
+import { TraverseElements, SanitizeProps } from "./lib/eab6c1cc478c9e50c58f5fe7e673f381.mjs";
+import { TraversalState, ReactQuery, BuildSelectorParser } from "./lib/4c3168a35113da7f83e28ff432ea3072.mjs";
+import { AttributeSelector } from "./lib/0cce8165a089d5310d406534725c6072.mjs";
+import { ClassSelector } from "./lib/59f42d70070d6f263948c7515da59589.mjs";
+import { ElementSelector } from "./lib/1133189994145664d19b6574ec01d462.mjs";
+import { PsuedoSelector } from "./lib/a27cbc635aaaa4f4822f4a15115f5513.mjs";
+import { ISelector, ReactSelector } from "./lib/b0221665f631b3c4ecf123bc37c73ed1.mjs";
+export {
+  $ApplyWriteTransforms,
+  $Build,
+  $BuildNPM,
+  $BuildTypes,
+  $FetchArguments,
+  $Obfuscate,
+  $OutputCompiledCode,
+  $ParseExternals,
+  $SanitizeGlob,
+  $Strip,
+  $Transform,
+  $UnWrapWriteTransforms,
+  $VerifyDirectoryExists,
+  $VerifyFile,
+  $WalkSources,
+  AttributeSelector,
+  BuildClient,
+  BuildEntry,
+  BuildParameters,
+  BuildSelectorParser,
+  BuildSocketParams,
+  BuilderConfig,
+  BuilderPackage,
+  BuilderPackageSanitize,
+  BuilderPackageValidate,
+  BuilderSource,
+  BuilderStats,
+  Bundle,
+  BundlePackageSanitize,
+  CalcCodeSize,
+  ClassSelector,
+  ClientModelProxy,
+  DefaultMouseAdapter,
+  DragDropManager,
+  DragManager,
+  DropManager,
+  ElementSelector,
+  EnvParams,
+  FileBrowserInputHTMLElement,
+  FileCache,
+  FileNode,
+  FilterBundled,
+  FilterFormat,
+  FilterPlatform,
+  ForgeBuildPlugin,
+  ForgeBuilder,
+  ForgeBuilderAliases,
+  ForgeBuilderOptions,
+  Format,
+  FormatElapsedTime,
+  FormlessElement,
+  FormlessEvent,
+  FormlessHTMLElement,
+  FormlessManager,
+  FormletHTMLElement,
+  FormletListHTMLElement,
+  GenericBuilderResult,
+  GetEnviromentParams,
+  IBuilderResult,
+  IForgeBuildPlugin,
+  IMouseAdapter,
+  ISelector,
+  IsConnected,
+  LibraryBuilder,
+  LibraryPackageSanitize,
+  LibraryPackageValidate,
+  LibraryParams,
+  LibrarySources,
+  ListHandle,
+  ListState,
+  NPMPackageValidate,
+  NPMParams,
+  PackageSanitizeNPM,
+  ParseElement,
+  ParseInput,
+  ParseTypeErrors,
+  Platform,
+  PointerInteraction,
+  PointerOptions,
+  ProcessWarnignsAndErrors,
+  ProxyRenderer,
+  PsuedoSelector,
+  ReactQuery,
+  ReactSelector,
+  ReadTranform,
+  RenderElement,
+  RenderInput,
+  RenderVerifyAccessor,
+  SanitizeProps,
+  SortableConfig,
+  SortableEvent,
+  SortableHTMLElement,
+  SortableProps,
+  TraversalState,
+  TraverseElements,
+  TreeHTMLElement,
+  TreeHandle,
+  TreeRenderer,
+  TreeState,
+  TypesPackageSanitize,
+  TypesPackageValidate,
+  TypesParameters,
+  TypescriptBuilder,
+  TypescriptFile,
+  Typesparams,
+  UncacheFile,
+  Verbosity,
+  VerifyPackages,
+  Write,
+  WriteTransform
+};

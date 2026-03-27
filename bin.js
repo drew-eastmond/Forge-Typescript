@@ -2,4 +2,1706 @@
 
 
 
-const _0x578bcf=_0xcc13;(function(_0x407a27,_0xb09d1e){const _0x5bcf09=_0xcc13,_0x11cc50=_0x407a27();while(!![]){try{const _0x431656=-parseInt(_0x5bcf09(0x13d))/(-0x1dcc+0x8f6+0x14d7)*(parseInt(_0x5bcf09(0x4b2))/(0x2*-0x54f+-0x1438+0x178*0x15))+-parseInt(_0x5bcf09(0x3b7))/(-0x72*-0x28+-0x865+0x2b*-0x38)*(-parseInt(_0x5bcf09(0x179))/(-0x2*0xd7+-0x19f5+0x1ba7))+-parseInt(_0x5bcf09(0x26f))/(0x28b+0x35*-0xb3+0x2289)+parseInt(_0x5bcf09(0x143))/(-0x916+0x2521+-0x1c05)+-parseInt(_0x5bcf09(0xfd))/(0x49+0x1*-0x240a+0x23c8)*(-parseInt(_0x5bcf09(0x3c8))/(-0xfc3+0x23c6+-0x13fb))+parseInt(_0x5bcf09(0x270))/(-0x1c5+-0xdc8+0xf96)+parseInt(_0x5bcf09(0x1d5))/(0x1e7*-0x2+-0x5*0x1b1+0xc4d)*(-parseInt(_0x5bcf09(0x42c))/(0xb0+0xf40*-0x2+0x1ddb*0x1));if(_0x431656===_0xb09d1e)break;else _0x11cc50['push'](_0x11cc50['shift']());}catch(_0xa7e906){_0x11cc50['push'](_0x11cc50['shift']());}}}(_0x591c,-0xcdb2d+0x102b88+0x8d3c0));function _0x591c(){const _0x589eb1=['transform','oJgjS','JjBpu','ssion','ForgeZip','ZqCaM','QImYi','rbose:\x20\x22','validation','idate]\x22','ue>\x22.js\x22','crypto','JNkjd','vTipo','710886OYTqPx','r\x20Library','OSseu','aIiKC','Nshae','$Read','d\x20director','AXqny','fnTsV','Tgaww','\x20file\x20foun','mbtZH','\x20to\x20esm\x20=\x20','Zlylk','sFcDU','\x20entry\x20}\x20}','TChAj','id\x20directo','\x20found\x20for','IzfjM','mount','\x20for\x20$Tran','or>{\x20bin:\x20','NTQVN','UajOp','qGEUR','ForgeWebSo','sform(\x20...','Traverse','ilnPG','ption\x20sele','\x22\x20{\x0a','piled\x20in:','kiXwZ','\x20to\x20','MnYgM','MkDts','epNYr','GDJuc','inputs','bin.js\x20com','hPuyO','header','wADJc','LXhIN','map','upplied\x20to','LHiZW','MUhqm','r>{\x20out\x20}<','Iroeo','catch','ldKSn','merge','KROOE','toLowerCas','purge','preserve','\x20invalid\x20v','cache','set','files','nrxLm','nbWzM','xists\x20\x22','is\x20a\x20strin','nd\x20will\x20de','n\x20invalid\x20','lxGAs','esbuild','vTdsV','green','Ytkvu','UVhjw','HzRYm','\x20$BuildTyp','Not','match','browser','e:\x20{\x20files','blue>mangl','jWHlu','jbZUF','mangle-ran','mat\x20}</war','nitized\x20fo','MINwa','rver','$ReadDecod','build','GlafR','hJDoc','d\x20compilin','delete','\x22);','fyUzl','zPFcz','lue>cjs','lPxld','./index.d.','ue>cjs\x20|\x20e','aDoZQ',']\x20argument','DecodeStri','DRY\x20ENDED','rSjKT','$validate','resolve','_contexts','s\x20found\x20bu','n\x20for\x20libr','TpKwT','qJoou','fdVGz','yYKTi','zEpoq','fdPIU','rVkex','n\x20found\x20fo','SPeMo','port','remapped','rningAttri','<blue>\x22.mj','allSettled','ght','WJgVo','<cyan>','./lib','cyan','app','tion','\x09<cyan>','ault\x20to\x20<b','960028DHitJR','fPLKk','EBUOk','.parse(\x20..','stdout','iJnqw','<blue>\x09*\x20<','s\x20for\x20<war','rorAttribu','ory\x20and\x20no','fault\x20to\x20<','errors','ignores','javascript','LUUoI','}</warning','s\x20for\x20<err','</yellow>','getSourceM','ary:\x20','ing\x20source','$execute','ForgePath','ISLNO','.map','oShaC','alue.\x20Shou','Top\x20level:','lTPYC','rt-library','SHQvf','\x20}</error>','brotli','VJtNj','sm\x20|\x20iife','yApKV','write','e\x20compiled','or>{\x20bundl','TgnDR','for\x20builde','http','ing>\x20has\x20t','startsWith','MergePacka','hash',',\x20\x22forge-t','CcuDT','wFtFV','join','YgTDY','tree-shaki','update','r\x20Types','ributes','decode','in:\x20','es\x20}</warn','MWrxI','export\x20{};','Resolve','validated\x20','AsyncArgum','\x20following','lidationSu','t\x20for\x20','value.\x20Sho','ArgumentVa','511798rtinAP','GnpOQ','wIHUk','NZVDM','byteLength','HrpVt','walk','rAQQP','ForgeIO','nce','fitcB','gXRNh','rDnew','Exists','XgTLn','\x20is\x20undefi','ning>{\x20ext','uyQbc','entPackage','bundled\x20==','ADQMh',':\x20{\x20esm\x20}\x20','MENT','meta','remove-con','s\x20a\x20direct','cXiGN','hOSdD','ld\x20be\x20<blu','KOtlx','zPRHv','\x20<warning>','e:\x20{\x20root\x20','KGLWE','4|10|5|3|1','WEBSt','Has','Vdcyx','elXVK','$GlobExist','vsjoz','NCTCh','cjs','externals','are\x20module','IOfVc','IOThJ','1.0.0','and\x20will\x20d','\x20\x22preserve','r\x20NPM','\x20in','length','_random\x20|\x20','NHFXW','e-static','$watch','GWODn','vkbGc','[Process]\x20','Base64','tbWqZ','MmBgp','ning>{\x20lib','1wTXosT','$FileExist','ror','AIDaI','ForgeFile','StdinArgum','5916246CYmwTs','node:fs/pr','eMessage','RrZiw','Zwuur','IYEQu','g(\x22DRY\x20RUN','VfddA','ISC','st\x20STARTED','ignore','Cache','$merge','dqEtu','createComp','FIIsD','./bin.js','//\x20@ts-noc','st\x20for\x20','OnSEE','MEAZO','xrYxB','Expression','DecodeAttr','ikzkY','d-cache','ion\x20data','zip','lSbOE','\x20}\x20}</erro','YfpSx','no\x20build\x20o','createHash','red','$Directory','[DRY_RUN]','ypPZD','ations','ning>{\x20pla','\x20flushed','ibutes','clear','consume','ckageMount','FJnju','esm','GiVMp','-static\x20|\x20','ilerHost','ArgumentPa','optional\x20a','HdYlE','AnQxd','ined\x22','3569992bPqwUi','$bundle','qjlVx','GmRHn','ning>\x20is\x20a','hOoWp','$From','alias','eCcjE','\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20','tedCode','require(\x22','-obfuscato','twXpA','mportation','HMpnR','$Write','defined','y\x20\x22','azDiC','JZTBl',':\x20{\x20bundle','\x20library','values','And','$export','validate','Validate','SwPsd','XoyjY','index','JdAoA','TZqFs','ignore\x20fou','minify','Successes:','\x22\x20to\x20\x22','QcZvm','wkwXv','WnITe','ZCDUw','error','Encode','\x20an\x20invali','md5','silent','add','mHnlf','hNPUv','s\x20missing\x22','crjwE','file\x20:','Accessor','Intersects','KtceS','DwKuv','xVgla','CKxsx','Ujjkr','for\x20Librar','tion/forge','urojV','import\x20{\x20','t\x20to\x20=\x20<bl','ning>{\x20for','$stopConte','$library','RDght','lidationWa','\x20already\x20e','RUoxW','get','\x20transform','d\x20will\x20def','magenta','ll\x20default','VKLAH',':\x0a\x20\x20\x20\x20','KjcZx','for\x20<error','inrZZ','metafile','g\x20should\x20b','$route','WauqT','add-contex','|0|12|11','naodH','\x20}\x20from\x20\x22','watch','_sanitizeS','\x20errors:','430pfRnZh','subscribe','copy','tPackage','atform:\x20\x22','size','tes','nDxkM','tsx','fMyNc','AGbdZ','Bundle\x20har','written','Sequential','./index.mj','omises','nJPyC','.tsx','<blue>\x22.js','e>\x20preserv','YrLEr','BSQAc','ixcmc','MergeValid','QEjsQ','ing>\x20is\x20an','$parse','VGLAY','ForgeSynta','PM(\x20...\x20)','IrfHA','YpLvF','typescript','UKNqw','OZlmC','forge-libr','mangle-sta','ned','BakZF','$sanitize','toFixed','ING','e\x20file','XMdNP','s\x20undefine','wGGYT','.//','rgmXO','PackageVal','vSnPx','footer','t\x20yet\x20impl','\x20to\x20cjs\x20=\x20','$Fetch','Entry\x20file','is\x20is\x20unde','d-ignore','Package\x20sa','PsteV','e\x20{\x20bin:\x20{','mangle_ran','HSBzR','\x22\x20with\x20the','ckage','QueryManag','kxSVt','EQKTC','$CopyGlob','PM\x20package','library','manifest','directorie','LGwhc','_$subscrib','FdpkP','fBSDv','onload','Jgqhj','FnMOT','uBpSB','exlzF','LgTTx','repeat','lues','.ts','incompable','\x20for\x20<erro','\x20\x20\x20\x20\x0a};','<yellow>','ptional\x20an','rvTLk','QVzKm','{\x20root\x20}\x20}','OJcmc','ram','opying\x20','</cyan>\x20is','<blue>neut','aAEUx','replace','index.d.ts','aDsHr','npm','Unresolved','stringify','createProg','MPAhh','d\x20valiatio','\x20into\x20libr','jTPIS','package.js','$types','QVxzi','VERBOSITY','BBvnf','has','FInbM','SXCvy','plemented\x20','or>{\x20sourc','memory','argv','tform\x20}</w','blue','azpLG','s\x20building','qEDXE',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20','ns:\x20mangle','ral','Port\x20not\x20s','CkBJG','zsJeo','DRY_RUN','onLoad','ILidj','\x22forge-js\x22','le:\x20\x22','grUco','constructo','TXpRi','$Glob','all','efined','Join','tsc','ources','LNXIJ','GDfjc','\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20','zjtFn','heck\x0a\x0adecl','MvGpd','}</error>\x20','1637585cgDGbr','13977927IxkERk','YcHli','outputFile','node','<red>error','GpvmE','dom\x20|\x20merg','Reactivity','component','./tmp','ary-bundle','types','>{\x20builder','>{\x20name\x20}<','\x0aAborting\x20','cnDTz','HLRER','emit','ilding\x20a\x20N','includes','xParser','ouSmT','CLIArgumen','XQBTd','{\x20entry\x20}\x20','sVBIp','\x20for\x20file:','//\x20','butes','BeBLw','target\x20for','FLqCB','JhtqG','implode','jaWbz','g\x20from\x20act','\x20optional\x20','reject','\x0aexport\x20{\x0a','hyZgn','KhGAD','r>\x20is\x20unde','fined','n/env\x20node','Invalid\x20Ve','isFile','BoKXy','or>{\x20bin\x20}','vrHuP','OdpkE','code','mangle_sta','types\x20to\x20\x22','r\x20[Library','ccess','is\x20missing','BWsJU','now','Fetch','zmyEQ','lidated\x20fo','row','\x0a\x20\x20\x20\x20','</warning>','Parse','.mjs','aliases','ViPxj','MWBxO','Error\x20foun','wing\x20optio','_decoder','freHp','\x20be\x20one\x20of','onal\x20and\x20w','XVCUh','gxfvi','>\x20is\x20is\x20un','s\x20type\x20<er','IMDxl','@onyx-igni','or>\x20should','YJUve','VHBuI','ng\x20invalid','Invalid\x20Pl','PoJHO','es\x20no\x20exis','neutral\x20|\x20','socket','ed\x20}</warn','\x20compiled\x20','node:','VZKoa','pWPKb','NQmEH','bundle','verbose','NoZbL','MPfJs','es(\x20...\x20)\x22','IlnxW','bundled','Result','SOIzv','qLryC','UISSk','yella','[X]</red>\x0a','{\x20content\x20','Errors:','path','HlzIX','forge-ts','NnVUm','hgGgO','ezdjl','found\x20macr','groups','iife','tzWcv','<red>Error','column','split','XeABb','getObfusca','CrWbj','\x20arguments','tic','obfuscate','./lib/','FVzcB','arguments\x20','contents','emented','THyYy','name','slice','in\x20$BuildN','<red>','writeFile','mpiled\x20in:','not\x20yet\x20im','or>{\x20files','MIIMq','CqGjp','neutral','base','format','_cache','UXQDf','ailure\x20cau','>{\x20files\x20}','or>{\x20ignor','treeShakin','jsx','WEChm','gPaXM','cted?','xzaUS','\x20missing\x20o','ahVIK','g>\x20is\x20opti','pVKgG','LSNDA','ForgeClien','\x20targets:\x0a','LVRnl','default','xWHfl','starting\x20i','message','XJkAi','\x20)\x22)',']\x20No\x20neste','success','yellow','CsiNM','push','es\x20nto\x20exi','QLmUp','e\x20|\x20mangle','separate','skipping','YptFa','hex','s\x20an\x20inval','kNSaG',':{\x20','\x20Socket\x20Se','HBCLR','>\x20is\x20optio','.jsx','ror>{\x20bin\x20','\x20bundling\x20','XYBpq','d\x20}\x20}</err','library\x20co','read','elapsed','onEnd','ry\x20to\x20writ','WRONG\x20ARGU','./index.js','arning>\x20is','IFPGQ','dom','QuerySeque','vuhTj','log','t\x20to\x20<blue','dir','kictr','ue>node\x20|\x20','eWMMr','#!\x20/usr/bi','ADD\x20SOMETH','KqIHS','.js','IzkCW','LbSVi','console.lo','ZZrzS','FpHbQ','\x20Bunbled:\x20','rning>\x20is\x20','NO\x20tested\x20','d\x20imports\x20','context\x20do','LCZNW','Invalid\x20bu','PdNon','daZTL','ndex.d.ts\x20','VkLmL','Relative','ScopeExpre','root','empty\x20func','bind','TzZHK','_source','vrtIi','entry','MjQJb','$Stat','klhbn','rmat:\x20\x22','EwcqW','text','>>>','base64','filter','\x20//\x20skippe','exit','_$extractI','g(\x22DRY_RUN','WldMS','</error>\x20i','ndle\x20optio','forge-expo','xUGTn','s\x22,\x20are\x20no','CGAkZ',']\x20Package\x20','daHbg','$listen','Uncache','VgHLL','$startCont','<red>Persi','Warnings:','>\x20is\x20undef','vBkIm','\x22in\x22\x20prope','xChOC','Rjrlo','cketServer','warn','ning>{\x20bun','isArray','Knvvp','uld\x20be\x20<bl','exec','node:modul','OMrsq','uztvm','qhKgZ','nal\x20and\x20wi','t\x20a\x20valid\x20','Attributes','lidationEr','\x20}</warnin','ary','test','$flush','platform','jsXRq','DJObN','MyUEA','Sanitize','ExplodeAtt','after','QVIRZ','tic\x20|\x20pres','efault\x20to\x20','$reset','\x20the\x20dollo','xxceK','</red>','sNdDJ','HHFpR','xlsHJ','AnXeo','NPM\x20packag','n:\x20','or>{\x20index','IVorc','mMrMq','xBoEX','Invalid\x20Fo','yhsuk','_server','build!!!','7|2|6|8|9|','}\x20}</error','FkPAh','3HKppbs','[DRY_RUN]c','d:\x20','forge-js','.\x20)\x20race\x20f','gzip','nuZVG',':\x20{\x20cjs\x20}\x20','rty\x20missin','forge-buil','gQqns','xStatement','vnPJI','thbLb','parse','d\x20coded\x20to',']\x20package\x20','104fjRNvb','BLuzL','\x20<error>','lOMYs','keys','ddtqq','dled\x20}</wa','warnings','PfGwk','BgEPt','olpQs','olWIF','UKVCt','loytf','MergeAttri','bQaFH','WdHHB','r\x20not\x20a\x20fi','rning','PmAMt','HotNR','he\x20followi','ill\x20defaul','PfrNz','MbjKe','SLYdO','xDLmT','GJhak','Package\x20va','bin','SpNTP','omponents','Clear','or>{\x20root\x20','zqsBC','/error>\x20is','hTtjz','$GZip','\x5cd+','\x20is\x20is\x20und','$Walk','svOLP','ning>\x20is\x20o','dUIdq','aqeVC','ges','first','{index}','RDITm','EUxNz','before','digest','$FetchStri','vteDI','>\x22./lib/\x22','QuickHash','Llyvf','entries','cyan>','IsAbsolute','\x20undefined','ZJYNt','LaxZm','fbRwI','uSIjs','_exportedC','validators','ext','GeYPF','plugins','git','onResolve','last','WHJgK','frame','fTCdf','ytWUQ','erve\x20|\x20mer','gvDaM','TZFvC','KcFTf','lrCub','zpaLl','nTJJu','MEnnu','UCWMT'];_0x591c=function(){return _0x589eb1;};return _0x591c();}var import_forge18=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_forge4=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_forge3=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_esbuild=require(_0x578bcf(0x471)),import_javascript_obfuscator=require(_0x578bcf(0x4bf)+_0x578bcf(0x185)+'r'),import_forge=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5));function GetEnviromentParams(){const _0x1cb9cd=_0x578bcf,_0x45ac15={'nJPyC':_0x1cb9cd(0x263)};return{'DRY_RUN':![],'VERBOSITY':_0x45ac15[_0x1cb9cd(0x1e5)]};}async function $OutputCompiledCode(_0x22e312,_0xfd22b3){const _0x2e4c2b=_0x578bcf,_0x322541={'TZqFs':function(_0x30ea3b,_0x1a24e4){return _0x30ea3b instanceof _0x1a24e4;},'wIHUk':function(_0x2f44f9){return _0x2f44f9();},'azDiC':_0x2e4c2b(0x166),'VfddA':_0x2e4c2b(0x1e1)};if(_0x322541[_0x2e4c2b(0xff)](GetEnviromentParams)[_0x2e4c2b(0x25a)]){console[_0x2e4c2b(0x341)](_0x322541[_0x2e4c2b(0x18c)],_0xfd22b3,_0x322541[_0x2e4c2b(0x14a)]);return;}_0xfd22b3?await import_forge[_0x2e4c2b(0x141)][_0x2e4c2b(0x189)](_0xfd22b3,_0x22e312,{'recursive':!![]}):await new Promise(function(_0x3afaf4,_0xd4eb4a){const _0x44f173=_0x2e4c2b;_0x322541[_0x44f173(0x199)](_0x22e312,ArrayBuffer)?process[_0x44f173(0x4b6)][_0x44f173(0x4d6)](new Uint8Array(_0x22e312),_0x3afaf4):process[_0x44f173(0x4b6)][_0x44f173(0x4d6)](_0x22e312,_0x3afaf4);});}var import_forge2=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),FileCacheInternal=class{[_0x578bcf(0x305)]=new Map();[_0x578bcf(0x2b7)]=new TextDecoder();[_0x578bcf(0x121)](_0x2f5ef1){const _0x1a21e2=_0x578bcf;return this[_0x1a21e2(0x305)][_0x1a21e2(0x248)](_0x2f5ef1);}async[_0x578bcf(0x3fc)+'ng'](_0x564fa7){const _0x5520a0=_0x578bcf;return this[_0x5520a0(0x2b7)][_0x5520a0(0xf0)](await this[_0x5520a0(0x20a)](_0x564fa7));}async[_0x578bcf(0x20a)](_0x46dbf9){const _0xd3ad7a=_0x578bcf;if(this[_0xd3ad7a(0x305)][_0xd3ad7a(0x248)](_0x46dbf9))return this[_0xd3ad7a(0x305)][_0xd3ad7a(0x1c0)](_0x46dbf9);const _0xc95b2e=await import_forge2[_0xd3ad7a(0x141)][_0xd3ad7a(0x431)](_0x46dbf9);return this[_0xd3ad7a(0x305)][_0xd3ad7a(0x468)](_0x46dbf9,_0xc95b2e),_0xc95b2e;}[_0x578bcf(0x14e)](_0x146dfa,_0x539c12){const _0x8e9289=_0x578bcf;if(this[_0x8e9289(0x305)][_0x8e9289(0x248)](_0x146dfa))return![];return this[_0x8e9289(0x305)][_0x8e9289(0x468)](_0x146dfa,_0x539c12),!![];}[_0x578bcf(0x37b)](_0x1997f6){const _0x34c5a6=_0x578bcf;return this[_0x34c5a6(0x305)][_0x34c5a6(0x489)](_0x1997f6);}[_0x578bcf(0x3e8)](){const _0x4a2c19=_0x578bcf;this[_0x4a2c19(0x305)][_0x4a2c19(0x16c)]();}},FileCache=new FileCacheInternal(),CachePlugin={'name':_0x578bcf(0x3c0)+_0x578bcf(0x15c),'setup'(_0x1f5581){const _0x3eac85=_0x578bcf,_0x24ec34={'rgmXO':_0x3eac85(0x2e5)+'o','BWsJU':_0x3eac85(0x1dd)};_0x1f5581[_0x3eac85(0x25b)]({'filter':/\.((mjs)|(ts|x)|(js|x)$)/},async function(_0x898c88){const _0x1be7a0=_0x3eac85,_0x44d7b0=_0x898c88[_0x1be7a0(0x2df)];let _0x4a1fda=await FileCache[_0x1be7a0(0x3fc)+'ng'](_0x44d7b0);const _0x1dac79=/\(\s*(?<params>.*?)\)\s*=>\s*require\(["'`](?<macro>.+?)["'`]\s*\)/;return _0x1dac79[_0x1be7a0(0x396)](_0x4a1fda)&&console[_0x1be7a0(0x473)](_0x24ec34[_0x1be7a0(0x204)]),{'contents':_0x4a1fda,'loader':_0x24ec34[_0x1be7a0(0x2a8)]};});}};function VerifyPackages(_0x348c88,_0x57993a){const _0x533c15=_0x578bcf,_0x39df6b={'nDxkM':function(_0x1909e5,_0x51889a){return _0x1909e5==_0x51889a;}},_0x2037cb=[];for(const [_0x1614f5,_0x463810]of Object[_0x533c15(0x401)](_0x57993a)){let _0x4eb76c=0x2013+0x7*0x9d+0xe*-0x299;for(const _0x3dd3b5 of _0x348c88){for(const [_0x12a5a7,_0x5dd24c]of _0x3dd3b5[_0x533c15(0x426)+'s'])if(_0x463810[_0x533c15(0x479)](_0x5dd24c))_0x4eb76c++;}if(_0x39df6b[_0x533c15(0x1dc)](_0x4eb76c,-0x1*-0xeac+0x11*0x133+-0x230f))_0x2037cb[_0x533c15(0x322)](_0x1614f5);}_0x2037cb[_0x533c15(0x131)]&&(console[_0x533c15(0x164)](_0x2037cb[_0x533c15(0x4e3)]('\x0a')),process[_0x533c15(0x36e)]());}async function $SanitizeGlob(_0x4fed81){const _0x3122d8=_0x578bcf,_0x5ae566={'IMDxl':function(_0xf45504,_0xd7aaf){return _0xf45504===_0xd7aaf;},'HLRER':function(_0x1e7937,_0x3f830a){return _0x1e7937(_0x3f830a);}};if(_0x5ae566[_0x3122d8(0x2bf)](_0x4fed81?.[_0x3122d8(0x260)+'r'],String))_0x4fed81=_0x5ae566[_0x3122d8(0x280)](String,_0x4fed81)[_0x3122d8(0x2eb)](/\s*,\s*/g);if(_0x5ae566[_0x3122d8(0x2bf)](_0x4fed81?.[_0x3122d8(0x260)+'r'],Array))return import_forge3[_0x3122d8(0x141)][_0x3122d8(0x262)](_0x4fed81,{'resolve':!![]});}function FilterPlatform(_0x4fae76){const _0x1b100f=_0x578bcf,_0x40cc30={'xlsHJ':function(_0x4391b3,_0x29d2cb){return _0x4391b3(_0x29d2cb);},'BoKXy':_0x1b100f(0x273),'Llyvf':_0x1b100f(0x302),'yYKTi':_0x1b100f(0x47a)};switch(_0x40cc30[_0x1b100f(0x3a8)](String,_0x4fae76)[_0x1b100f(0x463)+'e']()){case _0x40cc30[_0x1b100f(0x29e)]:return _0x40cc30[_0x1b100f(0x29e)];case _0x40cc30[_0x1b100f(0x400)]:return _0x40cc30[_0x1b100f(0x400)];case _0x40cc30[_0x1b100f(0x49e)]:return _0x40cc30[_0x1b100f(0x49e)];}}function FilterBundled(_0x4bdb4c){const _0x2e6c8e=_0x578bcf,_0x3b0d16={'eCcjE':function(_0x4844d9,_0x219632){return _0x4844d9(_0x219632);},'fbRwI':_0x2e6c8e(0x465),'UVhjw':_0x2e6c8e(0x1f9)+_0x2e6c8e(0x2f0),'dUIdq':_0x2e6c8e(0x2a3)+_0x2e6c8e(0x2f0),'Rjrlo':_0x2e6c8e(0x47f)+_0x2e6c8e(0x33e),'VJtNj':_0x2e6c8e(0x211)+_0x2e6c8e(0x33e),'KGLWE':_0x2e6c8e(0x461)};switch(_0x3b0d16[_0x2e6c8e(0x181)](String,_0x4bdb4c)[_0x2e6c8e(0x463)+'e']()){case _0x3b0d16[_0x2e6c8e(0x407)]:return _0x3b0d16[_0x2e6c8e(0x407)];case _0x3b0d16[_0x2e6c8e(0x475)]:return _0x3b0d16[_0x2e6c8e(0x3f3)];case _0x3b0d16[_0x2e6c8e(0x384)]:return _0x3b0d16[_0x2e6c8e(0x4d3)];case _0x3b0d16[_0x2e6c8e(0x11e)]:return _0x3b0d16[_0x2e6c8e(0x11e)];}}function FormatElapsedTime(_0x49818f){const _0x490a11=_0x578bcf,_0x174789={'CcuDT':function(_0x213b19,_0x709667){return _0x213b19(_0x709667);},'OJcmc':function(_0x123ce2,_0x435b49){return _0x123ce2*_0x435b49;}};return _0x174789[_0x490a11(0x4e1)](Number,_0x174789[_0x490a11(0x232)](_0x49818f,-0xce3+0x26b8+-0x19d5+0.001))[_0x490a11(0x1fd)](-0x1*-0x1f0f+-0xad*-0x6+0x1*-0x231b);}function RenderVerifyAccessor(_0x2682a4){const _0x47622e=_0x578bcf,_0xf21599={'fBSDv':function(_0x53d1b9,_0xa1a635){return _0x53d1b9<_0xa1a635;},'IlnxW':function(_0x1369d3,_0x220427){return _0x1369d3==_0x220427;},'jbZUF':function(_0x396eee,_0x582c8c){return _0x396eee+_0x582c8c;}},_0x2bb40d=[];for(let _0x225955=0x134e+-0xf9d+0x5*-0xbd;_0xf21599[_0x47622e(0x220)](_0x225955,_0x2682a4[_0x47622e(0x131)]);_0x225955++){const _0x3a2d26=_0x2682a4[_0x225955];_0xf21599[_0x47622e(0x2d5)](_0xf21599[_0x47622e(0x47e)](_0x225955,-0xca3+-0x3f*0x89+0x2e5b*0x1),_0x2682a4[_0x47622e(0x131)])?_0x2bb40d[_0x47622e(0x322)]('{\x20'+_0x3a2d26):_0x2bb40d[_0x47622e(0x322)]('{\x20'+_0x3a2d26+':');}return _0x2bb40d[_0x47622e(0x322)](...'}'[_0x47622e(0x227)](_0x2682a4[_0x47622e(0x131)])),''+_0x2bb40d[_0x47622e(0x4e3)]('\x20');}async function $VerifyFile(_0xe2d36c,_0x5b4667){const _0x4e0e37=_0x578bcf,_0x12532f={'nrxLm':function(_0x4ffb92,_0xa6fc2c){return _0x4ffb92===_0xa6fc2c;},'GiVMp':function(_0x71c63b,_0x5e2b4d){return _0x71c63b(_0x5e2b4d);},'YpLvF':function(_0x184ad2,_0x2d888f){return _0x184ad2(_0x2d888f);},'SpNTP':function(_0x2784cb,_0x80bd0c){return _0x2784cb===_0x80bd0c;},'tzWcv':function(_0x51e93c,_0x55f998){return _0x51e93c(_0x55f998);}},_0x1c391f=_0x5b4667?.[_0x4e0e37(0x3cf)]??[],_0x2395b4=_0x5b4667?.[_0x4e0e37(0x4bd)]??[],_0x1a2f89=(-0x1612+0x10ba+0x558,import_forge3[_0x4e0e37(0x39d)+_0x4e0e37(0xef)])(_0xe2d36c);for(const {accessor:_0x29935a,value:_0x54eddc}of _0x1a2f89){const _0x4142b4=_0x54eddc;if(_0x12532f[_0x4e0e37(0x46a)](_0x4142b4,void(-0x8a5*0x1+0x2f*-0x8e+0x22b7)))_0x2395b4[_0x4e0e37(0x322)](_0x4e0e37(0x4cd)+_0x4e0e37(0x2ef)+_0x4e0e37(0x28a)+_0x4e0e37(0x3ca)+_0x12532f[_0x4e0e37(0x171)](RenderVerifyAccessor,_0x29935a)+(_0x4e0e37(0x372)+_0x4e0e37(0x201)+'d'));else{if(_0x12532f[_0x4e0e37(0x46a)](await import_forge3[_0x4e0e37(0x141)][_0x4e0e37(0x165)+_0x4e0e37(0x10a)](_0x4142b4)[_0x4e0e37(0x45f)](_0x1c3ed5=>![]),!![]))_0x2395b4[_0x4e0e37(0x322)](_0x4e0e37(0x4cd)+_0x4e0e37(0x2ef)+_0x4e0e37(0x28a)+_0x4e0e37(0x3ca)+_0x12532f[_0x4e0e37(0x1f4)](RenderVerifyAccessor,_0x29935a)+(_0x4e0e37(0x372)+_0x4e0e37(0x116)+_0x4e0e37(0x4bb)+_0x4e0e37(0x391)+_0x4e0e37(0x28e)+'\x20\x22')+_0x4142b4+'\x22');else{const {dir:_0x35dc77}=import_forge3[_0x4e0e37(0x4c8)][_0x4e0e37(0x2b0)](_0x4142b4);if(_0x12532f[_0x4e0e37(0x3e6)](await import_forge3[_0x4e0e37(0x141)][_0x4e0e37(0x165)+_0x4e0e37(0x10a)](_0x35dc77),![]))_0x2395b4[_0x4e0e37(0x322)](_0x4e0e37(0x4cd)+_0x4e0e37(0x2ef)+_0x4e0e37(0x28a)+_0x4e0e37(0x3ca)+_0x12532f[_0x4e0e37(0x2e8)](RenderVerifyAccessor,_0x29935a)+(_0x4e0e37(0x372)+_0x4e0e37(0x32a)+_0x4e0e37(0x43d)+_0x4e0e37(0x339)+_0x4e0e37(0x1ff)));else await import_forge3[_0x4e0e37(0x141)][_0x4e0e37(0x165)+_0x4e0e37(0x10a)](_0x35dc77)&&_0x1c391f[_0x4e0e37(0x322)](_0x4e0e37(0x4cd)+_0x4e0e37(0x2ef)+_0x4e0e37(0x28a)+_0x4e0e37(0x11c)+_0x12532f[_0x4e0e37(0x1f4)](RenderVerifyAccessor,_0x29935a)+(_0x4e0e37(0x2af)+_0x4e0e37(0x1be)+_0x4e0e37(0x46c))+_0x4142b4+'\x22');}}}return{'warnings':_0x1c391f,'errors':_0x2395b4};}async function $VerifyDirectoryExists(_0x232c8e,_0x131c08){const _0x4ae720=_0x578bcf,_0x4195c1={'aAEUx':function(_0x1ef960,_0xd10275){return _0x1ef960===_0xd10275;}},_0x1415e2=_0x131c08?.[_0x4ae720(0x3cf)]??[],_0x3ce708=_0x131c08?.[_0x4ae720(0x4bd)]??[],_0xaf980b=(0x4f*0x71+-0x1*0x1615+-0x1*0xcca,import_forge3[_0x4ae720(0x39d)+_0x4ae720(0xef)])(_0x232c8e);for(const {accessor:_0x245721,value:_0x7d057f}of _0xaf980b){const _0x1a66dd=_0x7d057f;if(_0x4195c1[_0x4ae720(0x237)](_0x1a66dd,void(0x20a3+0x897*0x1+-0x1*0x293a)))_0x3ce708[_0x4ae720(0x322)](_0x4ae720(0x4cd)+_0x4ae720(0x2ef)+_0x4ae720(0x22b)+_0x4ae720(0x45d)+_0x4ae720(0x3eb)+_0x4ae720(0x404));else _0x4195c1[_0x4ae720(0x237)](await import_forge3[_0x4ae720(0x141)][_0x4ae720(0x165)+_0x4ae720(0x10a)](_0x1a66dd),![])&&_0x3ce708[_0x4ae720(0x322)](_0x4ae720(0x4cd)+_0x4ae720(0x2ef)+_0x4ae720(0x22b)+_0x4ae720(0x45d)+_0x4ae720(0x3eb)+_0x4ae720(0x1a4)+_0x4ae720(0x432)+_0x4ae720(0x18b)+_0x1a66dd+'\x22');}return{'warnings':_0x1415e2,'errors':_0x3ce708};}var BuilderConfig=class _BuilderConfig extends Object{static async[_0x578bcf(0x17f)](_0x247cb7){const _0x4be1d1=_0x578bcf,_0x367eed={'CkBJG':function(_0x413ece,_0xc8eb9f){return _0x413ece(_0xc8eb9f);},'LgTTx':function(_0x51c073,_0x5c896c){return _0x51c073(_0x5c896c);},'olWIF':_0x4be1d1(0x4e5)+'ng','MnYgM':function(_0x54465c,_0x5ec782){return _0x54465c===_0x5ec782;},'jWHlu':_0x4be1d1(0x2f1),'ilnPG':function(_0x204671,_0x201a4a){return _0x204671===_0x201a4a;},'HrpVt':_0x4be1d1(0x3bc),'QVIRZ':function(_0x8f00f1,_0x12ac33){return _0x8f00f1(_0x12ac33);},'QVxzi':_0x4be1d1(0x24d)},_0x2fec83=(0x1*-0x29+-0xa88+-0x17*-0x77,import_forge3[_0x4be1d1(0x4de)+_0x4be1d1(0x3f5)])(_0x247cb7,import_forge3[_0x4be1d1(0x33f)+_0x4be1d1(0x106)]['Or']({'builder':import_forge3[_0x4be1d1(0x1ae)]})),_0x3239eb=_0x2fec83[_0x4be1d1(0x304)],_0x3831e4=_0x367eed[_0x4be1d1(0x258)](FilterBundled,_0x2fec83[_0x4be1d1(0x2d6)]),_0x5a1184=_0x367eed[_0x4be1d1(0x226)](FilterPlatform,_0x2fec83[_0x4be1d1(0x398)]),_0x907aac=_0x2fec83[_0x4be1d1(0x114)],_0x3e227e=_0x2fec83[_0x367eed[_0x4be1d1(0x3d3)]],_0x257554=await import_forge3[_0x4be1d1(0x141)][_0x4be1d1(0x262)](_0x2fec83[_0x4be1d1(0x4be)]??[]),_0x54157e={'read':[],'write':[]},_0x23e5ed=_0x2fec83[_0x4be1d1(0x41e)];if(_0x367eed[_0x4be1d1(0x44f)](_0x23e5ed?.[_0x4be1d1(0x4d6)]?.[_0x367eed[_0x4be1d1(0x47d)]],!![]))_0x54157e[_0x4be1d1(0x4d6)][_0x4be1d1(0x322)](_0x367eed[_0x4be1d1(0x47d)]);if(_0x367eed[_0x4be1d1(0x449)](_0x23e5ed?.[_0x4be1d1(0x4d6)]?.[_0x367eed[_0x4be1d1(0x102)]],!![]))_0x54157e[_0x4be1d1(0x4d6)][_0x4be1d1(0x322)](_0x367eed[_0x4be1d1(0x102)]);const _0x2bba33=_0x2fec83[_0x4be1d1(0x180)],_0x3de313={'files':_0x2bba33?.[_0x4be1d1(0x469)]??{},'directories':_0x2bba33?.[_0x4be1d1(0x21c)+'s']??{}},_0x73b98=await _0x367eed[_0x4be1d1(0x39f)]($ParseExternals,_0x367eed[_0x4be1d1(0x226)](String,_0x2fec83[_0x4be1d1(0x128)])[_0x4be1d1(0x2eb)](/\s*,\s*/));return new _BuilderConfig({'bundled':_0x3831e4,'format':_0x3239eb,'platform':_0x5a1184,'metafile':_0x907aac,'treeShaking':_0x3e227e,'ignores':_0x257554,'write':_0x367eed[_0x4be1d1(0x245)],'externals':_0x73b98,'transform':_0x54157e,'aliases':_0x3de313});}[_0x578bcf(0x2d6)];[_0x578bcf(0x398)];[_0x578bcf(0x304)];[_0x578bcf(0x1ca)];[_0x578bcf(0x128)];[_0x578bcf(0x2d1)];[_0x578bcf(0x30a)+'g'];[_0x578bcf(0x4be)];[_0x578bcf(0x2b2)];[_0x578bcf(0x4d6)];[_0x578bcf(0x41e)];constructor(_0x420820){const _0x53eba6=_0x578bcf,_0x240dd8={'IOThJ':_0x53eba6(0x3b4)+_0x53eba6(0x11f)+_0x53eba6(0x1cf),'IrfHA':_0x53eba6(0x24d),'CrWbj':function(_0x10e703,_0x5a938a){return _0x10e703??_0x5a938a;},'CsiNM':function(_0x379608,_0x4dceae){return _0x379608===_0x4dceae;},'SOIzv':_0x53eba6(0x263),'PoJHO':_0x53eba6(0x461),'AXqny':_0x53eba6(0x273),'QVzKm':_0x53eba6(0x127)},_0x26f57c=_0x240dd8[_0x53eba6(0x12b)][_0x53eba6(0x2eb)]('|');let _0x482d3e=-0x1f7*-0x11+-0x25ac+0x445;while(!![]){switch(_0x26f57c[_0x482d3e++]){case'0':this[_0x53eba6(0x4d6)]=_0x420820[_0x53eba6(0x4d6)]??_0x240dd8[_0x53eba6(0x1f3)];continue;case'1':this[_0x53eba6(0x4be)]=_0x420820[_0x53eba6(0x4be)]??[];continue;case'2':_0x420820=_0x240dd8[_0x53eba6(0x2ee)](_0x420820,{});continue;case'3':this[_0x53eba6(0x1ca)]=_0x240dd8[_0x53eba6(0x321)](_0x420820[_0x53eba6(0x1ca)],![])?![]:!![];continue;case'4':this[_0x53eba6(0x30a)+'g']=_0x420820[_0x53eba6(0x30a)+'g']??!![];continue;case'5':this[_0x53eba6(0x2d1)]=_0x420820[_0x53eba6(0x2d1)]??_0x240dd8[_0x53eba6(0x2d8)];continue;case'6':this[_0x53eba6(0x2d6)]=_0x420820[_0x53eba6(0x2d6)]??_0x240dd8[_0x53eba6(0x2c6)];continue;case'7':super();continue;case'8':this[_0x53eba6(0x398)]=_0x420820[_0x53eba6(0x398)]??_0x240dd8[_0x53eba6(0x433)];continue;case'9':this[_0x53eba6(0x304)]=_0x420820[_0x53eba6(0x304)]??_0x240dd8[_0x53eba6(0x230)];continue;case'10':this[_0x53eba6(0x128)]=_0x420820[_0x53eba6(0x128)]??[];continue;case'11':this[_0x53eba6(0x2b2)]={'files':_0x420820[_0x53eba6(0x2b2)]?.[_0x53eba6(0x469)]??{},'directories':_0x420820[_0x53eba6(0x2b2)]?.[_0x53eba6(0x21c)+'s']??{}};continue;case'12':this[_0x53eba6(0x41e)]={'read':_0x420820[_0x53eba6(0x41e)]?.[_0x53eba6(0x336)]??[],'write':_0x420820[_0x53eba6(0x41e)]?.[_0x53eba6(0x4d6)]??[]};continue;}break;}}async[_0x578bcf(0x496)](){const _0x1e2e84=_0x578bcf,_0x19a1ab={'YJUve':_0x1e2e84(0x47a),'WdHHB':_0x1e2e84(0x273),'BSQAc':_0x1e2e84(0x302),'fdVGz':_0x1e2e84(0x127),'IVorc':_0x1e2e84(0x170),'fnTsV':_0x1e2e84(0x2e7),'PmAMt':_0x1e2e84(0x263),'UXQDf':_0x1e2e84(0x1a2),'mMrMq':_0x1e2e84(0x386),'MWBxO':_0x1e2e84(0x341)},_0x432245=new import_forge3[(_0x1e2e84(0x2d7))]();switch(this[_0x1e2e84(0x398)]){case _0x19a1ab[_0x1e2e84(0x2c2)]:case _0x19a1ab[_0x1e2e84(0x3d8)]:case _0x19a1ab[_0x1e2e84(0x1ea)]:break;default:_0x432245[_0x1e2e84(0x1a7)](new Error(_0x1e2e84(0x2c5)+_0x1e2e84(0x1d9)+this[_0x1e2e84(0x398)]+'\x22'),{'platform':!![],'error':!![]});}switch(this[_0x1e2e84(0x304)]){case _0x19a1ab[_0x1e2e84(0x49d)]:case _0x19a1ab[_0x1e2e84(0x3ad)]:case _0x19a1ab[_0x1e2e84(0x434)]:break;default:_0x432245[_0x1e2e84(0x1a7)](new Error(_0x1e2e84(0x3b0)+_0x1e2e84(0x367)+this[_0x1e2e84(0x304)]+'\x22'),{'format':!![],'error':!![]});}switch(this[_0x1e2e84(0x2d1)]){case _0x19a1ab[_0x1e2e84(0x3db)]:case _0x19a1ab[_0x1e2e84(0x306)]:case _0x19a1ab[_0x1e2e84(0x3ae)]:case _0x19a1ab[_0x1e2e84(0x2b4)]:break;default:_0x432245[_0x1e2e84(0x1a7)](new Error(_0x1e2e84(0x29c)+_0x1e2e84(0x425)+this[_0x1e2e84(0x2d1)]+'\x22'),{'verbose':!![],'error':!![]});}return _0x432245;}};async function $ParseExternals(_0x1c0267){const _0x24c60f=_0x578bcf,_0x1173cf={'qJoou':function(_0x2ad5ba,_0x1f65d5){return _0x2ad5ba(_0x1f65d5);},'Zlylk':_0x24c60f(0x38c)+'e','FkPAh':_0x24c60f(0x471),'MyUEA':_0x24c60f(0x3cc),'FLqCB':_0x24c60f(0x190),'OdpkE':function(_0x34de3a,_0x88cfb9){return _0x34de3a===_0x88cfb9;},'JjBpu':function(_0x38f001,_0xabf91d){return _0x38f001===_0xabf91d;},'oJgjS':function(_0x3df2d6,_0x2933e2){return _0x3df2d6===_0x2933e2;},'YgTDY':function(_0xadeba8,_0x232ff4){return _0xadeba8(_0x232ff4);}},{builtinModules:_0x149f47}=_0x1173cf[_0x24c60f(0x49c)](require,_0x1173cf[_0x24c60f(0x439)]),_0x36ddfa=new Set([_0x1173cf[_0x24c60f(0x3b6)],..._0x149f47,..._0x149f47[_0x24c60f(0x459)](_0x426c26=>_0x24c60f(0x2cc)+_0x426c26)]),_0x3524e2=new import_forge3[(_0x24c60f(0x1f1))+(_0x24c60f(0x3c2))]();_0x3524e2[_0x24c60f(0x1a7)](new import_forge3[(_0x24c60f(0x1e2))+(_0x24c60f(0x159))]({'json':!![],'keys':!![],'fragment':!![]})[_0x24c60f(0x1a7)](/json/i,{'literal':!![]})[_0x24c60f(0x1a7)]('.',{'literal':!![]})[_0x24c60f(0x1a7)](_0x1173cf[_0x24c60f(0x39b)],{'literal':!![]})[_0x24c60f(0x1a7)](new import_forge3[(_0x24c60f(0x35c))+(_0x24c60f(0x421))]('(',')'),{'mount':!![]})[_0x24c60f(0x1a7)](':',{'literal':!![]})[_0x24c60f(0x1a7)]('//',{'literal':!![]})[_0x24c60f(0x1a7)](/.+/g,{'file':!![]}))[_0x24c60f(0x1a7)](new import_forge3[(_0x24c60f(0x1e2))+(_0x24c60f(0x159))]({'json':!![],'values':!![],'fragment':!![]})[_0x24c60f(0x1a7)](/json/i,{'literal':!![]})[_0x24c60f(0x1a7)]('.',{'literal':!![]})[_0x24c60f(0x1a7)](_0x1173cf[_0x24c60f(0x28f)],{'literal':!![]})[_0x24c60f(0x1a7)](new import_forge3[(_0x24c60f(0x35c))+(_0x24c60f(0x421))]('(',')'),{'mount':!![]})[_0x24c60f(0x1a7)](':',{'literal':!![]})[_0x24c60f(0x1a7)]('//',{'literal':!![]})[_0x24c60f(0x1a7)](/.+/g,{'file':!![]}))[_0x24c60f(0x1a7)](new import_forge3[(_0x24c60f(0x1e2))+(_0x24c60f(0x159))]({'json':!![],'root':!![]})[_0x24c60f(0x1a7)](/json/i,{'literal':!![]})[_0x24c60f(0x1a7)](':',{'literal':!![]})[_0x24c60f(0x1a7)]('//',{'literal':!![]})[_0x24c60f(0x1a7)](/.+/g,{'file':!![]}));for(const _0xa5d2e4 of _0x1c0267){_0x3524e2[_0x24c60f(0x412)]();const _0x2e9069=new import_forge3[(_0x24c60f(0x1f1))+(_0x24c60f(0x284))](_0x3524e2),_0x255c44=_0x2e9069[_0x24c60f(0x16d)](_0xa5d2e4);if(_0x255c44[_0x24c60f(0x31f)]){const _0xa8975a=_0x255c44['or']({'json':!![]})[_0x24c60f(0x3f6)],_0x3e8d56=new import_forge3[(_0x24c60f(0x215))+'er']();for(const [_0x1dcb39,_0x306bde]of _0xa8975a)_0x3e8d56[_0x24c60f(0x1a7)](_0x1dcb39,_0x306bde);const _0x17b373=_0x3e8d56['or']({'file':!![]})[_0x24c60f(0x263)][_0x24c60f(0x4e3)](''),_0x27a4dd=(0x4*-0x92+0x1726*-0x1+0x196e,import_forge3[_0x24c60f(0x15a)+_0x24c60f(0x16b)])(await import_forge3[_0x24c60f(0x105)][_0x24c60f(0x20a)](_0x17b373));if(_0x255c44[_0x24c60f(0x248)](import_forge3[_0x24c60f(0x33f)+_0x24c60f(0x106)][_0x24c60f(0x191)]({'json':!![],'values':!![]}))){const _0x58faaf=_0x3e8d56['or']({'mount':!![]})[_0x24c60f(0x2f9)](0x1d3b+0x1b88+-0x1c61*0x2,-(-0x192d+0x1302+0x62c))[_0x24c60f(0x4e3)]('')[_0x24c60f(0x2eb)]('.');for(const _0xa8c278 of Object[_0x24c60f(0x190)](import_forge3[_0x24c60f(0x1ad)][_0x24c60f(0x2aa)](_0x58faaf,_0x27a4dd))){if(_0x1173cf[_0x24c60f(0x2a1)](_0xa8c278[_0x24c60f(0x260)+'r'],String))_0x36ddfa[_0x24c60f(0x1a7)](_0xa8c278);}}else{if(_0x255c44[_0x24c60f(0x248)](import_forge3[_0x24c60f(0x33f)+_0x24c60f(0x106)][_0x24c60f(0x191)]({'json':!![],'keys':!![]}))){const _0x39dbca=_0x3e8d56['or']({'mount':!![]})[_0x24c60f(0x2f9)](0xc45+-0xe8e+0x24a,-(-0x883+-0x9*-0x154+-0x370))[_0x24c60f(0x4e3)]('')[_0x24c60f(0x2eb)]('.');for(const _0x23e2de of Object[_0x24c60f(0x3cc)](import_forge3[_0x24c60f(0x1ad)][_0x24c60f(0x2aa)](_0x39dbca,_0x27a4dd))){if(_0x1173cf[_0x24c60f(0x420)](_0x23e2de[_0x24c60f(0x260)+'r'],String))_0x36ddfa[_0x24c60f(0x1a7)](_0x23e2de);}}else{if(_0x255c44[_0x24c60f(0x248)](import_forge3[_0x24c60f(0x33f)+_0x24c60f(0x106)][_0x24c60f(0x478)]({'values':!![],'keys':!![]}))){if(_0x1173cf[_0x24c60f(0x41f)](_0x27a4dd[_0x24c60f(0x260)+'r'],Array)){for(const _0x2c5a38 of _0x27a4dd)_0x36ddfa[_0x24c60f(0x1a7)](_0x1173cf[_0x24c60f(0x4e4)](String,_0x2c5a38));}}}}}else _0x36ddfa[_0x24c60f(0x1a7)](_0xa5d2e4);}return[..._0x36ddfa];}function CalcCodeSize(_0x977fb1){const _0x3895fe=_0x578bcf;let _0x4b673e;switch(_0x977fb1[_0x3895fe(0x260)+'r']){case ArrayBuffer:return _0x977fb1[_0x3895fe(0x101)];case String:return _0x977fb1[_0x3895fe(0x131)];}}function UncacheFile(_0x3effa9){const _0x32d408=_0x578bcf;FileCache[_0x32d408(0x37b)](_0x3effa9);}async function $Transform({root:_0x1cad85,contents:_0x4f0d8f,entry:_0x141ba9},_0x281b85,_0x41409a){const _0x243957=_0x578bcf,_0x14d00e={'kNSaG':_0x243957(0x229),'uyQbc':_0x243957(0x1e6),'IzkCW':_0x243957(0x330),'GnpOQ':_0x243957(0x34a),'jTPIS':_0x243957(0x2b1),'LbSVi':function(_0x503977,_0x4c8586){return _0x503977 instanceof _0x4c8586;},'AnQxd':function(_0x519369,_0x34f521){return _0x519369<_0x34f521;},'lPxld':function(_0x3dc6f5){return _0x3dc6f5();},'FIIsD':_0x243957(0x3ba),'Jgqhj':_0x243957(0x2e1),'yella':_0x243957(0x266),'uBpSB':_0x243957(0x3c0)+_0x243957(0x20d),'WEChm':function(_0x462415,_0xf35fab){return _0x462415!==_0xf35fab;},'AnXeo':_0x243957(0x1a6),'aDsHr':_0x243957(0x1dd),'VkLmL':_0x243957(0x30b),'kxSVt':_0x243957(0x19b),'Vdcyx':function(_0x1e1c53,_0x12a765){return _0x1e1c53(_0x12a765);},'mHnlf':_0x243957(0x471),'fPLKk':function(_0x538bf2,_0x2543e7){return _0x538bf2-_0x2543e7;},'vTdsV':function(_0x4b7a85,_0x1768a9){return _0x4b7a85===_0x1768a9;},'JhtqG':function(_0x2dd404,_0x598de4,_0x3110b3){return _0x2dd404(_0x598de4,_0x3110b3);},'LGwhc':function(_0x4db194,_0x4bb121){return _0x4db194-_0x4bb121;}};if(_0x14d00e[_0x243957(0x48e)](GetEnviromentParams)[_0x243957(0x25a)]){const _0x5c8528=new import_forge3[(_0x243957(0x2d7))]();return _0x5c8528[_0x243957(0x1a7)]({'elapsed':0x0,'size':0x0},{'stats':!![],'transform':!![]}),_0x5c8528[_0x243957(0x1a7)]({..._0x281b85},{'options':!![]}),_0x5c8528[_0x243957(0x1a7)]({'code':_0x243957(0x34d)+_0x243957(0x370)+_0x243957(0x441)+_0x243957(0x447)+_0x243957(0x31d)},{'code':!![]}),_0x5c8528;}switch(_0x281b85[_0x243957(0x304)]){case _0x14d00e[_0x243957(0x152)]:case _0x14d00e[_0x243957(0x222)]:case _0x14d00e[_0x243957(0x2db)]:throw new Error(_0x243957(0x25d)+_0x243957(0x4e0)+_0x243957(0x376)+_0x243957(0x208)+_0x243957(0x2f6));}const _0x56d19a=[];_0x56d19a[_0x243957(0x322)]({'name':_0x14d00e[_0x243957(0x224)],'setup'(_0x565059){const _0x503b97=_0x243957,_0x2565cc={'vSnPx':_0x14d00e[_0x503b97(0x32b)],'Ujjkr':_0x14d00e[_0x503b97(0x10e)],'pWPKb':_0x14d00e[_0x503b97(0x34b)],'NTQVN':_0x14d00e[_0x503b97(0xfe)],'daZTL':_0x14d00e[_0x503b97(0x242)]},_0x410927=_0x281b85[_0x503b97(0x4be)][_0x503b97(0x459)](_0x59b86a=>import_forge3[_0x503b97(0x4c8)][_0x503b97(0xf5)](_0x59b86a));return;_0x565059[_0x503b97(0x40f)]({'filter':/./},async function(_0x1c6ee7){const _0x37d3d9=_0x503b97,{path:_0x592268,resolveDir:_0x585884}=_0x1c6ee7;for(const _0x585301 of[_0x2565cc[_0x37d3d9(0x206)],_0x2565cc[_0x37d3d9(0x1b3)],_0x2565cc[_0x37d3d9(0x2ce)],_0x2565cc[_0x37d3d9(0x443)],_0x2565cc[_0x37d3d9(0x358)]]){const _0x35acd7=import_forge3[_0x37d3d9(0x4c8)][_0x37d3d9(0xf5)](_0x585884,''+_0x592268+_0x585301);if(await import_forge3[_0x37d3d9(0x141)][_0x37d3d9(0x13e)](_0x35acd7)&&_0x410927[_0x37d3d9(0x283)](_0x35acd7)){}}return;});}});if(_0x14d00e[_0x243957(0x30c)](_0x41409a?.[_0x243957(0x467)],![]))_0x56d19a[_0x243957(0x322)](CachePlugin);if(_0x41409a?.[_0x243957(0x40d)])_0x56d19a[_0x243957(0x322)](..._0x41409a?.[_0x243957(0x40d)]);const _0x5965b1=new import_forge3[(_0x243957(0x2d7))]();_0x5965b1[_0x243957(0x1a7)]({..._0x281b85},{'options':!![]});const _0x279133=Date[_0x243957(0x2a9)](),{bundled:_0x45baeb,write:_0x342592,verbosity:_0x7e8092,treeShaking:_0x4d8224}=_0x281b85;let _0x5f52df=_0x14d00e[_0x243957(0x3a9)];switch(_0x7e8092){default:_0x5f52df=_0x14d00e[_0x243957(0x3a9)];}const _0xd899fe=await(0x2*-0x66+0x1b5f+-0x1a93,import_esbuild[_0x243957(0x485)])({'stdin':{'contents':_0x4f0d8f,'sourcefile':_0x141ba9,'resolveDir':_0x1cad85,'loader':_0x14d00e[_0x243957(0x23a)]},'bundle':!![],'platform':_0x281b85[_0x243957(0x398)],'write':![],'format':_0x281b85[_0x243957(0x304)],'metafile':!![],'loader':{'.ts':'ts','.js':'js','.tsx':_0x14d00e[_0x243957(0x23a)],'.jsx':_0x14d00e[_0x243957(0x35a)]},'treeShaking':_0x4d8224,'minify':_0x281b85[_0x243957(0x41e)][_0x243957(0x4d6)][_0x243957(0x283)](_0x14d00e[_0x243957(0x216)]),'external':_0x281b85[_0x243957(0x2d6)]?await _0x14d00e[_0x243957(0x122)]($ParseExternals,[_0x14d00e[_0x243957(0x1a8)],..._0x281b85[_0x243957(0x128)]]):void(0x191*-0x5+-0xc1*-0x11+0x1d*-0x2c),'plugins':_0x56d19a,'logLevel':_0x5f52df})[_0x243957(0x45f)](function(_0x5cc9fb){const _0x26b3e1=_0x243957;if(_0x14d00e[_0x26b3e1(0x34c)](_0x5cc9fb,Error)){const _0x210d9d=_0x5cc9fb[_0x26b3e1(0x31b)][_0x26b3e1(0x2eb)]('\x0a');for(let _0x11a41e=-0x1214+0x9f1*0x3+-0x3*0x3ea;_0x14d00e[_0x26b3e1(0x177)](_0x11a41e,_0x210d9d[_0x26b3e1(0x131)]);_0x11a41e++){const _0xbb0c02=_0x210d9d[_0x11a41e],_0x33b0a5=/(?<file>(.+?)):((?<row>\d+):(?<column>\d+):) ERROR: (?<error>.+)/[_0x26b3e1(0x38b)](_0xbb0c02);if(_0x33b0a5)_0x5965b1[_0x26b3e1(0x1a7)]({..._0x33b0a5[_0x26b3e1(0x2e6)]},{'error':!![]});}}else _0x5965b1[_0x26b3e1(0x1a7)]({'error':_0x5cc9fb},{'error':!![]});});_0x5965b1[_0x243957(0x1a7)]({'elapsed':_0x14d00e[_0x243957(0x4b3)](Date[_0x243957(0x2a9)](),_0x279133)},{'stats':!![],'esbuild':!![],'compile':!![]});if(_0x14d00e[_0x243957(0x472)](_0xd899fe,void(-0xb*-0x1e5+0xa55+-0x1f2c)))return _0x5965b1[_0x243957(0x295)]();const _0xcbb4a0=_0xd899fe,_0x218710=_0xcbb4a0[_0x243957(0x1ca)][_0x243957(0x453)];_0x5965b1[_0x243957(0x1a7)]({'inputs':_0x218710},{'inputs':!![]});const _0x58002f=Object[_0x243957(0x3cc)](_0xcbb4a0[_0x243957(0x1ca)][_0x243957(0x453)]);_0x5965b1[_0x243957(0x1a7)]({'manifest':_0x58002f},{'manifest':!![]});const {code:_0x292ca2,mapping:_0xa45fa5}=await _0x14d00e[_0x243957(0x290)]($ApplyWriteTransforms,_0xcbb4a0[_0x243957(0x272)+'s'][0x13f8+0x903*0x1+0x9a9*-0x3][_0x243957(0x369)],_0x281b85);if(_0x292ca2)_0x5965b1[_0x243957(0x1a7)]({'code':_0x292ca2},{'code':!![]});if(_0xa45fa5)_0x5965b1[_0x243957(0x1a7)]({'mapping':_0xa45fa5},{'mappings':!![]});const _0x5472f1=_0x14d00e[_0x243957(0x122)](CalcCodeSize,_0x292ca2),_0x555d25=_0x14d00e[_0x243957(0x21d)](Date[_0x243957(0x2a9)](),_0x279133);return _0x5965b1[_0x243957(0x1a7)]({'elapsed':_0x555d25,'size':_0x5472f1},{'stats':!![],'transform':!![]}),_0x5965b1[_0x243957(0x497)]();}async function $Build(_0x494110,_0x38aa3a,_0x19fa18){const _0x4d0194=_0x578bcf,_0x237e6d={'hgGgO':function(_0x58dc11,_0x1609ca){return _0x58dc11 instanceof _0x1609ca;},'OnSEE':function(_0x36ceb7,_0xc02ed2){return _0x36ceb7<_0xc02ed2;},'qhKgZ':_0x4d0194(0x3ba),'NQmEH':_0x4d0194(0x2e1),'XVCUh':_0x4d0194(0x266),'vrtIi':function(_0x346cc1,_0xf11775){return _0x346cc1===_0xf11775;},'XgTLn':function(_0x4fd331,_0x31893a){return _0x4fd331!==_0x31893a;},'HSBzR':_0x4d0194(0x1dd),'QImYi':_0x4d0194(0x30b),'daHbg':_0x4d0194(0x19b),'NZVDM':function(_0x14d230,_0x5c33ff){return _0x14d230(_0x5c33ff);},'loytf':_0x4d0194(0x471),'RUoxW':function(_0x183ddb,_0x221ca0){return _0x183ddb-_0x221ca0;},'KROOE':function(_0x10b527,_0x303f1b){return _0x10b527===_0x303f1b;},'Zwuur':function(_0x366c3a,_0x189253,_0x1a1cf0){return _0x366c3a(_0x189253,_0x1a1cf0);}},_0x3a5347=Date[_0x4d0194(0x2a9)]();switch(_0x38aa3a[_0x4d0194(0x304)]){case _0x237e6d[_0x4d0194(0x38f)]:case _0x237e6d[_0x4d0194(0x2cf)]:case _0x237e6d[_0x4d0194(0x2bb)]:throw new Error(_0x4d0194(0x25d)+_0x4d0194(0x4e0)+_0x4d0194(0x376)+_0x4d0194(0x208)+_0x4d0194(0x2f6));}const _0x249f2e=new import_forge3[(_0x4d0194(0x2d7))](),_0x3b1645=await import_forge3[_0x4d0194(0x141)][_0x4d0194(0x365)](_0x494110)[_0x4d0194(0x45f)](_0x5d2ea5=>void(0x4ae*-0x2+-0xedb*0x2+-0x3*-0xd06));if(_0x237e6d[_0x4d0194(0x362)](_0x3b1645,void(0x17*0xb1+-0x119b+0x1b4))||_0x237e6d[_0x4d0194(0x362)](_0x3b1645[_0x4d0194(0x29d)](),![]))return _0x249f2e[_0x4d0194(0x1a7)]({'error':_0x4d0194(0x20b)+_0x4d0194(0x310)+_0x4d0194(0x3d9)+_0x4d0194(0x25e)+_0x494110+'\x22'},{'error':!![]}),_0x249f2e[_0x4d0194(0x295)]();const _0x4ef676=_0x19fa18?.[_0x4d0194(0x40d)]??[];if(_0x237e6d[_0x4d0194(0x10b)](_0x19fa18?.[_0x4d0194(0x467)],![]))_0x4ef676[_0x4d0194(0x322)](CachePlugin);_0x249f2e[_0x4d0194(0x1a7)]({..._0x38aa3a},{'options':!![]}),_0x249f2e[_0x4d0194(0x1a7)]({'entry':_0x494110},{'entry':!![]});const _0x52338d=await(0x201*0x13+-0x4*0x5ec+-0x1d*0x7f,import_esbuild[_0x4d0194(0x485)])({'entryPoints':[_0x494110],'bundle':!![],'platform':_0x38aa3a[_0x4d0194(0x398)],'write':![],'format':_0x38aa3a[_0x4d0194(0x304)],'metafile':!![],'loader':{'.ts':'ts','.js':'js','.tsx':_0x237e6d[_0x4d0194(0x212)],'.jsx':_0x237e6d[_0x4d0194(0x424)]},'treeShaking':_0x38aa3a[_0x4d0194(0x30a)+'g'],'minify':_0x38aa3a[_0x4d0194(0x41e)][_0x4d0194(0x4d6)][_0x4d0194(0x283)](_0x237e6d[_0x4d0194(0x379)]),'external':await _0x237e6d[_0x4d0194(0x100)]($ParseExternals,[_0x237e6d[_0x4d0194(0x3d5)],..._0x38aa3a[_0x4d0194(0x128)]]),'plugins':_0x4ef676})[_0x4d0194(0x45f)](function(_0x1d2783){const _0x3d529d=_0x4d0194;if(_0x237e6d[_0x3d529d(0x2e3)](_0x1d2783,Error)){const _0x4bff44=_0x1d2783[_0x3d529d(0x31b)][_0x3d529d(0x2eb)]('\x0a');for(let _0x3e7395=0x1c8a+-0x1f2b+-0x1*-0x2a2;_0x237e6d[_0x3d529d(0x156)](_0x3e7395,_0x4bff44[_0x3d529d(0x131)]);_0x3e7395++){const _0x338f40=_0x4bff44[_0x3e7395],_0x109393=/(?<file>(.+?)):((?<row>\d+):(?<column>\d+):) ERROR: (?<error>.+)/[_0x3d529d(0x38b)](_0x338f40);if(_0x109393)_0x249f2e[_0x3d529d(0x1a7)]({..._0x109393[_0x3d529d(0x2e6)]},{'error':!![]});}}else _0x249f2e[_0x3d529d(0x1a7)]({'error':_0x1d2783},{'error':!![]});});_0x249f2e[_0x4d0194(0x1a7)]({'time':_0x237e6d[_0x4d0194(0x1bf)](Date[_0x4d0194(0x2a9)](),_0x3a5347)},{'stats':!![]});if(_0x237e6d[_0x4d0194(0x462)](_0x52338d,void(0x19f*0x8+-0x4c2+-0x836)))return _0x249f2e[_0x4d0194(0x295)]();const _0x542f00=_0x52338d,_0x3a38d7=_0x542f00[_0x4d0194(0x1ca)][_0x4d0194(0x453)],_0x3229c3=Object[_0x4d0194(0x3cc)](_0x542f00[_0x4d0194(0x1ca)][_0x4d0194(0x453)]);_0x249f2e[_0x4d0194(0x1a7)]({'inputs':_0x3a38d7},{'inputs':!![]}),_0x249f2e[_0x4d0194(0x1a7)]({'manifest':_0x3229c3},{'manifest':!![]});const {code:_0x654e2b,mapping:_0x3d1453}=await _0x237e6d[_0x4d0194(0x147)]($ApplyWriteTransforms,_0x542f00[_0x4d0194(0x272)+'s'][0x2690+0x10ff+-0x378f][_0x4d0194(0x369)],_0x38aa3a);if(_0x654e2b)_0x249f2e[_0x4d0194(0x1a7)]({'code':_0x654e2b},{'code':!![]});if(_0x3d1453)_0x249f2e[_0x4d0194(0x1a7)]({'mapping':_0x3d1453},{'mapping':!![]});return _0x249f2e[_0x4d0194(0x497)]();}async function $Obfuscate(_0x4f3545,_0x3d399){const _0x4f111f=_0x578bcf,_0x49bf0b={'TChAj':_0x4f111f(0x326)},_0x401d9d=(-0x10b1+-0x2014+0x30c5,import_javascript_obfuscator[_0x4f111f(0x2f1)])(_0x4f3545,{'compact':!![],'controlFlowFlattening':!![],'controlFlowFlatteningThreshold':0x1,'numbersToExpressions':!![],'simplify':!![],'stringArrayShuffle':!![],'splitStrings':!![],'stringArrayThreshold':0x1,'sourceMap':!![],'sourceMapsEnabled':!![],'sourceMapMode':_0x49bf0b[_0x4f111f(0x43c)]});return{'code':_0x401d9d[_0x4f111f(0x2ed)+_0x4f111f(0x183)](),'mapping':_0x401d9d[_0x4f111f(0x4c4)+'ap']()};}async function $ApplyWriteTransforms(_0x3cbb07,_0x5d9925){const _0x3cff63=_0x578bcf,_0x3e1e9b={'HdYlE':function(_0x37690d,_0x32d21b){return _0x37690d+_0x32d21b;},'hTtjz':function(_0x4098e4,_0x4c4971){return _0x4098e4==_0x4c4971;},'hOoWp':_0x3cff63(0x273),'ypPZD':_0x3cff63(0x347)+_0x3cff63(0x29b)+'\x0a\x0a','ytWUQ':_0x3cff63(0x2f1),'MjQJb':function(_0x36c2f7,_0x5a07c0){return _0x36c2f7(_0x5a07c0);},'BakZF':_0x3cff63(0x3bc),'xVgla':_0x3cff63(0x36b),'xrYxB':_0x3cff63(0x4d2),'bQaFH':_0x3cff63(0x15e)},_0x268ed7=_0x5d9925[_0x3cff63(0x41e)][_0x3cff63(0x4d6)];let _0x37cc20;_0x3cbb07=_0x3e1e9b[_0x3cff63(0x176)](_0x3e1e9b[_0x3cff63(0x3ec)](_0x5d9925[_0x3cff63(0x398)],_0x3e1e9b[_0x3cff63(0x17e)])?_0x3e1e9b[_0x3cff63(0x167)]:'',_0x3cbb07);if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x414)])){const {code:_0x3265fa,mapping:_0x502af9}=await _0x3e1e9b[_0x3cff63(0x364)]($Obfuscate,_0x3cbb07);_0x3cbb07=_0x3265fa,_0x37cc20=_0x502af9;}if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x1fb)])){const _0x4e3929=await import_forge3[_0x3cff63(0x422)][_0x3cff63(0x3ed)](_0x3cbb07);if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x1b1)]))return{'code':import_forge3[_0x3cff63(0x139)][_0x3cff63(0x1a3)](_0x4e3929)};return{'code':(0x1*-0x313+-0x1*-0xec0+-0xbad,import_forge3[_0x3cff63(0x493)+'ng'])(_0x4e3929)};}else{if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x158)])){}else{if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x3d7)])){}}}if(_0x268ed7[_0x3cff63(0x283)](_0x3e1e9b[_0x3cff63(0x1b1)]))_0x3cbb07=import_forge3[_0x3cff63(0x139)][_0x3cff63(0x1a3)](_0x3cbb07);return{'code':_0x3cbb07,'mapping':_0x37cc20};}async function $FetchArguments(){const _0x34833b=_0x578bcf,_0x704e64={'WldMS':function(_0x1ad73d,_0x4a39b6){return _0x1ad73d instanceof _0x4a39b6;},'LUUoI':function(_0x2c4b32,_0x4c6700){return _0x2c4b32(_0x4c6700);},'ViPxj':_0x34833b(0x263)},_0x411e67=new import_forge4[(_0x34833b(0x174))+(_0x34833b(0x214))](),_0x24782a=new import_forge4[(_0x34833b(0x286))+(_0x34833b(0x1d8))]();_0x24782a[_0x34833b(0x1a7)]({'forge':{'verbose':_0x704e64[_0x34833b(0x2b3)]}},{'forge':!![]}),_0x24782a[_0x34833b(0x3c5)](process[_0x34833b(0x24e)]);const _0x16d70f=new import_forge4[(_0x34833b(0x142))+(_0x34833b(0x10f))]()[_0x34833b(0x1a7)]({'builder':new BuilderConfig()},{'builder':!![]});return await _0x16d70f[_0x34833b(0x1ef)]()[_0x34833b(0x45f)](_0x393369=>console[_0x34833b(0x320)](_0x34833b(0x142)+_0x34833b(0x10f)+_0x34833b(0x4b5)+_0x34833b(0x3bb)+_0x34833b(0x307)+_0x34833b(0x4a9))),_0x411e67[_0x34833b(0x3fa)](_0x16d70f),_0x411e67[_0x34833b(0x39e)](_0x24782a),await _0x411e67[_0x34833b(0x496)]({async '$flush'(_0x395354,_0x5f0d1a){const _0x5c1812=_0x34833b,{app:_0x46bece}=(0x1a*-0x119+0x1*0x1615+0x13*0x57,import_forge4[_0x5c1812(0x3d6)+_0x5c1812(0x28c)])(await Promise[_0x5c1812(0x263)](_0x395354['or']({'app':import_forge4[_0x5c1812(0x1ae)]})[_0x5c1812(0x263)]));if(_0x46bece){let {files:_0x50b035}=_0x46bece;if(_0x50b035){if(_0x704e64[_0x5c1812(0x371)](_0x50b035,String))_0x50b035=[_0x50b035];}}}}),_0x411e67[_0x34833b(0x1fc)]({async '$sanitize'(_0xdd78e4,_0x41e6d0){const _0x1c208f=_0x34833b,_0x21461d=await _0xdd78e4;if(_0x21461d[_0x1c208f(0x4ae)]){const {files:_0x340361}=_0x21461d[_0x1c208f(0x4ae)];if(_0x340361)_0x21461d[_0x1c208f(0x4ae)][_0x1c208f(0x469)]=await _0x704e64[_0x1c208f(0x4c0)]($SanitizeGlob,_0x340361);}return _0x21461d;}});}function ProcessWarnignsAndErrors({args:_0x2610f1,warnings:_0x2bfdb3,errors:_0x546399}){const _0xb68709=_0x578bcf,_0x5a336c={'DJObN':_0xb68709(0x2fb),'THyYy':_0xb68709(0x3a5),'lSbOE':_0xb68709(0x22d),'wkwXv':_0xb68709(0x4c3),'VGLAY':function(_0x100621,_0x53c55b){return _0x100621 instanceof _0x53c55b;},'qEDXE':function(_0x23c3e2,_0x4758fd){return _0x23c3e2 instanceof _0x4758fd;},'KcFTf':_0xb68709(0x33a)+_0xb68709(0x113),'GeYPF':_0xb68709(0x19c),'nuZVG':function(_0x47578d,_0x125bbe){return _0x47578d(_0x125bbe);},'Tgaww':_0xb68709(0x37f),'UKNqw':_0xb68709(0x2de),'WEBSt':function(_0x111c83,_0x194e37){return _0x111c83(_0x194e37);},'LNXIJ':_0xb68709(0x27e)+_0xb68709(0x3b3)},_0x5cfcea=new Set(),_0x5c78fc=new Set(),_0x33f37b=new Set();function _0x28c578(_0x24fa9f){const _0x37ddb1=_0xb68709;return _0x24fa9f[_0x37ddb1(0x238)](/<error>/g,_0x5a336c[_0x37ddb1(0x39a)])[_0x37ddb1(0x238)](/<\/error>/g,_0x5a336c[_0x37ddb1(0x2f7)])[_0x37ddb1(0x238)](/<warning>/g,_0x5a336c[_0x37ddb1(0x15f)])[_0x37ddb1(0x238)](/<\/warning>/g,_0x5a336c[_0x37ddb1(0x19f)]);}if(_0x2bfdb3&&_0x2bfdb3[_0xb68709(0x131)]){for(const _0x27fdeb of _0x2bfdb3)_0x5c78fc[_0xb68709(0x1a7)](_0x27fdeb);}if(_0x546399&&_0x546399[_0xb68709(0x131)]){for(const _0x5e0123 of _0x546399)_0x33f37b[_0xb68709(0x1a7)](_0x5e0123);}if(_0x2610f1)for(const _0x124845 of _0x2610f1){if(_0x5a336c[_0xb68709(0x1f0)](_0x124845,import_forge4[_0xb68709(0x174)+_0xb68709(0x214)])){const {successes:_0x347662,warnings:_0x102d16,errors:_0x2fff97}=_0x124845[_0xb68709(0x426)+'s'];if(_0x347662[_0xb68709(0x131)]){for(const _0x54d394 of _0x347662)_0x5cfcea[_0xb68709(0x1a7)](_0x54d394[_0xb68709(0x31b)]);}if(_0x102d16[_0xb68709(0x131)]){for(const _0x271019 of _0x102d16)_0x5c78fc[_0xb68709(0x1a7)](_0x271019[_0xb68709(0x31b)]);}if(_0x2fff97[_0xb68709(0x131)]){for(const _0x31e249 of _0x2fff97)_0x33f37b[_0xb68709(0x1a7)](_0x31e249[_0xb68709(0x31b)]);}}else{if(_0x5a336c[_0xb68709(0x253)](_0x124845,import_forge4[_0xb68709(0xfc)+_0xb68709(0x228)])){}else console[_0xb68709(0x164)](_0x5a336c[_0xb68709(0x418)]),process[_0xb68709(0x36e)]();}}if(_0x5cfcea[_0xb68709(0x1da)]){console[_0xb68709(0x473)](_0x5a336c[_0xb68709(0x40c)]);for(const _0x30d228 of _0x5cfcea)console[_0xb68709(0x3c5)](_0xb68709(0x4b0)+_0x5a336c[_0xb68709(0x3bd)](_0x28c578,_0x30d228));}if(_0x5c78fc[_0xb68709(0x1da)]){console[_0xb68709(0x320)](_0x5a336c[_0xb68709(0x435)]);for(const _0x39c222 of _0x5c78fc)console[_0xb68709(0x3c5)](_0xb68709(0x4b0)+_0x5a336c[_0xb68709(0x3bd)](_0x28c578,_0x39c222));}if(_0x33f37b[_0xb68709(0x1da)]){console[_0xb68709(0x164)](_0x5a336c[_0xb68709(0x1f6)]);for(const _0x1d948b of _0x33f37b)console[_0xb68709(0x3c5)](_0xb68709(0x4b0)+_0x5a336c[_0xb68709(0x120)](_0x28c578,_0x1d948b));console[_0xb68709(0x164)](_0x5a336c[_0xb68709(0x268)]),process[_0xb68709(0x36e)]();}}var import_forge7=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_promises=require(_0x578bcf(0x144)+_0x578bcf(0x1e4)),import_forge5=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_crypto=require(_0x578bcf(0x429));function ExportPlugin(_0x45c904,_0xf666e3,_0x1e230c){const _0x157e2e=_0x578bcf,_0x36f290={'ISLNO':_0x157e2e(0x221),'YcHli':_0x157e2e(0x1dd),'SHQvf':_0x157e2e(0x4bd),'HlzIX':function(_0x388e08,_0x20660c){return _0x388e08+_0x20660c;},'ikzkY':_0x157e2e(0x229),'RDITm':_0x157e2e(0x1e6),'kiXwZ':_0x157e2e(0x330),'QEjsQ':_0x157e2e(0x34a),'ezdjl':function(_0x30081f,_0xcb3bb7){return _0x30081f==_0xcb3bb7;},'cXiGN':_0x157e2e(0x3f7),'XQBTd':_0x157e2e(0x4a5),'lOMYs':_0x157e2e(0x14d),'YptFa':_0x157e2e(0x374)+_0x157e2e(0x4cf)},_0x1e7751=[];return{'name':_0x36f290[_0x157e2e(0x328)],'setup':function(_0x279f43){const _0x57c179=_0x157e2e,_0x8ced2a={'rDnew':function(_0x5a1742,_0x126672){const _0x53f888=_0xcc13;return _0x36f290[_0x53f888(0x2e0)](_0x5a1742,_0x126672);},'kictr':_0x36f290[_0x57c179(0x15b)],'zPRHv':_0x36f290[_0x57c179(0x3f8)],'EwcqW':_0x36f290[_0x57c179(0x44d)],'jsXRq':_0x36f290[_0x57c179(0x1ed)],'lTPYC':function(_0x3288b9,_0x1b2c4a){const _0xe2bb58=_0x57c179;return _0x36f290[_0xe2bb58(0x2e4)](_0x3288b9,_0x1b2c4a);},'ILidj':_0x36f290[_0x57c179(0x117)],'XMdNP':_0x36f290[_0x57c179(0x287)],'xxceK':function(_0x250df3,_0x5df1fd){const _0x485a2f=_0x57c179;return _0x36f290[_0x485a2f(0x2e0)](_0x250df3,_0x5df1fd);},'PdNon':_0x36f290[_0x57c179(0x3cb)]};_0x279f43[_0x57c179(0x40f)]({'filter':/.+/},async function(_0xe47d0e){const _0x34f863=_0x57c179;let {path:_0x179d5e,resolveDir:_0x56e7cd,importer:_0x3d33a5}=_0xe47d0e;if(_0x1e230c[_0x34f863(0x21c)+'s'])for(const [_0x5f3f27,_0x4b3028]of Object[_0x34f863(0x401)](_0x1e230c[_0x34f863(0x21c)+'s'])){if(_0x179d5e[_0x34f863(0x4dd)](_0x5f3f27))_0x179d5e=_0x179d5e[_0x34f863(0x238)](_0x5f3f27,_0x8ced2a[_0x34f863(0x109)](import_forge5[_0x34f863(0x4c8)][_0x34f863(0xf5)](_0x4b3028),'/'));}for(const _0x12fd39 of[_0x8ced2a[_0x34f863(0x344)],_0x8ced2a[_0x34f863(0x11b)],_0x8ced2a[_0x34f863(0x368)],_0x8ced2a[_0x34f863(0x399)]]){const _0x5b4d17=import_forge5[_0x34f863(0x4c8)][_0x34f863(0xf5)](_0x56e7cd,''+_0x179d5e+_0x12fd39),_0x562af6=import_forge5[_0x34f863(0x4c8)][_0x34f863(0x35b)](_0x56e7cd,_0x5b4d17);if(await import_forge5[_0x34f863(0x141)][_0x34f863(0x13e)](_0x5b4d17)){if(_0x1e230c[_0x34f863(0x469)][_0x5b4d17])return{'path':_0x1e230c[_0x34f863(0x469)][_0x5b4d17],'external':!![]};else{if(_0x45c904[_0x34f863(0x283)](_0x5b4d17)){const _0x27e491=import_forge5[_0x34f863(0x4c8)][_0x34f863(0x2b0)](_0x3d33a5);if(_0x8ced2a[_0x34f863(0x4ce)](_0x27e491[_0x34f863(0x2f8)],_0x8ced2a[_0x34f863(0x25c)]))return{'path':_0xf666e3[_0x34f863(0x1c0)](_0x5b4d17)[_0x34f863(0x2df)],'external':!![],'namespace':_0x8ced2a[_0x34f863(0x200)]};const _0x10fdfd=import_forge5[_0x34f863(0x4c8)][_0x34f863(0x2b0)](_0xf666e3[_0x34f863(0x1c0)](_0x5b4d17)[_0x34f863(0x2df)]);return{'path':_0x8ced2a[_0x34f863(0x3a4)]('./',_0x10fdfd[_0x34f863(0x303)]),'external':!![],'namespace':_0x8ced2a[_0x34f863(0x200)]};return{'namespace':_0x8ced2a[_0x34f863(0x357)]};}}console[_0x34f863(0x164)](_0x34f863(0x23c)+_0x34f863(0x436)+'d',_0x5b4d17,_0x1e230c,_0x45c904),_0x1e7751[_0x34f863(0x322)](_0x34f863(0x23c)+_0x34f863(0x436)+_0x34f863(0x3b9)+_0x5b4d17);}}return{'path':_0x179d5e,'external':!![]};}),_0x279f43[_0x57c179(0x25b)]({'filter':/\.((ts|x$)|(js|x))/},async function(_0x50d41f){const _0x19d674=_0x57c179;console[_0x19d674(0x1c3)](_0x36f290[_0x19d674(0x4c9)],_0x50d41f);const {path:_0x47b568}=_0x50d41f,_0x5418fc=_0xf666e3[_0x19d674(0x248)](_0x47b568)?_0xf666e3[_0x19d674(0x1c0)](_0x47b568)[_0x19d674(0x2f5)]:await FileCache[_0x19d674(0x3fc)+'ng'](_0x47b568);return{'contents':_0x5418fc,'loader':_0x36f290[_0x19d674(0x271)]};}),_0x279f43[_0x57c179(0x338)](function(){const _0x2d05d5=_0x57c179;if(_0x1e7751[_0x2d05d5(0x131)])console[_0x2d05d5(0x341)](_0x36f290[_0x2d05d5(0x4d0)],_0x1e7751);if(_0x1e7751[_0x2d05d5(0x131)])throw new Error(_0x2d05d5(0x2b5)+_0x2d05d5(0x488)+'g\x20'+_0x1e7751);});}};}function _0xcc13(_0x9da78f,_0x5e4f9a){_0x9da78f=_0x9da78f-(-0x155*-0x14+0x2620*0x1+-0x3fd5*0x1);const _0xcb29bf=_0x591c();let _0x3d3671=_0xcb29bf[_0x9da78f];return _0x3d3671;}var LibraryBuilder=class{[_0x578bcf(0x409)+_0x578bcf(0x3e7)]=new Set();[_0x578bcf(0x1d3)+_0x578bcf(0x267)]({root:_0x45ce81,files:_0xb003b7},_0x2152f7){const _0x2708d9=_0x578bcf,{aliases:_0x354812,ignores:_0x4ea893}=_0x2152f7,_0x1a9f1e={};for(const [_0x3622d6,_0x442f33]of Object[_0x2708d9(0x401)](_0x354812[_0x2708d9(0x469)])){const _0x2f5235=import_forge5[_0x2708d9(0x4c8)][_0x2708d9(0x403)](_0x3622d6)?_0x3622d6:import_forge5[_0x2708d9(0x4c8)][_0x2708d9(0xf5)](_0x45ce81,_0x3622d6);_0x1a9f1e[_0x2f5235]=_0x442f33;}return _0xb003b7=_0xb003b7[_0x2708d9(0x36c)](_0x3f153c=>_0x4ea893[_0x2708d9(0x283)](_0x3f153c)===![])[_0x2708d9(0x459)](_0x38a825=>import_forge5[_0x2708d9(0x4c8)][_0x2708d9(0xf5)](_0x38a825)),[{'root':_0x45ce81,'files':_0xb003b7},{'files':_0x1a9f1e,'directories':_0x354812[_0x2708d9(0x21c)+'s']}];}async[_0x578bcf(0x36f)+_0x578bcf(0x187)+'s'](_0x343fa8,_0x61240d,_0x521695){const _0x5a4bb7=_0x578bcf,_0x5ac5fb={'SXCvy':function(_0x460a8d,_0x1254ef){return _0x460a8d===_0x1254ef;},'urojV':function(_0x26a64d,_0xf3237d){return _0x26a64d==_0xf3237d;},'elXVK':_0x5a4bb7(0x28b),'DwKuv':_0x5a4bb7(0x203)},_0x1c2229=import_forge5[_0x5a4bb7(0x4c8)][_0x5a4bb7(0x2b0)](_0x343fa8),_0xac9d0e=_0x1c2229[_0x5a4bb7(0x2f8)],_0x3eadd4=await FileCache[_0x5a4bb7(0x3fc)+'ng'](_0x343fa8),_0x5a6991=new Set(),_0x29dabf=[],_0x557769=_0x5ac5fb[_0x5a4bb7(0x24a)](_0x521695,!![])?/(^|\n)\s*export\s+(default)?((async function)|function|class|var|const|let)\s+(?<component>[$\w]+)/gm:/(^|\n)\s*export\s+(default)?((async function)|function|class|enum|interface|var|const|let|type)\s+(?<component>[$\w]+)/gm;let _0x19fee4;while(_0x19fee4=_0x557769[_0x5a4bb7(0x38b)](_0x3eadd4)){const _0x4bd935=_0x19fee4[_0x5a4bb7(0x2e6)][_0x5a4bb7(0x278)],_0x2906f9=new RegExp(_0x4bd935+_0x5a4bb7(0x3ee))[_0x5a4bb7(0x38b)](_0x3eadd4),_0x500d78=_0x2906f9?_0x2906f9[-0x12b7+0x6*0x4a8+-0x939]:_0x4bd935;if(this[_0x5a4bb7(0x409)+_0x5a4bb7(0x3e7)][_0x5a4bb7(0x248)](_0x4bd935)){if(_0x5ac5fb[_0x5a4bb7(0x24a)](_0x5a6991[_0x5a4bb7(0x248)](_0x4bd935),![]))_0x29dabf[_0x5a4bb7(0x322)](_0x4bd935);}else _0x5a6991[_0x5a4bb7(0x1a7)](_0x4bd935);this[_0x5a4bb7(0x409)+_0x5a4bb7(0x3e7)][_0x5a4bb7(0x1a7)](_0x500d78);}let _0x40b713=_0x5ac5fb[_0x5a4bb7(0x1b6)](_0x5a6991[_0x5a4bb7(0x1da)],0x13*-0xe8+-0x179b*-0x1+-0xf*0x6d)?_0x5ac5fb[_0x5a4bb7(0x123)]:'';_0x40b713+=(_0x5a4bb7(0x1b7)+[..._0x5a6991][_0x5a4bb7(0x4e3)](',\x20')+_0x5a4bb7(0x1d1)+import_forge5[_0x5a4bb7(0x4c8)][_0x5a4bb7(0x35b)](_0x61240d,_0x1c2229[_0x5a4bb7(0x343)])+'/'+_0xac9d0e+'\x22;')[_0x5a4bb7(0x238)](/\\/g,'/')[_0x5a4bb7(0x238)](_0x5ac5fb[_0x5a4bb7(0x1b0)],'./');if(_0x29dabf[_0x5a4bb7(0x131)])_0x40b713+=_0x5a4bb7(0x36d)+_0x5a4bb7(0x353)+_0x5a4bb7(0x32c)+_0x29dabf[_0x5a4bb7(0x4e3)](',\x20')+'\x20}';return _0x40b713;}async[_0x578bcf(0x14f)](_0x3058ea){const _0x5dbea3=_0x578bcf,_0x11d36c={'GlafR':function(_0x4726e8,_0x1bacb6,_0x58d2a0){return _0x4726e8(_0x1bacb6,_0x58d2a0);}};_0x11d36c[_0x5dbea3(0x486)](VerifyPackages,_0x3058ea,{'Library\x20packaging\x20validation\x20failed':import_forge5[_0x5dbea3(0x33f)+_0x5dbea3(0x106)][_0x5dbea3(0x191)]({'validate':!![],'library':!![]}),'Library\x20packaging\x20sanitation\x20failed':import_forge5[_0x5dbea3(0x33f)+_0x5dbea3(0x106)][_0x5dbea3(0x191)]({'sanitize':!![],'library':!![]})});const _0x226a21=(-0x2*-0x766+0x29*-0x12+0x7a*-0x19,import_forge5[_0x5dbea3(0x4de)+_0x5dbea3(0x3f5)])(_0x3058ea,import_forge5[_0x5dbea3(0x33f)+_0x5dbea3(0x106)][_0x5dbea3(0x448)]({'forge':!![]})),{sources:{files:_0x137dfb,root:_0x58cb1d},vanilla_js:_0x4a027b}=_0x226a21,_0x1cc61a=[];for(const _0x510c4c of _0x137dfb)_0x1cc61a[_0x5dbea3(0x322)](await this[_0x5dbea3(0x36f)+_0x5dbea3(0x187)+'s'](_0x510c4c,_0x58cb1d,![]));return _0x1cc61a[_0x5dbea3(0x4e3)]('\x0a')+(_0x5dbea3(0x254)+_0x5dbea3(0x296)+'\x0a')+[...this[_0x5dbea3(0x409)+_0x5dbea3(0x3e7)]][_0x5dbea3(0x459)](_0x2c39d0=>'\x09'+_0x2c39d0[_0x5dbea3(0x238)](/[^\w$]+/g,'_'))[_0x5dbea3(0x4e3)](',\x0a')+(_0x5dbea3(0x26a)+_0x5dbea3(0x22c));}async[_0x578bcf(0x17a)](_0x17f137){const _0x5d8724=_0x578bcf,_0x1438ec={'KqIHS':_0x5d8724(0x229),'LVRnl':_0x5d8724(0x1e6),'inrZZ':_0x5d8724(0x330),'LaxZm':_0x5d8724(0x34a),'qGEUR':function(_0x362713,_0x14ca4f){return _0x362713===_0x14ca4f;},'rAQQP':function(_0x5590ec,_0x1e2cc6,_0x4468e4){return _0x5590ec(_0x1e2cc6,_0x4468e4);},'xWHfl':function(_0x2268c3,_0x4db2be,_0x79ed9d,_0x1ddca3){return _0x2268c3(_0x4db2be,_0x79ed9d,_0x1ddca3);},'NHFXW':_0x5d8724(0x1f8)+_0x5d8724(0x27a)};_0x1438ec[_0x5d8724(0x104)](VerifyPackages,_0x17f137,{'Library\x20packaging\x20validation\x20failed':import_forge5[_0x5d8724(0x33f)+_0x5d8724(0x106)][_0x5d8724(0x191)]({'validate':!![],'library':!![]}),'Library\x20packaging\x20sanitation\x20failed':import_forge5[_0x5d8724(0x33f)+_0x5d8724(0x106)][_0x5d8724(0x191)]({'sanitize':!![],'library':!![]})});const _0x348034=(-0x1067+-0x1ab+0x1212,import_forge5[_0x5d8724(0x4de)+_0x5d8724(0x3f5)])(_0x17f137,import_forge5[_0x5d8724(0x33f)+_0x5d8724(0x106)][_0x5d8724(0x448)]({'forge':!![]})),_0x47fd34=(0x1eb0+-0x23*-0x42+-0x27b6,import_forge5[_0x5d8724(0x4de)+_0x5d8724(0x3f5)])(_0x17f137,import_forge5[_0x5d8724(0x33f)+_0x5d8724(0x106)][_0x5d8724(0x448)]({'builder':!![]})),{sources:_0x37b126}=_0x348034,[{files:_0x201d35,root:_0x1040e5},_0x20cdda]=this[_0x5d8724(0x1d3)+_0x5d8724(0x267)](_0x37b126,_0x47fd34),_0x2427d5=await this[_0x5d8724(0x14f)](_0x17f137),_0x4d7d76=await _0x1438ec[_0x5d8724(0x319)]($Transform,{'root':_0x1040e5,'contents':_0x2427d5},_0x47fd34,{'plugins':[{'name':_0x1438ec[_0x5d8724(0x133)],'setup'(_0x36f63c){const _0x341235=_0x5d8724,_0x5a3ce7={'exlzF':_0x1438ec[_0x341235(0x349)],'nbWzM':_0x1438ec[_0x341235(0x317)],'MINwa':_0x1438ec[_0x341235(0x1c9)],'gvDaM':_0x1438ec[_0x341235(0x406)],'UajOp':function(_0x3bba51,_0xe1798c){const _0x22e588=_0x341235;return _0x1438ec[_0x22e588(0x445)](_0x3bba51,_0xe1798c);}};_0x36f63c[_0x341235(0x40f)]({'filter':/.+/},async function(_0x317207){const _0x294447=_0x341235,{path:_0x19026d,resolveDir:_0x317dcd}=_0x317207;for(const _0x5aac29 of[_0x5a3ce7[_0x294447(0x225)],_0x5a3ce7[_0x294447(0x46b)],_0x5a3ce7[_0x294447(0x482)],_0x5a3ce7[_0x294447(0x416)]]){const _0x165e31=import_forge5[_0x294447(0x4c8)][_0x294447(0xf5)](_0x317dcd,''+_0x19026d+_0x5aac29);if(_0x20cdda[_0x165e31])return{'path':_0x20cdda[_0x165e31],'external':!![]};if(_0x5a3ce7[_0x294447(0x444)](_0x201d35[_0x294447(0x283)](_0x165e31),![]))return{'path':_0x19026d,'external':!![]};if(await import_forge5[_0x294447(0x141)][_0x294447(0x13e)](_0x165e31))return{'path':_0x165e31,'external':![]};}return{'path':_0x19026d,'external':!![]};});}}]});return _0x4d7d76['or']({'code':!![]})[_0x5d8724(0x3f6)][_0x5d8724(0x2a2)];}async[_0x578bcf(0x192)](_0x2c34a7){const _0x52726f=_0x578bcf,_0x24930d={'OZlmC':function(_0x5d085a,_0x588b3f,_0x1594a8){return _0x5d085a(_0x588b3f,_0x1594a8);},'aDoZQ':function(_0x219eed,_0x47684f){return _0x219eed==_0x47684f;},'XYBpq':_0x52726f(0x465),'NoZbL':function(_0x4a8500,_0x2cf4f3){return _0x4a8500+_0x2cf4f3;},'ZJYNt':_0x52726f(0x2a3)+_0x52726f(0x2f0),'GDJuc':_0x52726f(0x1a5),'oShaC':function(_0x33639e,_0x2fa3cc){return _0x33639e(_0x2fa3cc);},'MWrxI':_0x52726f(0x329),'IFPGQ':_0x52726f(0x211)+_0x52726f(0x33e),'LXhIN':function(_0x465749,_0x56ceb6){return _0x465749+_0x56ceb6;},'vteDI':function(_0x573c38,_0x52d5ec){return _0x573c38==_0x52d5ec;},'zqsBC':function(_0x31b9c7,_0x475afd){return _0x31b9c7==_0x475afd;},'twXpA':function(_0x2d3143,_0x43311a,_0x377faa,_0x467eaf){return _0x2d3143(_0x43311a,_0x377faa,_0x467eaf);},'HotNR':function(_0x4c0161,_0xd9edea,_0x9dfb22,_0x2a1154){return _0x4c0161(_0xd9edea,_0x9dfb22,_0x2a1154);},'SLYdO':function(_0x5dc3a2,_0x4b5787){return _0x5dc3a2===_0x4b5787;},'CGAkZ':_0x52726f(0x19a)+'nd'},_0x46988f=new import_forge5[(_0x52726f(0x2d7))]();try{_0x24930d[_0x52726f(0x1f7)](VerifyPackages,_0x2c34a7,{'Library\x20packaging\x20validation\x20failed':import_forge5[_0x52726f(0x33f)+_0x52726f(0x106)][_0x52726f(0x191)]({'validate':!![],'library':!![]}),'Library\x20packaging\x20sanitation\x20failed':import_forge5[_0x52726f(0x33f)+_0x52726f(0x106)][_0x52726f(0x191)]({'sanitize':!![],'library':!![]})});const _0xad7a62=(-0x97a+-0x1*-0x264e+-0x1cd4,import_forge5[_0x52726f(0x1ec)+_0x52726f(0x168)])(_0x2c34a7),_0x507ac9=(0x87a+0x9*0x2a5+0x1*-0x2047,import_forge5[_0x52726f(0x4de)+_0x52726f(0x3f5)])(_0x2c34a7,import_forge5[_0x52726f(0x33f)+_0x52726f(0x106)][_0x52726f(0x448)]({'forge':!![]})),_0x1be0ee=(-0xd*0x217+0x2e3+0x1848,import_forge5[_0x52726f(0x4de)+_0x52726f(0x3f5)])(_0x2c34a7,import_forge5[_0x52726f(0x33f)+_0x52726f(0x106)][_0x52726f(0x448)]({'builder':!![]})),{sources:_0x5eaa69,lib:_0x52db4d,ext:_0x587c5a,index:_0xde5a4d}=_0x507ac9;let [{files:_0x3f123f,root:_0x31d6e7},_0x351399]=this[_0x52726f(0x1d3)+_0x52726f(0x267)](_0x5eaa69,_0x1be0ee);_0x3f123f=_0x3f123f[_0x52726f(0x36c)](_0x32b1d3=>_0x1be0ee[_0x52726f(0x4be)][_0x52726f(0x283)](_0x32b1d3)===![]);const _0x5b87e3=new Map(),{bundled:_0x1b9e08}=_0x1be0ee;for(const _0x167846 of _0x3f123f){let _0x3c2e56;if(_0x24930d[_0x52726f(0x491)](_0x1b9e08,_0x24930d[_0x52726f(0x333)])){const _0x48b567=import_forge5[_0x52726f(0x4c8)][_0x52726f(0x2b0)](_0x167846);_0x3c2e56=_0x24930d[_0x52726f(0x2d2)](import_forge5[_0x52726f(0x4c8)][_0x52726f(0x265)](_0x52db4d,import_forge5[_0x52726f(0x4c8)][_0x52726f(0x35b)](_0x31d6e7,import_forge5[_0x52726f(0x4c8)][_0x52726f(0x265)](_0x48b567[_0x52726f(0x343)],_0x48b567[_0x52726f(0x2f8)]))),_0x587c5a);}else{if(_0x24930d[_0x52726f(0x491)](_0x1b9e08,_0x24930d[_0x52726f(0x405)])){const _0x42ed89=(-0x9ed+-0xcc7+0x16b4,import_crypto[_0x52726f(0x163)])(_0x24930d[_0x52726f(0x452)])[_0x52726f(0x4e6)](_0x24930d[_0x52726f(0x2d2)](_0x24930d[_0x52726f(0x4cb)](String,_0x5b87e3[_0x52726f(0x1da)]),import_forge5[_0x52726f(0x4c8)][_0x52726f(0x265)](_0x31d6e7,_0x52db4d,_0xde5a4d)))[_0x52726f(0x3fb)](_0x24930d[_0x52726f(0xf3)]);_0x3c2e56=_0x24930d[_0x52726f(0x2d2)](import_forge5[_0x52726f(0x4c8)][_0x52726f(0x265)](_0x52db4d,_0x42ed89),_0x587c5a);}else{if(_0x24930d[_0x52726f(0x491)](_0x1b9e08,_0x24930d[_0x52726f(0x33d)]))_0x3c2e56=_0x24930d[_0x52726f(0x458)](import_forge5[_0x52726f(0x4c8)][_0x52726f(0x265)](_0x52db4d,(-0x4*-0x17f+0x1*0x1f91+-0x258d,import_forge5[_0x52726f(0x3ff)])()),_0x587c5a);else throw new Error(_0x52726f(0x22a)+_0x52726f(0x350)+'\x22'+_0x1b9e08+'\x22');}}_0x5b87e3[_0x52726f(0x468)](_0x167846,{'path':_0x3c2e56,'contents':await FileCache[_0x52726f(0x3fc)+'ng'](_0x167846)});}const _0x578644=new import_forge5[(_0x52726f(0x174))+(_0x52726f(0x214))]({'validations':_0xad7a62});_0x578644[_0x52726f(0x1a7)]({'sources':{'files':_0x3f123f,'root':_0x31d6e7}},{'forge':!![]}),_0x578644[_0x52726f(0x1a7)]({..._0x1be0ee},{'builder':!![]});const _0x52bf7e=await this[_0x52726f(0x14f)]([_0x578644]),_0x235eaa=_0x24930d[_0x52726f(0x491)](_0x1be0ee[_0x52726f(0x2d6)],_0x24930d[_0x52726f(0x333)])||_0x24930d[_0x52726f(0x3fd)](_0x1be0ee[_0x52726f(0x2d6)],_0x24930d[_0x52726f(0x405)])||_0x24930d[_0x52726f(0x3ea)](_0x1be0ee[_0x52726f(0x2d6)],_0x24930d[_0x52726f(0x33d)])?[_0x24930d[_0x52726f(0x186)](ExportPlugin,_0x3f123f,_0x5b87e3,_0x351399)]:[],_0x242065=await _0x24930d[_0x52726f(0x3dc)]($Transform,{'root':_0x31d6e7,'contents':_0x52bf7e,'entry':_0xde5a4d},_0x1be0ee,{'plugins':_0x235eaa});if(_0x24930d[_0x52726f(0x3e1)](_0x242065[_0x52726f(0x31f)],![]))return _0x242065;const {code:_0x5ea3ea}=_0x242065['or']({'code':!![]})[_0x52726f(0x3f6)];_0x46988f[_0x52726f(0x1a7)]({'code':_0x5ea3ea,'path':_0xde5a4d},{'code':!![],'index':!![]});for(const _0x52e675 of _0x3f123f){if(_0x1be0ee[_0x52726f(0x4be)][_0x52726f(0x283)](_0x52e675)){console[_0x52726f(0x164)](_0x24930d[_0x52726f(0x377)],_0x52e675);continue;}const {contents:_0x6af001,path:_0x2f32f2}=_0x5b87e3[_0x52726f(0x1c0)](_0x52e675),_0x46b2e7=import_forge5[_0x52726f(0x4c8)][_0x52726f(0x2b0)](_0x52e675),_0x15dbd4=await _0x24930d[_0x52726f(0x186)]($Transform,{'root':_0x46b2e7[_0x52726f(0x343)],'contents':_0x6af001,'entry':_0x52e675},_0x1be0ee,{'plugins':_0x235eaa});if(_0x24930d[_0x52726f(0x3e1)](_0x15dbd4[_0x52726f(0x31f)],![])){const _0x37d42c=[];for(const [_0xaa658d,_0x2a4a69]of _0x15dbd4['or']({'error':!![]}))_0x37d42c[_0x52726f(0x322)](_0x52726f(0x2e9)+_0x52726f(0x2dc)+_0x52726f(0x2ae)+_0xaa658d[_0x52726f(0x1a2)]+(_0x52726f(0x182)+_0x52726f(0x4ab))+_0x52e675+':'+_0xaa658d[_0x52726f(0x2ad)]+':'+_0xaa658d[_0x52726f(0x2ea)]+_0x52726f(0x1c6));throw new Error(_0x37d42c[_0x52726f(0x4e3)]('\x0a\x0a'));}const {code:_0xcca9de}=_0x15dbd4['or']({'code':!![]})[_0x52726f(0x3f6)];_0x46988f[_0x52726f(0x1a7)]({'code':_0xcca9de,'path':_0x2f32f2},{'code':!![],'dependency':!![]});}_0x46988f[_0x52726f(0x497)]();}catch(_0x2077fa){console[_0x52726f(0x164)](_0x2077fa),_0x46988f[_0x52726f(0x295)]();}return _0x46988f;}},import_forge6=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_typescript=require(_0x578bcf(0x1f5));async function $BuildTypes(_0x52e873){const _0x33d808=_0x578bcf,_0x5ab67a={'zsJeo':function(_0x30562a,_0x12da48,_0x4d38cd){return _0x30562a(_0x12da48,_0x4d38cd);},'NCTCh':function(_0x375764){return _0x375764();},'ouSmT':_0x33d808(0x48f)+'ts','hOSdD':function(_0x3a5025,_0x126f64){return _0x3a5025===_0x126f64;},'JZTBl':_0x33d808(0x461),'CKxsx':_0x33d808(0xf4),'aqeVC':function(_0x2dbe98,_0x37fc80){return _0x2dbe98(_0x37fc80);},'TZFvC':function(_0x1aff2b,_0x104f80){return _0x1aff2b-_0x104f80;},'tbWqZ':function(_0x1e979e,_0x12babc){return _0x1e979e==_0x12babc;},'MPAhh':_0x33d808(0x465)};_0x5ab67a[_0x33d808(0x259)](VerifyPackages,_0x52e873,{'Types\x20packaging\x20validation\x20failed':import_forge6[_0x33d808(0x33f)+_0x33d808(0x106)][_0x33d808(0x191)]({'validate':!![],'types':!![]}),'Types\x20packaging\x20sanitation\x20failed':import_forge6[_0x33d808(0x33f)+_0x33d808(0x106)][_0x33d808(0x191)]({'sanitize':!![],'types':!![]})});const _0xbb8e20=(0x64e*-0x2+-0x732+-0x152*-0xf,import_forge6[_0x33d808(0x4de)+_0x33d808(0x3f5)])(_0x52e873,import_forge6[_0x33d808(0x33f)+_0x33d808(0x106)][_0x33d808(0x448)]({'forge':!![]})),_0x44db31=(-0x2cb+0x1*0x1715+-0x144a,import_forge6[_0x33d808(0x4de)+_0x33d808(0x3f5)])(_0x52e873,import_forge6[_0x33d808(0x33f)+_0x33d808(0x106)][_0x33d808(0x448)]({'builder':!![]}));let {files:_0x5d784a,name:_0x22645d,out:_0x31ebed}=_0xbb8e20;const {ignores:_0x404147}=_0x44db31;_0x5d784a=_0x5d784a[_0x33d808(0x36c)](_0x4a6750=>_0x404147[_0x33d808(0x283)](_0x4a6750));const _0x5e1fbb=Date[_0x33d808(0x2a9)](),_0x2216fe=new import_forge6[(_0x33d808(0x2d7))]();if(_0x5ab67a[_0x33d808(0x126)](GetEnviromentParams)[_0x33d808(0x25a)])return _0x2216fe[_0x33d808(0x1a7)]({'code':_0x33d808(0x34d)+_0x33d808(0x149)+_0x33d808(0x477)+_0x33d808(0x2d4)+')','path':_0x5ab67a[_0x33d808(0x285)]},{'code':!![],'types':!![]})[_0x33d808(0x1a7)]({'elapsed':0x0,'size':0x0},{'stats':!![],'types':!![]})[_0x33d808(0x497)]();try{const _0x251374={'allowJs':!![],'declaration':!![],'emitDeclarationOnly':!![]},_0xbae83f={},_0xc9052d=(-0x1961*0x1+-0x21b5+-0x2*-0x1d8b,import_typescript[_0x33d808(0x151)+_0x33d808(0x173)])(_0x251374);_0xc9052d[_0x33d808(0x2fc)]=(_0x2dd735,_0x47afc8)=>_0xbae83f[_0x2dd735]=_0x47afc8;const _0x163b2a=(0x14*-0x112+-0x26c*0x2+-0xf*-0x1c0,import_typescript[_0x33d808(0x23e)+_0x33d808(0x233)])(_0x5d784a,_0x251374,_0xc9052d);_0x163b2a[_0x33d808(0x281)]();const _0x26a810=['\x0a',_0x33d808(0x154)+_0x33d808(0x26c)+_0x33d808(0x129)+'\x20\x22'+_0x22645d+_0x33d808(0x44b)];if(_0x5ab67a[_0x33d808(0x118)](_0x44db31[_0x33d808(0x2d6)],_0x5ab67a[_0x33d808(0x18d)])||!![]){for(const [_0x693e80,_0x48fadc]of Object[_0x33d808(0x401)](_0xbae83f)){const _0x3b465a=_0x48fadc[_0x33d808(0x238)](_0x5ab67a[_0x33d808(0x1b2)],'')[_0x33d808(0x238)](/\s*import.+?["'`].+?["'`];\s*/g,'\x0a')[_0x33d808(0x238)](/declare\s+/g,'')[_0x33d808(0x2eb)]('\x0a')[_0x33d808(0x459)](_0x127c36=>'\x09'+_0x127c36)[_0x33d808(0x4e3)]('\x0a');_0x26a810[_0x33d808(0x322)](_0x3b465a);}_0x26a810[_0x33d808(0x322)]('\x0a}');const {code:_0x1bb571}=await _0x5ab67a[_0x33d808(0x259)]($ApplyWriteTransforms,_0x26a810[_0x33d808(0x4e3)]('\x0a'),{'transform':{'write':[]}});_0x2216fe[_0x33d808(0x1a7)]({'code':_0x1bb571,'path':_0x31ebed},{'code':!![]});const _0x5210af=_0x5ab67a[_0x33d808(0x3f4)](CalcCodeSize,_0x1bb571),_0xde4db9=_0x5ab67a[_0x33d808(0x417)](Date[_0x33d808(0x2a9)](),_0x5e1fbb);_0x2216fe[_0x33d808(0x1a7)]({'elapsed':_0xde4db9,'size':_0x5210af},{'stats':!![],'types':!![]});}else{if(_0x5ab67a[_0x33d808(0x13a)](_0x44db31[_0x33d808(0x2d6)],_0x5ab67a[_0x33d808(0x23f)]))throw new Error(_0x33d808(0x2fe)+_0x33d808(0x24b)+_0x33d808(0x110)+_0x33d808(0x12e)+'\x22');else{}}return _0x2216fe[_0x33d808(0x497)]();}catch(_0x46b809){return console[_0x33d808(0x164)](_0x46b809),_0x2216fe[_0x33d808(0x1a7)]({'error':_0x46b809},{'error':!![]}),_0x2216fe[_0x33d808(0x295)]();}}function SerializeResult(_0x4fab1a){const _0x31d871=_0x578bcf,_0xb5be82=_0x4fab1a[_0x31d871(0x31f)],_0x50fa9e=[];for(const [_0x414ad3,_0x4800d9]of _0x4fab1a)_0x50fa9e[_0x31d871(0x322)]([_0x414ad3,_0x4800d9]);return{'success':_0xb5be82,'result':_0x50fa9e};}var BuildClient=class extends import_forge7[_0x578bcf(0x315)+'t']{[_0x578bcf(0x498)]=new Map();async[_0x578bcf(0x135)](_0x516cd8,_0x16044c){const _0x39a968=_0x578bcf,_0x3bddfb={'klhbn':function(_0x25eeb5,_0x3b63b7){return _0x25eeb5(_0x3b63b7);},'aIiKC':function(_0x32467f,_0x27d7cd){return _0x32467f===_0x27d7cd;},'MvGpd':function(_0x5b94cc,_0x4dd03f,_0x2743d8){return _0x5b94cc(_0x4dd03f,_0x2743d8);}};let {file:_0x26b1e0,event:_0x256a65}=_0x516cd8;_0x26b1e0=_0x26b1e0[_0x39a968(0x238)](/\\/g,'/'),_0x3bddfb[_0x39a968(0x366)](UncacheFile,_0x26b1e0);const _0x37139f=[];for(const [_0x27d93c,{filter:_0x4860d5,entry:_0x5d2322,target:_0xff586b,build:_0x5d408d}]of this[_0x39a968(0x498)]){if(_0x3bddfb[_0x39a968(0x42f)](_0x4860d5[_0x39a968(0x396)](_0x26b1e0),![]))continue;_0x37139f[_0x39a968(0x322)](_0x3bddfb[_0x39a968(0x26d)]($Build,_0x5d2322,_0x5d408d));}return await Promise[_0x39a968(0x4a8)](_0x37139f),{'success':!![],'message':_0x39a968(0x1ac)+_0x26b1e0+_0x39a968(0x16a)};}async[_0x578bcf(0x3a2)](_0x1a8b27,_0x736538){const _0x1d1d60=_0x578bcf,_0x39e5d6={'KhGAD':_0x1d1d60(0x4ac),'vTipo':_0x1d1d60(0x279)},_0x31836b=[...await import_forge7[_0x1d1d60(0x141)][_0x1d1d60(0x3f0)](import_forge7[_0x1d1d60(0x4c8)][_0x1d1d60(0xf5)](__dirname,_0x39e5d6[_0x1d1d60(0x298)]),{'recursive':![],'directory':!![]}),...await import_forge7[_0x1d1d60(0x141)][_0x1d1d60(0x3f0)](import_forge7[_0x1d1d60(0x4c8)][_0x1d1d60(0xf5)](__dirname,_0x39e5d6[_0x1d1d60(0x42b)]),{'recursive':![],'directory':!![]})],_0x274797=[];for(const _0x50d79d of _0x31836b){_0x274797[_0x1d1d60(0x322)]((-0xf8d+-0xf19+0x1ea6,import_promises['rm'])(_0x50d79d,{'recursive':!![],'force':!![]}));}return await Promise[_0x1d1d60(0x4a8)](_0x274797),{'success':!![]};}async[_0x578bcf(0x4c7)](_0x4893b4,_0x61f74a,_0x5a9aeb){const _0x41f8c3=_0x578bcf,_0x294866={'UISSk':_0x41f8c3(0x1ce)+'t','IzfjM':_0x41f8c3(0x115)+_0x41f8c3(0x369),'xChOC':_0x41f8c3(0x2d0),'xUGTn':_0x41f8c3(0x21a),'vkbGc':_0x41f8c3(0x27b),'vuhTj':_0x41f8c3(0x35e)+_0x41f8c3(0x4af)};console[_0x41f8c3(0x4ad)](_0x41f8c3(0x4c7),_0x4893b4);switch(_0x4893b4[_0x41f8c3(0x463)+'e']()){case _0x294866[_0x41f8c3(0x2da)]:return this[_0x41f8c3(0x37d)+_0x41f8c3(0x40b)](_0x61f74a,_0x5a9aeb);case _0x294866[_0x41f8c3(0x43f)]:return this[_0x41f8c3(0x1ba)+'xt'](_0x61f74a,_0x5a9aeb);case _0x294866[_0x41f8c3(0x383)]:return this[_0x41f8c3(0x17a)](_0x61f74a,_0x5a9aeb);case _0x294866[_0x41f8c3(0x375)]:return this[_0x41f8c3(0x1bb)](_0x61f74a,_0x5a9aeb);case _0x294866[_0x41f8c3(0x137)]:return this[_0x41f8c3(0x244)](_0x61f74a,_0x5a9aeb);}return{'execute':_0x294866[_0x41f8c3(0x340)]};}async[_0x578bcf(0x1cc)](_0x417de9,_0x1f879f){const _0x22e257=_0x578bcf,_0x36e7fc={'MkDts':_0x22e257(0x348)+_0x22e257(0x1fe)};throw _0x36e7fc[_0x22e257(0x450)];}async[_0x578bcf(0x37d)+_0x578bcf(0x40b)](_0x2b699c,_0x10a563){const _0xf25be1=_0x578bcf,{entry:_0xf7f1b7,target:_0x54ab7b}=_0x2b699c;let _0x21b404;try{if(_0x2b699c[_0xf25be1(0x36c)])_0x21b404=new RegExp(_0x2b699c[_0xf25be1(0x36c)]);}catch(_0xf36938){console[_0xf25be1(0x164)](_0x2b699c[_0xf25be1(0x36c)],_0xf36938);}const _0x345a07=[],_0x20e41b=new BuilderConfig(_0x2b699c[_0xf25be1(0x485)]),_0x199eee=(0x1020+-0x65*-0x17+-0x1933,import_forge7[_0xf25be1(0x3ff)])();return this[_0xf25be1(0x498)][_0xf25be1(0x468)](_0x199eee,{'filter':_0x21b404,'entry':_0xf7f1b7,'target':_0x54ab7b,'build':_0x20e41b}),{'success':!![],'hash':_0x199eee,'message':''};}async[_0x578bcf(0x1ba)+'xt'](_0x3c00f1,_0x542cbe){const _0x3f2280=_0x578bcf,_0x1f0a8f={'GWODn':function(_0x2c5154,_0x35807b){return _0x2c5154===_0x35807b;}},_0x5c1fc0=_0x3c00f1[_0x3f2280(0x4df)];if(_0x1f0a8f[_0x3f2280(0x136)](_0x5c1fc0,void(-0x1b5e*-0x1+0xd*0x2ef+-0x4181))||_0x1f0a8f[_0x3f2280(0x136)](this[_0x3f2280(0x498)][_0x3f2280(0x248)](_0x5c1fc0),![]))return{'success':![],'message':_0x3f2280(0x354)+_0x3f2280(0x2c7)+_0x3f2280(0xfa)+_0x5c1fc0};return this[_0x3f2280(0x498)][_0x3f2280(0x489)](_0x5c1fc0),{'success':!![],'message':_0x3f2280(0x354)+_0x3f2280(0x323)+_0x3f2280(0x155)+_0x5c1fc0};}async[_0x578bcf(0x17a)](_0x141dad,_0x4ed7ba){const _0x27d3fb=_0x578bcf,_0x5c33fc={'ixcmc':function(_0x1cd8c5,_0x100ce2){return _0x1cd8c5===_0x100ce2;},'PsteV':function(_0x445c70,_0x2d294d){return _0x445c70==_0x2d294d;},'qLryC':function(_0x1622d9,_0x1a52c2){return _0x1622d9(_0x1a52c2);},'FpHbQ':function(_0x1847ef,_0x2316d6,_0x27ff63){return _0x1847ef(_0x2316d6,_0x27ff63);}},{entry:_0x5bd7a6,build:_0x1b6111,target:_0x1713cb}=_0x141dad;if(_0x5c33fc[_0x27d3fb(0x1eb)](_0x5bd7a6,void(0x1339+0x1f*-0x26+-0x13*0xc5))||_0x5c33fc[_0x27d3fb(0x20f)](_0x5bd7a6,''))throw _0x27d3fb(0x382)+_0x27d3fb(0x3bf)+_0x27d3fb(0x293)+_0x27d3fb(0x15d);return _0x5c33fc[_0x27d3fb(0x2d9)](SerializeResult,await _0x5c33fc[_0x27d3fb(0x34f)]($Build,_0x5bd7a6,_0x1b6111));}async[_0x578bcf(0x1bb)](_0x2e4dc4,_0x59c2fc){const _0x17999c=_0x578bcf,_0x63831e={'epNYr':function(_0x5e4408,_0x453e5a){return _0x5e4408==_0x453e5a;},'hJDoc':_0x17999c(0x2a3)+_0x17999c(0x2f0),'WHJgK':function(_0x530f5a,_0x1b8205){return _0x530f5a==_0x1b8205;},'UKVCt':_0x17999c(0x211)+_0x17999c(0x33e),'thbLb':function(_0x4360de,_0x34761b){return _0x4360de==_0x34761b;},'PfrNz':_0x17999c(0x465),'mbtZH':function(_0xbdf943,_0x1e0ae6){return _0xbdf943(_0x1e0ae6);},'GmRHn':_0x17999c(0x2f2),'uSIjs':_0x17999c(0x34a),'crjwE':function(_0xc0f3a5,_0x20a7fe){return _0xc0f3a5==_0x20a7fe;},'FJnju':_0x17999c(0x461)},{source:_0x1e4dbd,build:_0x177f6c}=_0x2e4dc4,{root:_0x1532c3}=_0x1e4dbd,_0x1d5e93=_0x1e4dbd?_0x1e4dbd[_0x17999c(0x469)]:await import_forge7[_0x17999c(0x141)][_0x17999c(0x3f0)](_0x1e4dbd[_0x17999c(0x103)]),_0x161315=_0x177f6c[_0x17999c(0x2b2)],_0x3871f8=new LibraryBuilder();if(_0x63831e[_0x17999c(0x451)](_0x177f6c[_0x17999c(0x2d6)],_0x63831e[_0x17999c(0x487)])||_0x63831e[_0x17999c(0x411)](_0x177f6c[_0x17999c(0x2d6)],_0x63831e[_0x17999c(0x3d4)])||_0x63831e[_0x17999c(0x3c4)](_0x177f6c[_0x17999c(0x2d6)],_0x63831e[_0x17999c(0x3df)]))return _0x63831e[_0x17999c(0x437)](SerializeResult,await _0x3871f8[_0x17999c(0x192)]({'files':_0x1d5e93,'root':_0x1532c3},new BuilderConfig(_0x177f6c),{'lib':_0x63831e[_0x17999c(0x17c)],'ext':_0x63831e[_0x17999c(0x408)]}));else{if(_0x63831e[_0x17999c(0x1ab)](_0x177f6c[_0x17999c(0x2d6)],_0x63831e[_0x17999c(0x16f)])){const _0x5297ee=await _0x3871f8[_0x17999c(0x17a)]({'files':_0x1d5e93,'root':_0x1532c3},new BuilderConfig(_0x177f6c));return{'success':!![],'result':[{'code':_0x5297ee},{'code':!![],'source':!![]}]};}}const _0x30bf0e=await _0x3871f8[_0x17999c(0x14f)]({'root':_0x1532c3,'files':_0x1d5e93},_0x161315);return{'success':!![],'result':[{'code':_0x30bf0e},{'code':!![],'source':!![]}]};}async[_0x578bcf(0x37a)](_0x5971e1,_0x37f9b3){const _0x374f3a=_0x578bcf,_0x51728b={'gXRNh':function(_0x3cb3a7,_0x1ac33f){return _0x3cb3a7===_0x1ac33f;},'FnMOT':_0x374f3a(0x31b),'hPuyO':function(_0x308c0b,_0x29c3ee){return _0x308c0b(_0x29c3ee);},'MIIMq':function(_0x333aef,_0x2dcab5){return _0x333aef===_0x2dcab5;},'ADQMh':function(_0xbb0008,_0x44d11d){return _0xbb0008(_0x44d11d);}};if(this[_0x374f3a(0x3b2)])return this[_0x374f3a(0x3b2)];if(_0x51728b[_0x374f3a(0x300)](_0x51728b[_0x374f3a(0x111)](isNaN,_0x5971e1),!![]))throw new Error(_0x374f3a(0x257)+_0x374f3a(0x45a)+_0x374f3a(0x32d)+_0x374f3a(0x483));return this[_0x374f3a(0x3b2)]=new import_forge7[(_0x374f3a(0x446))+(_0x374f3a(0x385))](_0x5971e1,_0x37f9b3),this[_0x374f3a(0x3b2)][import_forge7[_0x374f3a(0x277)]][_0x374f3a(0x1d6)](async function([_0x469cca,_0x3de4e6,_0x1fa514]){const _0x496dcf=_0x374f3a;if(_0x51728b[_0x496dcf(0x108)](_0x3de4e6,void(0x2*-0x1132+0xcf*-0x4+-0xac*-0x38)))return;try{this[_0x496dcf(0x21e)+_0x496dcf(0x145)](_0x51728b[_0x496dcf(0x223)],_0x469cca,_0x3de4e6,_0x1fa514);}catch(_0x1cd4e9){_0x469cca[_0x496dcf(0x295)](_0x3de4e6,{'error':_0x51728b[_0x496dcf(0x455)](String,_0x1cd4e9)});}}[_0x374f3a(0x35f)](this)),this[_0x374f3a(0x3b2)];}async[_0x578bcf(0x244)](_0x4fb93d,_0x28bbca){const _0x303ed4=_0x578bcf,_0x1fef4d={'VgHLL':function(_0x5ef81c,_0x136572){return _0x5ef81c(_0x136572);},'KjcZx':function(_0xd41ba4,_0x230593,_0x5d55dc,_0x854c96){return _0xd41ba4(_0x230593,_0x5d55dc,_0x854c96);}},{entry:_0x11299f,name:_0x384d4b,build:_0x1a26af,options:{ignore:_0x3889ca,temp:_0x294634}}=_0x4fb93d;return _0x1fef4d[_0x303ed4(0x37c)](SerializeResult,await _0x1fef4d[_0x303ed4(0x1c7)]($BuildTypes,_0x11299f,_0x384d4b,_0x1a26af));}},import_forge10=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_forge8=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),BuilderPackageSanitize=class extends import_forge8[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x39c)]{constructor(_0x37d180){const _0x67e04c=_0x578bcf,_0x26874c={'vrHuP':function(_0x428e72,_0x158152){return _0x428e72??_0x158152;}};_0x37d180=_0x26874c[_0x67e04c(0x2a0)](_0x37d180,{'default':{'component':{},'attributes':{'builder':!![]}}}),_0x37d180[_0x67e04c(0x318)][_0x67e04c(0x278)]=new BuilderConfig(_0x37d180[_0x67e04c(0x318)]?.[_0x67e04c(0x278)]),super(_0x37d180);}async[_0x578bcf(0x1fc)](_0x2c2426,_0x4e8cdb){const _0x437b47=_0x578bcf,_0x5289a1={'XJkAi':function(_0x5b7529,_0x53a808){return _0x5b7529 instanceof _0x53a808;},'EQKTC':_0x437b47(0x4be),'Nshae':function(_0x16951b,_0x312089){return _0x16951b(_0x312089);},'XoyjY':_0x437b47(0x128),'KOtlx':function(_0x54e383,_0x5c2769){return _0x54e383(_0x5c2769);},'fdPIU':_0x437b47(0x41e)};_0x2c2426=_0x5289a1[_0x437b47(0x31c)](_0x2c2426,Promise)?await _0x2c2426:_0x2c2426;for(const [_0x1e36e5,_0x36d6b5]of Object[_0x437b47(0x401)](_0x2c2426)){switch(_0x1e36e5){case _0x5289a1[_0x437b47(0x217)]:_0x2c2426[_0x437b47(0x4be)]=await _0x5289a1[_0x437b47(0x430)]($SanitizeGlob,_0x36d6b5);break;case _0x5289a1[_0x437b47(0x196)]:switch(_0x36d6b5?.[_0x437b47(0x260)+'r']){case String:_0x2c2426[_0x437b47(0x128)]=await _0x5289a1[_0x437b47(0x11a)]($ParseExternals,_0x5289a1[_0x437b47(0x430)](String,_0x36d6b5)[_0x437b47(0x2eb)](/\s*,\s*/));break;case Array:_0x2c2426[_0x437b47(0x128)]=await _0x5289a1[_0x437b47(0x11a)]($ParseExternals,_0x36d6b5);break;}break;case _0x5289a1[_0x437b47(0x4a0)]:const {read:_0x54c46b,write:_0x3c6400}=_0x2c2426[_0x437b47(0x41e)];break;}}return _0x2c2426;}},import_forge9=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),BuilderPackageValidate=class extends import_forge9[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x194)]{async[_0x578bcf(0x397)](_0xe45874,_0x45a2d3){const _0x4fce98=_0x578bcf,_0xe2706f={'WJgVo':function(_0x23d4fa,_0x3d0ba4){return _0x23d4fa(_0x3d0ba4);},'OSseu':function(_0x5ace99,_0x5a7fe3){return _0x5ace99===_0x5a7fe3;},'rVkex':_0x4fce98(0x127),'yApKV':_0x4fce98(0x170),'rvTLk':_0x4fce98(0x2e7),'gPaXM':function(_0x9992a9,_0x5b3dbf){return _0x9992a9===_0x5b3dbf;},'cnDTz':_0x4fce98(0x273),'GJhak':_0x4fce98(0x302),'xBoEX':_0x4fce98(0x47a),'AIDaI':_0x4fce98(0x465),'QcZvm':_0x4fce98(0x1f9)+_0x4fce98(0x2f0),'hNPUv':_0x4fce98(0x47f)+_0x4fce98(0x33e),'vsjoz':_0x4fce98(0x461),'FdpkP':function(_0x57db7c,_0x2f08cb){return _0x57db7c===_0x2f08cb;}},_0x367974=(0x230b+-0x1925+-0x9e6,import_forge9[_0x4fce98(0x3d6)+_0x4fce98(0x28c)])(await Promise[_0x4fce98(0x263)](_0xe45874['or']({'builder':import_forge9[_0x4fce98(0x1ae)]})[_0x4fce98(0x263)]));let {format:_0xce98b,platform:_0x1be063,bundled:_0x19c9e1,ignores:_0x2bcae8,transform:_0x4e55fe}=_0x367974;const _0x517587={...import_forge9[_0x4fce98(0xfc)+_0x4fce98(0x393)+_0x4fce98(0x4ba)+_0x4fce98(0x1db)],'builder':!![]},_0x3fef2b={...import_forge9[_0x4fce98(0xfc)+_0x4fce98(0x1bd)+_0x4fce98(0x4a6)+_0x4fce98(0x28c)],'builder':!![]},_0x37d355=_0x367974;if(_0xce98b)_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4b9)+_0x4fce98(0x1b9)+_0x4fce98(0x480)+_0x4fce98(0x3f2)+_0x4fce98(0x22e)+_0x4fce98(0x1c2)+_0x4fce98(0x4b1)+_0x4fce98(0x48d)),{'cause':_0x37d355}),{'format':!![],..._0x3fef2b});else{_0xce98b=_0xe2706f[_0x4fce98(0x4aa)](String,_0xce98b)[_0x4fce98(0x463)+'e']();if(_0xe2706f[_0x4fce98(0x42e)]([_0xe2706f[_0x4fce98(0x4a1)],_0xe2706f[_0x4fce98(0x4d5)],_0xe2706f[_0x4fce98(0x22f)]][_0x4fce98(0x283)](_0xce98b),![]))_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4b9)+_0x4fce98(0x1b9)+_0x4fce98(0x480)+_0x4fce98(0x17d)+_0x4fce98(0x46f)+_0x4fce98(0xfb)+_0x4fce98(0x38a)+_0x4fce98(0x490)+_0x4fce98(0x4d4)),{'cause':_0x37d355}),{'format':!![],..._0x517587});}if(_0x1be063)_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4b9)+_0x4fce98(0x169)+_0x4fce98(0x24f)+_0x4fce98(0x33c)+_0x4fce98(0x294)+_0x4fce98(0x12d)+_0x4fce98(0x3a1)+_0x4fce98(0x236)+_0x4fce98(0x256)),{'cause':_0x37d355}),{'platform':!![],..._0x3fef2b});else{_0x1be063=_0xe2706f[_0x4fce98(0x4aa)](String,_0x1be063)[_0x4fce98(0x463)+'e']();if(_0xe2706f[_0x4fce98(0x30d)]([_0xe2706f[_0x4fce98(0x27f)],_0xe2706f[_0x4fce98(0x3e3)],_0xe2706f[_0x4fce98(0x3af)]][_0x4fce98(0x283)](_0x1be063),![]))_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4b9)+_0x4fce98(0x1b9)+_0x4fce98(0x480)+_0x4fce98(0x17d)+_0x4fce98(0x46f)+_0x4fce98(0xfb)+_0x4fce98(0x38a)+_0x4fce98(0x345)+_0x4fce98(0x2c8)+_0x4fce98(0x47a)),{'cause':_0x37d355}),{'platform':!![],..._0x517587});}if(_0x19c9e1)_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4b9)+_0x4fce98(0x387)+_0x4fce98(0x3ce)+_0x4fce98(0x351)+_0x4fce98(0x175)+_0x4fce98(0x46e)+_0x4fce98(0x4bc)+_0x4fce98(0x47c)+_0x4fce98(0x134)),{'cause':_0x37d355}),{'bundled':!![],..._0x3fef2b});else{_0x19c9e1=_0xe2706f[_0x4fce98(0x4aa)](String,_0x19c9e1)[_0x4fce98(0x463)+'e']();if(_0xe2706f[_0x4fce98(0x42e)]([_0xe2706f[_0x4fce98(0x140)],_0xe2706f[_0x4fce98(0x19e)],_0xe2706f[_0x4fce98(0x1a9)],_0xe2706f[_0x4fce98(0x125)]][_0x4fce98(0x283)](_0x19c9e1),![]))_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0x1bd))+(_0x4fce98(0x3da))]('['+this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x492)+_0x4fce98(0x4c2)+_0x4fce98(0x4d8)+_0x4fce98(0x2ca)+_0x4fce98(0x1ee)+_0x4fce98(0x466)+_0x4fce98(0x4cc)+_0x4fce98(0x119)+_0x4fce98(0x1e8)+_0x4fce98(0x325)+_0x4fce98(0x172)+_0x4fce98(0x47f)+_0x4fce98(0x276)+'e'),{'cause':_0x37d355}),{'bundled':!![],..._0x517587});}if(_0x2bcae8)switch(_0x2bcae8[_0x4fce98(0x260)+'r']){case String:_0x2bcae8=_0x2bcae8[_0x4fce98(0x2eb)](/\s*,\s*/g);case Array:await import_forge9[_0x4fce98(0x141)][_0x4fce98(0x124)](_0x2bcae8)[_0x4fce98(0x45f)](_0x475439=>{const _0x32cef7=_0x4fce98;_0x45a2d3[_0x32cef7(0x1a7)](new import_forge9[(_0x32cef7(0xfc))+(_0x32cef7(0x393))+(_0x32cef7(0x13f))]('['+this[_0x32cef7(0x260)+'r'][_0x32cef7(0x2f8)]+(_0x32cef7(0x492)+_0x32cef7(0x4c2)+_0x32cef7(0x309)+_0x32cef7(0xf2)+_0x32cef7(0x4dc)+_0x32cef7(0x3dd)+_0x32cef7(0x2c4)+_0x32cef7(0x316))+_0x475439[_0x32cef7(0x31b)],{'cause':_0x475439[_0x32cef7(0x31b)]}),{'ignores':!![],..._0x517587});});break;}if(_0x4e55fe){if(Array[_0x4fce98(0x388)](_0x4e55fe[_0x4fce98(0x4d6)])){}if(Array[_0x4fce98(0x388)](_0x4e55fe[_0x4fce98(0x336)])){}}if(_0xe2706f[_0x4fce98(0x21f)](_0x45a2d3[_0x4fce98(0x4bd)][_0x4fce98(0x131)],-0x17c4+0x1304+-0x40*-0x13))_0x45a2d3[_0x4fce98(0x1a7)](new import_forge9[(_0x4fce98(0xfc))+(_0x4fce98(0xf9))+(_0x4fce98(0x2a6))](this[_0x4fce98(0x260)+'r'][_0x4fce98(0x2f8)]+(_0x4fce98(0x378)+_0x4fce98(0xf6)+_0x4fce98(0x4da)+'r')),{'builder':!![],'validate':!![]});}},BuilderPackage=class _BuilderPackage extends import_forge10[_0x578bcf(0x174)+_0x578bcf(0x214)]{static async[_0x578bcf(0x17f)](_0x2eb422){const _0xfd606f=_0x578bcf,_0x3d6ebd=(-0x635+-0x1f61+0x2596,import_forge10[_0xfd606f(0x4de)+_0xfd606f(0x3f5)])(_0x2eb422,import_forge10[_0xfd606f(0x33f)+_0xfd606f(0x106)][_0xfd606f(0x448)]({'builder':!![]})),_0x5ecf43=new _BuilderPackage();return _0x5ecf43[_0xfd606f(0x1a7)](_0x3d6ebd,{'builder':!![]}),await _0x5ecf43[_0xfd606f(0x496)](new BuilderPackageValidate()),_0x5ecf43[_0xfd606f(0x1fc)](new BuilderPackageSanitize());}async[_0x578bcf(0x496)](_0x3146d4){const _0x4a059a=_0x578bcf;return super[_0x4a059a(0x496)](_0x3146d4??new BuilderPackageValidate());}async[_0x578bcf(0x1fc)](_0x2cfa80){const _0x51d195=_0x578bcf;return super[_0x51d195(0x1fc)](_0x2cfa80??new BuilderPackageSanitize());}},import_forge11=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),LibraryPackageSanitize=class extends import_forge11[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x39c)]{[_0x578bcf(0x361)]={};constructor(){const _0x5b42c3=_0x578bcf,_0x454293={'azpLG':_0x5b42c3(0x4ac),'gxfvi':_0x5b42c3(0x34a)};super({'default':{'component':{'lib':_0x454293[_0x5b42c3(0x251)],'ext':_0x454293[_0x5b42c3(0x2bc)]},'attributes':{'library':!![],'forge':!![]}}});}async[_0x578bcf(0x1fc)](_0x298a70,_0x1d49c9){const _0x286359=_0x578bcf,_0x3f55bf={'AGbdZ':function(_0x3328c0,_0x2e62fd){return _0x3328c0 instanceof _0x2e62fd;},'TpKwT':_0x286359(0x469),'olpQs':function(_0x2603fa,_0x22b56a){return _0x2603fa(_0x22b56a);}};if(_0x3f55bf[_0x286359(0x1df)](_0x298a70,Promise))_0x298a70=await _0x298a70;for(const [_0x11a5dd,_0x103553]of Object[_0x286359(0x401)](_0x298a70)){switch(_0x11a5dd){case _0x3f55bf[_0x286359(0x49b)]:_0x298a70[_0x286359(0x469)]=await _0x3f55bf[_0x286359(0x3d2)]($SanitizeGlob,_0x103553);break;}}return _0x298a70;}async[_0x578bcf(0x397)](_0x30af04){const _0xc22d0d=_0x578bcf,_0x53bc0d=(0x1*-0x2062+-0x690+0x26f2,import_forge11[_0xc22d0d(0x3d6)+_0xc22d0d(0x28c)])(await Promise[_0xc22d0d(0x263)](_0x30af04['or']({'forge':import_forge11[_0xc22d0d(0x1ae)]})[_0xc22d0d(0x263)])),{root:_0x4acf26,files:_0xe114cc}=_0x53bc0d;_0x30af04[_0xc22d0d(0x1a7)]({'sources':{'root':_0x4acf26,'files':_0xe114cc}},{'forge':{'sources':{'root':_0x4acf26,'files':_0xe114cc}}});}[_0x578bcf(0x193)](_0xc36267){const _0x3c3215=_0x578bcf,_0x2a06ac={'TzZHK':function(_0x4e6239,_0x3bb157){return _0x4e6239==_0x3bb157;}};super[_0x3c3215(0x193)](_0xc36267);if(_0x2a06ac[_0x3c3215(0x360)](_0xc36267[_0x3c3215(0x426)+'s'][_0x3c3215(0x4bd)][_0x3c3215(0x131)],-0x1dd8+-0x1e39*-0x1+0x1*-0x61))_0xc36267[_0x3c3215(0x426)+'s'][_0x3c3215(0x1a7)](new import_forge11[(_0x3c3215(0xfc))+(_0x3c3215(0xf9))+(_0x3c3215(0x2a6))](_0x3c3215(0x20e)+_0x3c3215(0x481)+_0x3c3215(0x42d)),{'library':!![],'sanitize':!![]});}},import_forge12=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),LibraryPackageValidate=class extends import_forge12[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x194)]{async[_0x578bcf(0x397)](_0x2fd494,_0x17d40f){const _0xdd5e49=_0x578bcf,_0x1955ff={'zjtFn':function(_0x22ef09,_0x3b003d){return _0x22ef09===_0x3b003d;},'HMpnR':function(_0xa7aaeb,_0x3cb660){return _0xa7aaeb===_0x3cb660;},'ahVIK':function(_0x2a496d,_0x12d3e1){return _0x2a496d===_0x12d3e1;},'hyZgn':function(_0x26bec4,_0x5666bf){return _0x26bec4===_0x5666bf;},'xzaUS':function(_0x5f4a77,_0x117cf6){return _0x5f4a77===_0x117cf6;}},_0x1365c1=(0x16af+0x3*-0x875+0x2b0,import_forge12[_0xdd5e49(0x3d6)+_0xdd5e49(0x28c)])(await Promise[_0xdd5e49(0x263)](_0x2fd494['or']({'forge':import_forge12[_0xdd5e49(0x1ae)]})[_0xdd5e49(0x263)])),{sources:_0x26c006,files:_0x34c194,root:_0x18c48f,lib:_0x60e3fc,ext:_0x34fdb1,index:_0x1fc6c9}=_0x1365c1,_0x9eda59=_0x1365c1,_0x45f9cb={...import_forge12[_0xdd5e49(0xfc)+_0xdd5e49(0x393)+_0xdd5e49(0x4ba)+_0xdd5e49(0x1db)],'library':!![]},_0x574d7d={...import_forge12[_0xdd5e49(0xfc)+_0xdd5e49(0x1bd)+_0xdd5e49(0x4a6)+_0xdd5e49(0x28c)],'library':!![]};if(_0x26c006){if(_0x1955ff[_0xdd5e49(0x26b)](_0x26c006[_0xdd5e49(0x469)],void(-0xc47*0x3+0x6b3+-0x85*-0x3a)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x393))+(_0xdd5e49(0x13f))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4c2)+_0xdd5e49(0x24c)+_0xdd5e49(0x47b)+_0xdd5e49(0x160)+_0xdd5e49(0x299)+_0xdd5e49(0x29a)),{'cause':_0x9eda59}),{'files':!![],..._0x45f9cb});if(_0x1955ff[_0xdd5e49(0x188)](_0x26c006[_0xdd5e49(0x35d)],void(0x1*-0x5de+-0x677*-0x3+-0xd87)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x393))+(_0xdd5e49(0x13f))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4c2)+_0xdd5e49(0x24c)+_0xdd5e49(0x11d)+_0xdd5e49(0x3b5)+_0xdd5e49(0x2bd)+_0xdd5e49(0x18a)),{'cause':_0x9eda59}),{'root':!![],..._0x45f9cb});}else{if(_0x1955ff[_0xdd5e49(0x188)](_0x34c194,void(-0x70b*-0x3+-0x1792+-0x1*-0x271)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x393))+(_0xdd5e49(0x13f))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4c2)+_0xdd5e49(0x2ff)+_0xdd5e49(0x4d1)+_0xdd5e49(0x10c)+_0xdd5e49(0x1fa)),{'cause':_0x9eda59}),{'files':!![],..._0x45f9cb});if(_0x1955ff[_0xdd5e49(0x188)](_0x18c48f,void(-0x237a*-0x1+0xee7+-0x10cb*0x3)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x393))+(_0xdd5e49(0x13f))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4c2)+_0xdd5e49(0x3e9)+_0xdd5e49(0x26e)+_0xdd5e49(0x20c)+_0xdd5e49(0x29a)),{'cause':_0x9eda59}),{'root':!![],..._0x45f9cb});}if(_0x1955ff[_0xdd5e49(0x26b)](_0x1fc6c9,void(0xb*-0x41+-0x10*0x1c4+0x373*0x9)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x393))+(_0xdd5e49(0x13f))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4c2)+_0xdd5e49(0x3ac)+_0xdd5e49(0x4d1)+_0xdd5e49(0x3ef)+_0xdd5e49(0x264)),{'cause':_0x9eda59}),{'index':!![],..._0x45f9cb});if(_0x1955ff[_0xdd5e49(0x311)](_0x60e3fc,void(-0x14be+0x2a*0x2c+0xd86)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x1bd))+(_0xdd5e49(0x3da))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4b9)+_0xdd5e49(0x13c)+_0xdd5e49(0x394)+_0xdd5e49(0x312)+_0xdd5e49(0x2ba)+_0xdd5e49(0x3de)+_0xdd5e49(0x342)+_0xdd5e49(0x3fe)),{'cause':_0x9eda59}),{'lib':!![],..._0x574d7d});if(_0x1955ff[_0xdd5e49(0x297)](_0x34fdb1,void(0x224*-0x10+0x3*-0xbe1+0x45e3)))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0x1bd))+(_0xdd5e49(0x3da))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x492)+_0xdd5e49(0x4b9)+_0xdd5e49(0x10d)+_0xdd5e49(0x394)+_0xdd5e49(0x312)+_0xdd5e49(0x2ba)+_0xdd5e49(0x3de)+_0xdd5e49(0x1b8)+_0xdd5e49(0x428)),{'cause':_0x9eda59}),{'ext':!![],..._0x574d7d});if(_0x1955ff[_0xdd5e49(0x30f)](_0x17d40f[_0xdd5e49(0x4bd)][_0xdd5e49(0x131)],-0x202c+0x1c1*-0x1+0x243*0xf))_0x17d40f[_0xdd5e49(0x1a7)](new import_forge12[(_0xdd5e49(0xfc))+(_0xdd5e49(0xf9))+(_0xdd5e49(0x2a6))]('['+this[_0xdd5e49(0x260)+'r'][_0xdd5e49(0x2f8)]+(_0xdd5e49(0x3c7)+_0xdd5e49(0xf6)+_0xdd5e49(0x1b4)+'y')),{'library':!![],'validate':!![]});}},import_forge13=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5));async function $BuildNPM(_0x2a907e){const _0x1588f6=_0x578bcf,_0x169bf3={'eWMMr':function(_0x531240,_0x2ca3fa){return _0x531240+_0x2ca3fa;},'sVBIp':function(_0x47370d,_0x5aaa0b){return _0x47370d+_0x5aaa0b;},'KtceS':function(_0x4ae5ac,_0x333c56,_0x52d40b){return _0x4ae5ac(_0x333c56,_0x52d40b);},'MPfJs':function(_0x1bb1cc,_0x2822d1){return _0x1bb1cc==_0x2822d1;},'FVzcB':_0x1588f6(0x263),'wFtFV':_0x1588f6(0x461),'HzRYm':_0x1588f6(0x48f)+'ts','GDfjc':function(_0x5eca5d,_0x43f501){return _0x5eca5d(_0x43f501);},'gQqns':function(_0x2a0ab1,_0x447289){return _0x2a0ab1===_0x447289;},'JNkjd':_0x1588f6(0x127),'freHp':_0x1588f6(0x33b),'RrZiw':_0x1588f6(0x170),'zEpoq':_0x1588f6(0x1e3)+'s','naodH':_0x1588f6(0x1e0)+_0x1588f6(0x3c6),'rSjKT':_0x1588f6(0x2fa)+_0x1588f6(0x1f2),'iJnqw':_0x1588f6(0x2a3)+_0x1588f6(0x2f0),'zPFcz':_0x1588f6(0x211)+_0x1588f6(0x33e),'ZCDUw':_0x1588f6(0x465),'MbjKe':function(_0x2b793f,_0xe7ea53){return _0x2b793f-_0xe7ea53;},'EBUOk':function(_0x36667a,_0x213742){return _0x36667a===_0x213742;},'ldKSn':function(_0x287b49,_0x32116b){return _0x287b49-_0x32116b;},'wGGYT':_0x1588f6(0x273),'LCZNW':function(_0x4847dd,_0x49fbc7,_0x575676){return _0x4847dd(_0x49fbc7,_0x575676);},'zmyEQ':_0x1588f6(0x153),'LHiZW':_0x1588f6(0x454)+_0x1588f6(0x44c),'MEnnu':function(_0x12f887,_0x28187c){return _0x12f887(_0x28187c);},'vnPJI':_0x1588f6(0x3aa)+_0x1588f6(0x4d7)+_0x1588f6(0x130)};_0x169bf3[_0x1588f6(0x1af)](VerifyPackages,_0x2a907e,{'NPM\x20packaging\x20validation\x20failed':import_forge13[_0x1588f6(0x33f)+_0x1588f6(0x106)][_0x1588f6(0x191)]({'validate':!![],'npm':!![]}),'NPM\x20packaging\x20sanitation\x20failed':import_forge13[_0x1588f6(0x33f)+_0x1588f6(0x106)][_0x1588f6(0x191)]({'sanitize':!![],'npm':!![]})});const _0x35a301=(0xa98+0x47+-0xadf,import_forge13[_0x1588f6(0x1ec)+_0x1588f6(0x168)])(_0x2a907e),_0xe2325f=(0x1322+0x630+-0x1952,import_forge13[_0x1588f6(0x4de)+_0x1588f6(0x3f5)])(_0x2a907e,import_forge13[_0x1588f6(0x33f)+_0x1588f6(0x106)][_0x1588f6(0x448)]({'forge':!![]})),_0x3830b7=(-0x7*0x232+-0x943+0xd*0x1e5,import_forge13[_0x1588f6(0x4de)+_0x1588f6(0x3f5)])(_0x2a907e,import_forge13[_0x1588f6(0x33f)+_0x1588f6(0x106)][_0x1588f6(0x448)]({'builder':!![]})),_0x3eada9=new import_forge13[(_0x1588f6(0x2d7))](),_0x50e5d8=Date[_0x1588f6(0x2a9)](),_0x42cf99=[];{if(_0x169bf3[_0x1588f6(0x2d3)](process.env.verbose,_0x169bf3[_0x1588f6(0x2f3)]))console[_0x1588f6(0x250)](_0x1588f6(0x31a)+_0x1588f6(0x359)+_0x1588f6(0x36a));const {files:_0x3cc4e2,name:_0x54965a}=_0xe2325f,_0x2e8aa9=new import_forge13[(_0x1588f6(0x174))+(_0x1588f6(0x214))]({'validations':_0x35a301});_0x2e8aa9[_0x1588f6(0x1a7)]({..._0x3830b7,'bundled':_0x169bf3[_0x1588f6(0x4e2)]},{'builder':!![]}),_0x2e8aa9[_0x1588f6(0x1a7)]({'files':_0x3cc4e2,'name':_0x54965a,'out':_0x169bf3[_0x1588f6(0x476)]},{'forge':!![]});const _0x3a68b5=await _0x169bf3[_0x1588f6(0x269)]($BuildTypes,[_0x2e8aa9]);if(_0x169bf3[_0x1588f6(0x3c1)](_0x3a68b5[_0x1588f6(0x31f)],![]))return _0x3eada9[_0x1588f6(0x461)](_0x3a68b5)[_0x1588f6(0x295)]();const {code:_0x5aecc0,path:_0x556b78}=_0x3a68b5['or']({'code':!![]})[_0x1588f6(0x3f6)];_0x3eada9[_0x1588f6(0x1a7)]({'code':_0x5aecc0,'path':_0x556b78},{'code':!![],'types':!![]}),_0x42cf99[_0x1588f6(0x322)](_0x169bf3[_0x1588f6(0x476)]);const _0x518b67=_0x3a68b5['or']({'stats':!![]})[_0x1588f6(0x3f6)];_0x3eada9[_0x1588f6(0x1a7)](_0x518b67,{'stats':!![],'types':!![],'npm':!![]}),console[_0x1588f6(0x250)](_0x1588f6(0x239)+_0x1588f6(0x2cb)+_0x1588f6(0xf1)+_0x169bf3[_0x1588f6(0x269)](FormatElapsedTime,_0x518b67[_0x1588f6(0x337)])+'\x20s');}{const _0x5021ca=Date[_0x1588f6(0x2a9)](),{files:_0x12d550,root:_0x4ecb6a,lib:_0x1a22dd,ext:_0x5c7dda}=_0xe2325f,_0x1024e4=[[_0x169bf3[_0x1588f6(0x42a)],_0x169bf3[_0x1588f6(0x2b8)],_0x5c7dda[_0x1588f6(0x127)]],[_0x169bf3[_0x1588f6(0x146)],_0x169bf3[_0x1588f6(0x49f)],_0x5c7dda[_0x1588f6(0x170)]]],_0x3da645=_0x3830b7[_0x1588f6(0x2d6)];console[_0x1588f6(0x164)](_0x169bf3[_0x1588f6(0x1d0)],_0x3da645,_0x169bf3[_0x1588f6(0x495)]);for(const [_0x490716,_0x1b2d63,_0x2f2a0b]of _0x1024e4){const _0x5e21d7=new LibraryBuilder();if(_0x169bf3[_0x1588f6(0x2d3)](_0x3da645,_0x169bf3[_0x1588f6(0x4b7)])||_0x169bf3[_0x1588f6(0x2d3)](_0x3da645,_0x169bf3[_0x1588f6(0x48c)])||_0x169bf3[_0x1588f6(0x2d3)](_0x3da645,_0x169bf3[_0x1588f6(0x1a1)])){const _0x1e08dd=new import_forge13[(_0x1588f6(0x174))+(_0x1588f6(0x214))]({'validations':_0x35a301});_0x1e08dd[_0x1588f6(0x1a7)]({'sources':{'files':_0x12d550,'root':_0x4ecb6a},'formats':_0x1024e4,'files':_0x12d550,'root':_0x4ecb6a,'lib':_0x1a22dd,'ext':_0x2f2a0b,'index':_0x1b2d63},{'forge':!![]}),_0x1e08dd[_0x1588f6(0x1a7)]({..._0x3830b7,'format':_0x490716,'bundled':_0x3da645},{'builder':!![]}),_0x1e08dd[_0x1588f6(0x426)+'s']=(0x8*-0x469+-0x1*0x2473+0x17e9*0x3,import_forge13[_0x1588f6(0x1ec)+_0x1588f6(0x168)])(_0x2a907e);const _0x19c212=await _0x5e21d7[_0x1588f6(0x192)]([_0x1e08dd])[_0x1588f6(0x45f)](function(_0x1d223d){const _0x1a74dc=_0x1588f6;console[_0x1a74dc(0x3c5)]('-'[_0x1a74dc(0x227)](0x1*0x918+-0x1*0x9f1+0xed),_0x169bf3[_0x1a74dc(0x346)]('\x0a',_0x1d223d[_0x1a74dc(0x31b)]),_0x169bf3[_0x1a74dc(0x289)]('\x0a','-'[_0x1a74dc(0x227)](-0x1*-0xb0c+-0x3*-0x191+-0xfab))),process[_0x1a74dc(0x36e)]();});if(_0x169bf3[_0x1588f6(0x3c1)](_0x19c212[_0x1588f6(0x31f)],![]))return _0x3eada9[_0x1588f6(0x461)](_0x19c212)[_0x1588f6(0x295)]();for(const [_0xc2dc4a,_0x1ca59e]of _0x19c212['or']({'code':!![]})){let {code:_0x4d6c1c,path:_0xa98a9}=_0xc2dc4a;_0x42cf99[_0x1588f6(0x322)](_0xa98a9);const _0x6ffdb6=_0x169bf3[_0x1588f6(0x269)](CalcCodeSize,_0x4d6c1c),_0x31cf0d=_0x169bf3[_0x1588f6(0x3e0)](_0x5021ca,Date[_0x1588f6(0x2a9)]());_0x169bf3[_0x1588f6(0x4b4)](_0x1ca59e[_0x1588f6(0x197)],!![])?(_0x3eada9[_0x1588f6(0x1a7)]({'code':_0x4d6c1c,'path':_0xa98a9},{'code':!![],'library':!![],'index':!![],'format':_0x490716}),_0x3eada9[_0x1588f6(0x1a7)]({'elapsed':_0x31cf0d,'size':_0x6ffdb6},{'stats':!![],'library':!![],'index':!![],'format':_0x490716})):(_0x3eada9[_0x1588f6(0x1a7)]({'code':_0x4d6c1c,'path':_0xa98a9},{'code':!![],'library':!![],'dependency':!![],'format':_0x490716}),_0x3eada9[_0x1588f6(0x1a7)]({'elapsed':_0x31cf0d,'size':_0x6ffdb6},{'stats':!![],'library':!![],'dependency':!![],'format':_0x490716}));}}else{if(_0x169bf3[_0x1588f6(0x2d3)](_0x3830b7[_0x1588f6(0x2d6)],_0x169bf3[_0x1588f6(0x4e2)])){const _0x59bd4a=await _0x5e21d7[_0x1588f6(0x17a)](_0x2a907e);_0x3eada9[_0x1588f6(0x1a7)]({'code':_0x59bd4a,'path':_0x1b2d63},{'code':!![],'library':!![],'index':!![],'format':_0x490716}),_0x42cf99[_0x1588f6(0x322)](_0x1b2d63);}else throw new Error(_0x1588f6(0x356)+_0x1588f6(0x373)+_0x1588f6(0x3ab)+_0x3830b7[_0x1588f6(0x2d6)]);}}const _0x484e8a=_0x169bf3[_0x1588f6(0x460)](Date[_0x1588f6(0x2a9)](),_0x5021ca);_0x3eada9[_0x1588f6(0x1a7)]({'elapsed':_0x484e8a},{'stats':!![],'library':!![],'npm':!![]}),_0x3eada9[_0x1588f6(0x1a7)]({'manifest':_0x42cf99},{'manifest':!![]}),console[_0x1588f6(0x250)](_0x1588f6(0x335)+_0x1588f6(0x2fd)+'\x20'+_0x169bf3[_0x1588f6(0x269)](FormatElapsedTime,_0x484e8a)+'s');}if(_0xe2325f[_0x1588f6(0x3e5)]){_0x3830b7[_0x1588f6(0x304)]=_0x169bf3[_0x1588f6(0x42a)],_0x3830b7[_0x1588f6(0x398)]=_0x169bf3[_0x1588f6(0x202)];const _0x1c736d=await _0x169bf3[_0x1588f6(0x355)]($Transform,_0xe2325f[_0x1588f6(0x3e5)],_0x3830b7);if(_0x169bf3[_0x1588f6(0x4b4)](_0x1c736d[_0x1588f6(0x31f)],![]))return _0x3eada9[_0x1588f6(0x461)](_0x1c736d)[_0x1588f6(0x295)]();let {code:_0xeeed72}=_0x1c736d['or']({'code':!![]})[_0x1588f6(0x3f6)];_0x3eada9[_0x1588f6(0x1a7)]({'code':_0xeeed72,'path':_0x169bf3[_0x1588f6(0x2ab)]},{'code':!![],'npx':!![]});const _0x5dacc5=_0x1c736d['or']({'stats':!![]})[_0x1588f6(0x3f6)];_0x3eada9[_0x1588f6(0x1a7)](_0x5dacc5,{'stats':!![],'npx':!![],'npm':!![]}),console[_0x1588f6(0x250)](_0x169bf3[_0x1588f6(0x45b)],_0x169bf3[_0x1588f6(0x41c)](FormatElapsedTime,_0x5dacc5[_0x1588f6(0x337)]),'s');}return console[_0x1588f6(0x250)](_0x169bf3[_0x1588f6(0x3c3)],_0x169bf3[_0x1588f6(0x41c)](FormatElapsedTime,_0x169bf3[_0x1588f6(0x3e0)](Date[_0x1588f6(0x2a9)](),_0x50e5d8)),'s'),_0x3eada9;}var import_forge15=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_forge14=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),TypesPackageSanitize=class extends import_forge14[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x39c)]{async[_0x578bcf(0x1fc)](_0x3b18fc,_0x1fd808){const _0x532335=_0x578bcf,_0x536fac={'VHBuI':function(_0x1ece3a,_0x498dfb){return _0x1ece3a instanceof _0x498dfb;},'IOfVc':_0x532335(0x469),'VZKoa':function(_0x1bc4d1,_0x1c1d19){return _0x1bc4d1(_0x1c1d19);}};await super[_0x532335(0x1fc)](_0x3b18fc,_0x1fd808);if(_0x536fac[_0x532335(0x2c3)](_0x3b18fc,Promise))_0x3b18fc=await _0x3b18fc;for(const [_0x15e212,_0xb92ada]of Object[_0x532335(0x401)](_0x3b18fc)){switch(_0x15e212){case _0x536fac[_0x532335(0x12a)]:_0x3b18fc[_0x532335(0x469)]=await _0x536fac[_0x532335(0x2cd)]($SanitizeGlob,_0xb92ada);break;}}return _0x3b18fc;}[_0x578bcf(0x193)](_0x282697){const _0x9cca49=_0x578bcf,_0x323eae={'FInbM':function(_0x2e3266,_0x4b84bf){return _0x2e3266==_0x4b84bf;}};super[_0x9cca49(0x193)](_0x282697);if(_0x323eae[_0x9cca49(0x249)](_0x282697[_0x9cca49(0x426)+'s'][_0x9cca49(0x4bd)][_0x9cca49(0x131)],0x1821+0xcfa+0x3b*-0xa1))_0x282697[_0x9cca49(0x426)+'s'][_0x9cca49(0x1a7)](new import_forge14[(_0x9cca49(0xfc))+(_0x9cca49(0xf9))+(_0x9cca49(0x2a6))](_0x9cca49(0x20e)+_0x9cca49(0x481)+_0x9cca49(0x4e7)),{'types':!![],'sanitize':!![]});}},PackageSanitizeNPM=class extends import_forge15[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x39c)]{constructor(){const _0xa50809=_0x578bcf,_0x36783d={'YfpSx':_0xa50809(0x4ac),'CqGjp':_0xa50809(0x34a),'xDLmT':_0xa50809(0x2b1)};super({'default':{'component':{'lib':_0x36783d[_0xa50809(0x161)],'ext':{'cjs':_0x36783d[_0xa50809(0x301)],'esm':_0x36783d[_0xa50809(0x3e2)]},'package_json':![]},'attributes':{'npm':!![],'forge':!![]}},'sanitizers':[new TypesPackageSanitize(),new LibraryPackageSanitize()]});}async[_0x578bcf(0x1fc)](_0x1120cd,_0x2eddac){const _0x15b497=_0x578bcf,_0x134736={'ZqCaM':function(_0x3f1054,_0x41641c){return _0x3f1054 instanceof _0x41641c;},'IYEQu':_0x15b497(0x469),'yhsuk':function(_0x4c9f91,_0x19b2c0){return _0x4c9f91(_0x19b2c0);},'zpaLl':_0x15b497(0x3e5)};await super[_0x15b497(0x1fc)](_0x1120cd,_0x2eddac);if(_0x134736[_0x15b497(0x423)](_0x1120cd,Promise))_0x1120cd=await _0x1120cd;for(const [_0x5c6952,_0x2d3b71]of Object[_0x15b497(0x401)](_0x1120cd)){switch(_0x5c6952){case _0x134736[_0x15b497(0x148)]:_0x1120cd[_0x15b497(0x469)]=await _0x134736[_0x15b497(0x3b1)]($SanitizeGlob,_0x2d3b71);break;case _0x134736[_0x15b497(0x41a)]:let _0x29d69c=_0x2d3b71,_0x1c9faa=_0x29d69c[_0x15b497(0x363)],_0x1ed727=_0x29d69c[_0x15b497(0x2f5)]??await import_forge15[_0x15b497(0x141)][_0x15b497(0x484)+'ed'](_0x1c9faa),_0x48ae4b=_0x29d69c[_0x15b497(0x35d)]??import_forge15[_0x15b497(0x4c8)][_0x15b497(0x2b0)](_0x1c9faa)[_0x15b497(0x343)];_0x1120cd[_0x15b497(0x3e5)]={'contents':_0x1ed727,'root':_0x48ae4b,'entry':_0x1c9faa};break;}}return _0x1120cd;}[_0x578bcf(0x193)](_0x17caa4){const _0x732656=_0x578bcf,_0x2fe8f0={'svOLP':function(_0x44dab0,_0x21e412){return _0x44dab0==_0x21e412;}};super[_0x732656(0x193)](_0x17caa4);if(_0x2fe8f0[_0x732656(0x3f1)](_0x17caa4[_0x732656(0x426)+'s'][_0x732656(0x4bd)][_0x732656(0x131)],0x819*-0x4+0x56e+0x1af6))_0x17caa4[_0x732656(0x426)+'s'][_0x732656(0x1a7)](new import_forge15[(_0x732656(0xfc))+(_0x732656(0xf9))+(_0x732656(0x2a6))](_0x732656(0x20e)+_0x732656(0x481)+_0x732656(0x12f)),{'npm':!![],'sanitize':!![]});}},import_forge17=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),import_forge16=require(_0x578bcf(0x2c0)+_0x578bcf(0x1b5)),TypesPackageValidate=class extends import_forge16[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x194)]{async[_0x578bcf(0x397)](_0x3ac409,_0x1a1edd){const _0x123429=_0x578bcf,_0x501b31={'fitcB':function(_0x41f641,_0x3cfe03){return _0x41f641===_0x3cfe03;},'HHFpR':function(_0x4859ec,_0x4a1225){return _0x4859ec===_0x4a1225;}};await super[_0x123429(0x397)](_0x3ac409,_0x1a1edd);const _0x2d93c5=(0x4*0x362+-0x2fe*-0x1+-0x1086,import_forge16[_0x123429(0x3d6)+_0x123429(0x28c)])(await Promise[_0x123429(0x263)](_0x3ac409['or']({'forge':import_forge16[_0x123429(0x1ae)]})[_0x123429(0x263)])),{files:_0x1b53a5,name:_0x4ee5c4}=_0x2d93c5,_0x46e4a3=_0x2d93c5;if(_0x501b31[_0x123429(0x107)](_0x1b53a5,void(-0x138e+-0x1c33+0x2fc1)))_0x1a1edd[_0x123429(0x1a7)](new import_forge16[(_0x123429(0xfc))+(_0x123429(0x393))+(_0x123429(0x13f))](_0x123429(0x2f4)+_0x123429(0x1c8)+_0x123429(0x308)+_0x123429(0x372)+_0x123429(0x201)+'d',{'cause':_0x46e4a3}),{'files':!![],...import_forge16[_0x123429(0xfc)+_0x123429(0x393)+_0x123429(0x4ba)+_0x123429(0x1db)]});if(_0x501b31[_0x123429(0x107)](_0x4ee5c4,void(-0x1235*0x1+0x154e+-0x319)))_0x1a1edd[_0x123429(0x1a7)](new import_forge16[(_0x123429(0xfc))+(_0x123429(0x393))+(_0x123429(0x13f))](_0x123429(0x2f4)+_0x123429(0x1c8)+_0x123429(0x27d)+_0x123429(0x3eb)+_0x123429(0x404)+'\x22',{'cause':_0x46e4a3}),{'name':!![],...import_forge16[_0x123429(0xfc)+_0x123429(0x393)+_0x123429(0x4ba)+_0x123429(0x1db)]});if(_0x501b31[_0x123429(0x3a7)](_0x1a1edd[_0x123429(0x4bd)][_0x123429(0x131)],0x14a0+0x235*-0x8+-0x2f8))_0x1a1edd[_0x123429(0x1a7)](new import_forge16[(_0x123429(0xfc))+(_0x123429(0xf9))+(_0x123429(0x2a6))](_0x123429(0x3e4)+_0x123429(0x2ac)+_0x123429(0x4e7)),{'types':!![],'validate':!![]});}},NPMPackageValidate=class extends import_forge17[_0x578bcf(0xf7)+_0x578bcf(0x10f)+_0x578bcf(0x194)]{constructor(_0x4a8174){const _0x57c163=_0x578bcf;super({..._0x4a8174,'validators':[new TypesPackageValidate(),new LibraryPackageValidate(),..._0x4a8174?.[_0x57c163(0x40a)]??[]]});}async[_0x578bcf(0x397)](_0x5794af,_0x23ed45){const _0x5399e4=_0x578bcf,_0x376ff9={'dqEtu':function(_0x1a0a72,_0x2975f7){return _0x1a0a72===_0x2975f7;},'ddtqq':_0x5399e4(0x352)+_0x5399e4(0x426)+_0x5399e4(0x43e)+_0x5399e4(0x18f),'PfGwk':function(_0x361059,_0x30780e){return _0x361059(_0x30780e);},'BLuzL':function(_0x38a9e5,_0x471421){return _0x38a9e5===_0x471421;},'HBCLR':function(_0xd3d0cd,_0x3da3a9){return _0xd3d0cd===_0x3da3a9;},'TgnDR':function(_0x12de7f,_0x3ae8c5){return _0x12de7f===_0x3ae8c5;},'MEAZO':function(_0x30fed9,_0x4b9e48){return _0x30fed9===_0x4b9e48;},'GpvmE':function(_0x1a3efc,_0x62833b){return _0x1a3efc===_0x62833b;}};await super[_0x5399e4(0x397)](_0x5794af,_0x23ed45);const _0x16c7fa=(-0x1f3f+-0x146*0x5+-0x259d*-0x1,import_forge17[_0x5399e4(0x3d6)+_0x5399e4(0x28c)])(await Promise[_0x5399e4(0x263)](_0x5794af['or']({'forge':import_forge17[_0x5399e4(0x1ae)]})[_0x5399e4(0x263)])),{bin:_0x4ea712,ext:_0x3ca1fd,includes:_0x54b536,package_json:_0x3547c5}=_0x16c7fa,_0x599b5b=_0x16c7fa,_0x5ebbd9=[];if(_0x23ed45[_0x5399e4(0x248)](import_forge17[_0x5399e4(0x33f)+_0x5399e4(0x106)]['Or']({'library':!![]}))){_0x5ebbd9[_0x5399e4(0x322)](..._0x23ed45[_0x5399e4(0x464)](import_forge17[_0x5399e4(0x33f)+_0x5399e4(0x106)][_0x5399e4(0x191)]({'library':!![],'index':!![]}))),_0x5ebbd9[_0x5399e4(0x322)](..._0x23ed45[_0x5399e4(0x464)](import_forge17[_0x5399e4(0x33f)+_0x5399e4(0x106)][_0x5399e4(0x191)]({'library':!![],'ext':!![]})));if(_0x376ff9[_0x5399e4(0x150)](_0x23ed45[_0x5399e4(0x248)](import_forge17[_0x5399e4(0x33f)+_0x5399e4(0x106)][_0x5399e4(0x191)]({'library':!![],'error':!![]})),![]))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0xf9))+(_0x5399e4(0x2a6))](_0x5399e4(0x3e4)+_0x5399e4(0x2ac)+_0x5399e4(0x42d)),{'library':!![],'validate':!![]});}else console[_0x5399e4(0x164)](_0x376ff9[_0x5399e4(0x3cd)]),_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x31e)+_0x5399e4(0x240)+_0x5399e4(0x4a2)+_0x5399e4(0x2a5)+_0x5399e4(0x205)+_0x5399e4(0x427)),{'cause':_0x599b5b}),{'npm':!![],'library':!![],...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});if(_0x5ebbd9[_0x5399e4(0x131)])console[_0x5399e4(0x341)](_0x376ff9[_0x5399e4(0x3d0)](String,_0x5ebbd9[_0x5399e4(0x459)](_0x41e4c5=>''+_0x41e4c5?.[_0x5399e4(0x260)+'r']?.[_0x5399e4(0x2f8)])));if(_0x4ea712){const {entry:_0x130f60,contents:_0x521863,root:_0x197de4}=_0x4ea712;if(_0x376ff9[_0x5399e4(0x3c9)](_0x4ea712[_0x5399e4(0x260)+'r'],String))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x2be)+_0x5399e4(0x331)+_0x5399e4(0x26e)+_0x5399e4(0x46d)+_0x5399e4(0x1cb)+_0x5399e4(0x210)+_0x5399e4(0x43b)+'\x22'),{'cause':_0x599b5b}),{'bin':!![],...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});else{if(_0x130f60){if(_0x376ff9[_0x5399e4(0x150)](await import_forge17[_0x5399e4(0x141)][_0x5399e4(0x13e)](_0x130f60),![]))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4c2)+_0x5399e4(0x442)+_0x5399e4(0x288)+_0x5399e4(0x26e)+_0x5399e4(0x2a7)+'\x22'),{'cause':_0x599b5b}),{'bin':{'entry':!![]},...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});}else{if(_0x376ff9[_0x5399e4(0x32e)](_0x521863,void(-0x1ff7+-0x2678+0x466f)))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4c2)+_0x5399e4(0x442)+_0x5399e4(0x2dd)+_0x5399e4(0x3b5)+_0x5399e4(0x380)+_0x5399e4(0x178)),{'cause':_0x599b5b}),{'bin':{'content':!![]},...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});if(_0x376ff9[_0x5399e4(0x4d9)](_0x197de4,void(0x8c9*0x1+-0x116*-0x11+-0x1b3f)))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4c2)+_0x5399e4(0x442)+_0x5399e4(0x231)+_0x5399e4(0x372)+_0x5399e4(0x1aa)),{'cause':_0x599b5b}),{'bin':{'root':!![]},...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});}}}else _0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x393))+(_0x5399e4(0x13f))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4c2)+_0x5399e4(0x29f)+_0x5399e4(0x235)+_0x5399e4(0x404)),{'cause':_0x599b5b}),{'bin':!![],...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x393)+_0x5399e4(0x4ba)+_0x5399e4(0x1db)]});if(_0x376ff9[_0x5399e4(0x3c9)](_0x3ca1fd?.[_0x5399e4(0x127)],void(0x2526+0x4*-0x7ed+0x29*-0x22)))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x1bd))+(_0x5399e4(0x3da))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4b9)+_0x5399e4(0x10d)+_0x5399e4(0x3be)+_0x5399e4(0x4c1)+_0x5399e4(0x32f)+_0x5399e4(0x390)+_0x5399e4(0x1c4)+_0x5399e4(0x209)+_0x5399e4(0x1e7)+'\x22'),{'cause':_0x599b5b}),{'ext':{'cjs':!![]},...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x1bd)+_0x5399e4(0x4a6)+_0x5399e4(0x28c)]});if(_0x376ff9[_0x5399e4(0x157)](_0x3ca1fd?.[_0x5399e4(0x170)],void(0x2234*0x1+0x3*-0x513+-0x2b*0x71)))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0x1bd))+(_0x5399e4(0x3da))]('['+this[_0x5399e4(0x260)+'r'][_0x5399e4(0x2f8)]+(_0x5399e4(0x492)+_0x5399e4(0x4b9)+_0x5399e4(0x10d)+_0x5399e4(0x112)+_0x5399e4(0x4c1)+_0x5399e4(0x32f)+_0x5399e4(0x390)+_0x5399e4(0x1c4)+_0x5399e4(0x438)+_0x5399e4(0x4a7)+'s\x22'),{'cause':_0x599b5b}),{'ext':{'esm':!![]},...import_forge17[_0x5399e4(0xfc)+_0x5399e4(0x1bd)+_0x5399e4(0x4a6)+_0x5399e4(0x28c)]});if(_0x376ff9[_0x5399e4(0x275)](_0x23ed45[_0x5399e4(0x4bd)][_0x5399e4(0x131)],-0x28f*0xd+-0x102f+0x3172))_0x23ed45[_0x5399e4(0x1a7)](new import_forge17[(_0x5399e4(0xfc))+(_0x5399e4(0xf9))+(_0x5399e4(0x2a6))](_0x5399e4(0x3e4)+_0x5399e4(0x2ac)+_0x5399e4(0x12f)),{'npm':!![],'validate':!![]});}};(async function(){const _0x32e847=_0x578bcf,_0x2e39d9={'BgEPt':function(_0x49f6c7){return _0x49f6c7();},'pVKgG':function(_0x2a1619,_0x3105be){return _0x2a1619==_0x3105be;},'RDght':_0x32e847(0x263),'XeABb':_0x32e847(0x37e)+_0x32e847(0x14c),'fMyNc':function(_0xfa8f43,_0x78511a){return _0xfa8f43===_0x78511a;},'TXpRi':function(_0xdf10d5,_0x26b65f,_0x57a600){return _0xdf10d5(_0x26b65f,_0x57a600);},'BeBLw':function(_0x55bf67,_0x4f00eb){return _0x55bf67(_0x4f00eb);},'nTJJu':function(_0x44c071,_0x41e232){return _0x44c071(_0x41e232);},'wADJc':function(_0x5a9f60,_0x33b0bb,_0x485060){return _0x5a9f60(_0x33b0bb,_0x485060);},'Ytkvu':function(_0x27bd06,_0x1dfcf1,_0x8f7860){return _0x27bd06(_0x1dfcf1,_0x8f7860);},'fTCdf':function(_0x226bd9,_0x108d82,_0x12743e){return _0x226bd9(_0x108d82,_0x12743e);},'BBvnf':function(_0x52c963,_0x27927e){return _0x52c963+_0x27927e;},'OMrsq':_0x32e847(0x4ca),'LSNDA':function(_0x3dff40,_0x489d26){return _0x3dff40===_0x489d26;},'Iroeo':_0x32e847(0x211)+_0x32e847(0x33e),'Knvvp':_0x32e847(0x2a3)+_0x32e847(0x2f0),'MUhqm':_0x32e847(0x465),'vBkIm':_0x32e847(0x461),'QLmUp':function(_0x3544dd,_0x553897,_0x58c37b){return _0x3544dd(_0x553897,_0x58c37b);},'SPeMo':function(_0xe0a809,_0x50cb03,_0xa56048){return _0xe0a809(_0x50cb03,_0xa56048);},'sNdDJ':function(_0x395ca1,_0x50570a){return _0x395ca1===_0x50570a;},'NnVUm':function(_0x5b30cd,_0x5df802,_0x1575cc){return _0x5b30cd(_0x5df802,_0x1575cc);},'sFcDU':function(_0x4d7940,_0x5a1874){return _0x4d7940===_0x5a1874;},'WnITe':function(_0x1c7fe9,_0x1c5e58){return _0x1c7fe9(_0x1c5e58);},'WauqT':function(_0x1acb9c,_0x399edd){return _0x1acb9c(_0x399edd);},'EUxNz':function(_0x265b6e,_0x2b0f42){return _0x265b6e(_0x2b0f42);},'ZZrzS':function(_0x15dbe0,_0x5073e4){return _0x15dbe0(_0x5073e4);},'uztvm':function(_0x3e4616,_0x8db2c0,_0x200cdf){return _0x3e4616(_0x8db2c0,_0x200cdf);},'lxGAs':_0x32e847(0x12c),'grUco':_0x32e847(0x153),'VKLAH':_0x32e847(0x33b),'UCWMT':_0x32e847(0x48f)+'ts','jaWbz':_0x32e847(0x1e3)+'s','fyUzl':_0x32e847(0x14b),'lrCub':_0x32e847(0x40e),'MmBgp':_0x32e847(0x162)+_0x32e847(0x44a)+_0x32e847(0x30e),'qjlVx':function(_0x35e0a5){return _0x35e0a5();},'JdAoA':_0x32e847(0x327),'YrLEr':_0x32e847(0x494)},_0x398ed2=await _0x2e39d9[_0x32e847(0x3d1)]($FetchArguments),_0x343354=_0x398ed2[_0x32e847(0x440)](new import_forge18[(_0x32e847(0x392))+(_0x32e847(0x174))+(_0x32e847(0x16e))]({'forge':!![]})),_0x1417cb=_0x343354[_0x32e847(0x291)](),_0x3a8662=await BuilderPackage[_0x32e847(0x17f)]([_0x398ed2[_0x32e847(0x440)](new import_forge18[(_0x32e847(0x392))+(_0x32e847(0x174))+(_0x32e847(0x16e))]({'builder':!![]}))]);if(_0x2e39d9[_0x32e847(0x313)](_0x2e39d9[_0x32e847(0x3d1)](GetEnviromentParams)[_0x32e847(0x246)],_0x2e39d9[_0x32e847(0x1bc)])){}if(_0x1417cb[_0x32e847(0x1d2)]||_0x1417cb[_0x32e847(0x2c9)]||_0x1417cb[_0x32e847(0x4db)]){console[_0x32e847(0x3c5)](_0x2e39d9[_0x32e847(0x2ec)]);const _0x24d640=new BuildClient({'race':{'.*':0x1f4}});if(_0x1417cb[_0x32e847(0x2c9)]){const _0x13362d=await _0x24d640[_0x32e847(0x37a)](_0x1417cb[_0x32e847(0x2c9)][_0x32e847(0x4a4)]);}}const _0x3edd5f=[],_0x481642=[];if(_0x398ed2[_0x32e847(0x248)](import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)]['Or']({'app':{'types':import_forge18[_0x32e847(0x1ae)]}}))||_0x2e39d9[_0x32e847(0x1de)](_0x1417cb[_0x32e847(0x27b)],!![])){let {out:_0x57f707}=_0x1417cb;await _0x2e39d9[_0x32e847(0x261)]($VerifyFile,{'out':_0x57f707},{'warnings':_0x481642,'errors':_0x3edd5f}),await _0x343354[_0x32e847(0x496)](new TypesPackageValidate());const _0x309fa5=await _0x343354[_0x32e847(0x1fc)](new TypesPackageSanitize());_0x2e39d9[_0x32e847(0x28d)](ProcessWarnignsAndErrors,{'errors':_0x3edd5f,'args':[_0x309fa5,_0x3a8662]});const _0x46dfc2=await _0x2e39d9[_0x32e847(0x41b)]($BuildTypes,[_0x309fa5,_0x3a8662]);_0x2e39d9[_0x32e847(0x457)](ProcessBuilderResult,_0x46dfc2,{'footer':_0x32e847(0x2e9)+_0x32e847(0x332)+_0x32e847(0x2a4)+_0x57f707+(_0x32e847(0x213)+_0x32e847(0xf8)+_0x32e847(0x1d4))});const {code:_0x55f797,path:_0x4e10be}=_0x46dfc2['or']({'code':!![]})[_0x32e847(0x3f6)];await _0x2e39d9[_0x32e847(0x457)]($OutputCompiledCode,_0x55f797,_0x57f707);}else{if(_0x398ed2[_0x32e847(0x248)](import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)]['Or']({'app':{'build':import_forge18[_0x32e847(0x1ae)]}}))||_0x2e39d9[_0x32e847(0x1de)](_0x1417cb[_0x32e847(0x485)],!![])){const {out:_0x1582d6,entry:_0x2f23e2}=_0x1417cb;await _0x2e39d9[_0x32e847(0x457)]($VerifyFile,{'entry':_0x2f23e2},{'errors':_0x3edd5f}),await _0x2e39d9[_0x32e847(0x474)]($VerifyFile,{'out':_0x1582d6},{'warnings':_0x481642,'errors':_0x3edd5f}),_0x2e39d9[_0x32e847(0x41b)](ProcessWarnignsAndErrors,{'errors':_0x3edd5f,'warnings':_0x481642});const _0x2a8c7d=await _0x2e39d9[_0x32e847(0x413)]($Build,_0x2f23e2,builderOptions);_0x2e39d9[_0x32e847(0x261)](ProcessBuilderResult,_0x2a8c7d,{'footer':_0x32e847(0x274)+_0x32e847(0x252)+'\x20\x22'+_0x2f23e2+_0x32e847(0x19d)+_0x1582d6+'\x22'});const {code:_0x3470fe}=_0x2a8c7d['or']({'code':!![]})[_0x32e847(0x3f6)];await _0x2e39d9[_0x32e847(0x474)]($OutputCompiledCode,_0x3470fe,_0x1582d6);if(_0x2a8c7d[_0x32e847(0x248)](import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)]['Or']({'mapping':!![]})))await _0x2e39d9[_0x32e847(0x413)]($OutputCompiledCode,_0x3470fe,_0x2e39d9[_0x32e847(0x247)](_0x1582d6,_0x2e39d9[_0x32e847(0x38d)]));}else{if(_0x398ed2[_0x32e847(0x248)](import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)]['Or']({'app':{'library':import_forge18[_0x32e847(0x1ae)]}}))||_0x2e39d9[_0x32e847(0x314)](_0x1417cb[_0x32e847(0x21a)],!![])){await _0x343354[_0x32e847(0x496)](new LibraryPackageValidate());const _0x44cd7f=await _0x343354[_0x32e847(0x1fc)](new LibraryPackageSanitize()),{out:_0x1d207d}=_0x343354[_0x32e847(0x291)](),{bundled:_0x3a7100}=_0x3a8662[_0x32e847(0x291)]();_0x2e39d9[_0x32e847(0x1de)]([_0x2e39d9[_0x32e847(0x45e)],_0x2e39d9[_0x32e847(0x389)],_0x2e39d9[_0x32e847(0x45c)],_0x2e39d9[_0x32e847(0x381)]][_0x32e847(0x283)](_0x3a7100),![])&&_0x3edd5f[_0x32e847(0x322)](_0x32e847(0x138)+_0x32e847(0x2f4)+_0x32e847(0x1c8)+_0x32e847(0x27c)+_0x32e847(0x18e)+_0x32e847(0x334)+_0x32e847(0x2c1)+_0x32e847(0x2b9)+_0x32e847(0x3a3)+_0x32e847(0x2b6)+_0x32e847(0x255)+_0x32e847(0x132)+_0x32e847(0x2a3)+_0x32e847(0x3a0)+_0x32e847(0x415)+'ge');_0x2e39d9[_0x32e847(0x28d)](ProcessWarnignsAndErrors,{'warnings':_0x481642,'errors':_0x3edd5f,'args':[_0x398ed2]});const _0xc54319=new LibraryBuilder();if([_0x2e39d9[_0x32e847(0x45e)],_0x2e39d9[_0x32e847(0x389)],_0x2e39d9[_0x32e847(0x45c)]][_0x32e847(0x283)](_0x3a7100)){const _0x2f936b=await _0xc54319[_0x32e847(0x192)]([_0x44cd7f,_0x3a8662]);_0x2e39d9[_0x32e847(0x324)](ProcessBuilderResult,_0x2f936b,{'footer':_0x32e847(0x2e9)+_0x32e847(0x1c1)+_0x32e847(0x4c6)+_0x32e847(0x241)+_0x32e847(0x395)});for(const [_0x40b03f,_0x47dc71]of _0x2f936b['or']({'code':!![]})){const {code:_0xd1392a,path:_0x40e184}=_0x40b03f,_0x3e2356=import_forge18[_0x32e847(0x4c8)][_0x32e847(0x265)](_0x1d207d,_0x40e184);await _0x2e39d9[_0x32e847(0x4a3)]($OutputCompiledCode,_0xd1392a,_0x3e2356);}}else{if(_0x2e39d9[_0x32e847(0x3a6)](_0x3a7100,_0x2e39d9[_0x32e847(0x381)])){const _0x3dc16a=await _0xc54319[_0x32e847(0x17a)]([_0x44cd7f,_0x3a8662]);await _0x2e39d9[_0x32e847(0x2e2)]($OutputCompiledCode,_0x3dc16a,_0x1d207d);}else throw new Error(_0x32e847(0x356)+_0x32e847(0x373)+_0x32e847(0x49a)+_0x32e847(0x4c5)+_0x3a7100);}}else{if(_0x398ed2[_0x32e847(0x248)](import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)][_0x32e847(0x448)]({'npm':!![]}))||_0x2e39d9[_0x32e847(0x43a)](_0x1417cb[_0x32e847(0x23b)],!![])){const {out:_0x4d3c98,manifest:_0xdcaf83,init:_0x1efe0c,name:_0x52ca86}=_0x1417cb;_0x3edd5f[_0x32e847(0x322)](...(await _0x2e39d9[_0x32e847(0x1a0)]($VerifyDirectoryExists,{'out':_0x4d3c98}))[_0x32e847(0x4bd)]);let _0xa1a7c1;if(!![]){await _0x343354[_0x32e847(0x496)](new NPMPackageValidate());const _0x2dd141=new PackageSanitizeNPM();_0xa1a7c1=await _0x343354[_0x32e847(0x1fc)](_0x2dd141),_0x2e39d9[_0x32e847(0x1cd)](ProcessWarnignsAndErrors,{'errors':_0x3edd5f,'args':[_0x343354,_0x3a8662]});}else{await _0x398ed2[_0x32e847(0x496)](new NPMPackageValidate()[_0x32e847(0x440)]({'forge':!![]}));const _0x37f119=new PackageSanitizeNPM()[_0x32e847(0x440)]({'forge':!![]},{'forge':!![]});_0xa1a7c1=await _0x398ed2[_0x32e847(0x1fc)](_0x37f119),_0x2e39d9[_0x32e847(0x3f9)](ProcessWarnignsAndErrors,{'errors':_0x3edd5f,'args':[_0x398ed2,_0x3a8662]});}const _0x147786=[],_0x47b4f2=await _0x2e39d9[_0x32e847(0x34e)]($BuildNPM,[_0xa1a7c1,_0x3a8662]);_0x2e39d9[_0x32e847(0x413)](ProcessBuilderResult,_0x47b4f2,{'header':_0x32e847(0x2e9)+_0x32e847(0x499)+_0x32e847(0x282)+_0x32e847(0x219)});for(let [{code:_0x4df149,path:_0x37d0f4},_0x2e9b77]of _0x47b4f2['or']({'code':!![]})){if(import_forge18[_0x32e847(0x33f)+_0x32e847(0x106)]['Or']({'npx':!![]})[_0x32e847(0x479)](_0x2e9b77)){const _0x1d9d22=_0x147786[_0x32e847(0x459)](_0x3a4f7a=>_0x32e847(0x184)+_0x3a4f7a+_0x32e847(0x48a))[_0x32e847(0x4e3)]('\x0a');_0x4df149=_0x2e39d9[_0x32e847(0x41b)](String,_0x4df149)[_0x32e847(0x238)](/#! \/usr\/bin\/env node/,_0x32e847(0x347)+_0x32e847(0x29b)+'\x0a'+_0x1d9d22+'\x0a');}const _0x1ba786=import_forge18[_0x32e847(0x4c8)][_0x32e847(0xf5)](_0x4d3c98,_0x37d0f4);await _0x2e39d9[_0x32e847(0x38e)]($OutputCompiledCode,_0x4df149,_0x1ba786);}if(_0x1efe0c){const _0x4941d0={'name':_0x52ca86,'author':'','version':_0x2e39d9[_0x32e847(0x470)],'keywords':[_0x52ca86],'description':'','bin':_0x2e39d9[_0x32e847(0x25f)],'main':_0x2e39d9[_0x32e847(0x1c5)],'exports':{'.':{'types':_0x2e39d9[_0x32e847(0x41d)],'require':_0x2e39d9[_0x32e847(0x1c5)],'import':_0x2e39d9[_0x32e847(0x292)]}},'scripts':{},'license':_0x2e39d9[_0x32e847(0x48b)],'repository':{'type':_0x2e39d9[_0x32e847(0x419)],'url':''},'dependencies':{}},_0xeb1fd=import_forge18[_0x32e847(0x4c8)][_0x32e847(0xf5)](_0x4d3c98,_0x32e847(0x243)+'on');await _0x2e39d9[_0x32e847(0x457)]($OutputCompiledCode,JSON[_0x32e847(0x23d)](_0x4941d0),_0xeb1fd);}if(_0xdcaf83){const _0x71881d=import_forge18[_0x32e847(0x4c8)][_0x32e847(0xf5)](_0x4d3c98,_0xdcaf83),_0x34d8d1=_0x47b4f2['or']({'manifest':!![]})[_0x32e847(0x410)];if(_0x1efe0c)_0x34d8d1[_0x32e847(0x21b)][_0x32e847(0x322)](import_forge18[_0x32e847(0x4c8)][_0x32e847(0xf5)](_0x4d3c98,_0x32e847(0x243)+'on'));await _0x2e39d9[_0x32e847(0x474)]($OutputCompiledCode,_0x34d8d1[_0x32e847(0x21b)][_0x32e847(0x4e3)]('\x0a'),_0x71881d);}}else console[_0x32e847(0x320)](_0x2e39d9[_0x32e847(0x13b)]);}}}if(_0x1417cb[_0x32e847(0x1d7)]){const _0x17ad09=Date[_0x32e847(0x2a9)]();for(const [_0x3e4e7a,_0x1a531c]of Object[_0x32e847(0x401)](_0x1417cb[_0x32e847(0x1d7)])){try{_0x2e39d9[_0x32e847(0x17b)](GetEnviromentParams)[_0x32e847(0x25a)]?console[_0x32e847(0x3c5)](_0x32e847(0x3b8)+_0x32e847(0x234)+_0x3e4e7a+_0x32e847(0x44e)+_0x1a531c):await import_forge18[_0x32e847(0x141)][_0x32e847(0x218)]([_0x3e4e7a],_0x1a531c);}catch(_0x14a2ac){console[_0x32e847(0x164)](_0x2e39d9[_0x32e847(0x198)],_0x14a2ac?.[_0x32e847(0x31b)]);}}}if(_0x2e39d9[_0x32e847(0x17b)](GetEnviromentParams)[_0x32e847(0x25a)])console[_0x32e847(0x164)](_0x2e39d9[_0x32e847(0x1e9)]);}());function ProcessBuilderResult(_0x365c78,_0x201f8a){const _0x420e08=_0x578bcf,_0x51e91f={'SwPsd':function(_0x2e0df9,_0x63bd67){return _0x2e0df9==_0x63bd67;}};if(_0x51e91f[_0x420e08(0x195)](_0x365c78[_0x420e08(0x31f)],![])){if(_0x201f8a?.[_0x420e08(0x456)])console[_0x420e08(0x3c5)](_0x201f8a?.[_0x420e08(0x456)]);for(const [_0x251dd6,_0x22c690]of _0x365c78['or']({'error':!![]}))console[_0x420e08(0x3c5)](_0x420e08(0x4b8)+_0x420e08(0x402)+_0x251dd6[_0x420e08(0x1a2)]);if(_0x201f8a?.[_0x420e08(0x207)])console[_0x420e08(0x3c5)](_0x201f8a?.[_0x420e08(0x207)]);process[_0x420e08(0x36e)](0x16+-0x43f*0x5+-0x1*-0x1526);}}
+// ../Forge-Typescript-Source/src/Forge-Typescript-Source/src/ts/bin.ts
+var import_forge18 = require("@onyx-ignition/forge");
+
+// ../Forge-Typescript-Source/src/ts/bin-utils.ts
+var import_forge4 = require("@onyx-ignition/forge");
+
+// ../Forge-Typescript-Source/src/ts/build/Core.ts
+var import_forge3 = require("@onyx-ignition/forge");
+var import_esbuild = require("esbuild");
+var import_javascript_obfuscator = require("javascript-obfuscator");
+
+// ../Forge-Typescript-Source/src/ts/Core.ts
+var import_forge = require("@onyx-ignition/forge");
+function GetEnviromentParams() {
+  return {
+    DRY_RUN: /true/i.test(process.env.DRY_RUN),
+    VERBOSITY: process.env.VERBOSITY ?? "all" /* all */
+  };
+}
+async function $OutputCompiledCode(code, outFile) {
+  if (GetEnviromentParams().DRY_RUN) {
+    console.log("[DRY_RUN]", outFile, "written");
+    return;
+  }
+  if (outFile) {
+    await import_forge.ForgeFile.$Write(outFile, code, { recursive: true });
+  } else {
+    await new Promise(function(resolve, reject) {
+      if (code instanceof ArrayBuffer) {
+        process.stdout.write(new Uint8Array(code), resolve);
+      } else {
+        process.stdout.write(code, resolve);
+      }
+    });
+  }
+}
+
+// ../Forge-Typescript-Source/src/ts/FileCache.ts
+var import_forge2 = require("@onyx-ignition/forge");
+var FileCacheInternal = class {
+  _cache = /* @__PURE__ */ new Map();
+  _decoder = new TextDecoder();
+  Has(url) {
+    return this._cache.has(url);
+  }
+  async $FetchString(url) {
+    return this._decoder.decode(await this.$Fetch(url));
+  }
+  async $Fetch(url) {
+    if (this._cache.has(url)) return this._cache.get(url);
+    const buffer = await import_forge2.ForgeFile.$Read(url);
+    this._cache.set(url, buffer);
+    return buffer;
+  }
+  Cache(url, data) {
+    if (this._cache.has(url)) return false;
+    this._cache.set(url, data);
+    return true;
+  }
+  Uncache(url) {
+    return this._cache.delete(url);
+  }
+  Clear() {
+    this._cache.clear();
+  }
+};
+var FileCache = new FileCacheInternal();
+
+// ../Forge-Typescript-Source/src/ts/build/Core.ts
+var CachePlugin = {
+  name: "forge-build-cache",
+  setup(build) {
+    build.onLoad({ filter: /\.((mjs)|(ts|x)|(js|x)$)/ }, async function(args) {
+      const filePath = args.path;
+      let contents = await FileCache.$FetchString(filePath);
+      const regExp = /\(\s*(?<params>.*?)\)\s*=>\s*require\(["'`](?<macro>.+?)["'`]\s*\)/;
+      if (regExp.test(contents)) {
+        console.green("found macro");
+      }
+      return { contents, loader: "tsx" };
+    });
+  }
+};
+function VerifyPackages(packages, sequences) {
+  const errors = [];
+  for (const [error, sequence] of Object.entries(sequences)) {
+    let matches = 0;
+    for (const packaging of packages) {
+      for (const [validations, attributes] of packaging.validations) if (sequence.match(attributes)) matches++;
+    }
+    if (matches == 0) errors.push(error);
+  }
+  if (errors.length) {
+    console.red(errors.join("\n"));
+    process.exit();
+  }
+}
+async function $SanitizeGlob(target) {
+  if (target?.constructor === String) target = String(target).split(/\s*,\s*/g);
+  if (target?.constructor === Array) return import_forge3.ForgeFile.$Glob(target, { resolve: true });
+}
+function FilterPlatform(value) {
+  switch (String(value).toLowerCase()) {
+    case "node":
+      return "node";
+    case "neutral":
+      return "neutral";
+    case "browser":
+      return "browser";
+  }
+}
+function FilterBundled(value) {
+  switch (String(value).toLowerCase()) {
+    case "preserve":
+      return "preserve" /* preserve */;
+    case "mangle-static":
+      return "mangle_static" /* mangle_static */;
+    case "mangle-random":
+      return "mangle_random" /* mangle_random */;
+    case "merge":
+      return "merge" /* merge */;
+  }
+}
+function FormatElapsedTime(elapsed) {
+  return Number(elapsed * 1e-3).toFixed(2);
+}
+function RenderVerifyAccessor(accessor) {
+  const render = [];
+  for (let i = 0; i < accessor.length; i++) {
+    const access = accessor[i];
+    if (i + 1 == accessor.length) {
+      render.push(`{ ${access}`);
+    } else {
+      render.push(`{ ${access}:`);
+    }
+  }
+  render.push(..."}".repeat(accessor.length));
+  return `${render.join(" ")}`;
+}
+async function $VerifyFile(files, options) {
+  const warnings = options?.warnings ?? [];
+  const errors = options?.errors ?? [];
+  const fragments = (0, import_forge3.ExplodeAttributes)(files);
+  for (const { accessor, value } of fragments) {
+    const file = value;
+    if (file === void 0) {
+      errors.push(`Top level: arguments for file: <error>${RenderVerifyAccessor(accessor)}</error> is undefined`);
+    } else {
+      if (await import_forge3.ForgeFile.$DirectoryExists(file).catch((error) => false) === true) {
+        errors.push(`Top level: arguments for file: <error>${RenderVerifyAccessor(accessor)}</error> is a directory and not a valid target for "${file}"`);
+      } else {
+        const { dir } = import_forge3.ForgePath.Parse(file);
+        if (await import_forge3.ForgeFile.$DirectoryExists(dir) === false) {
+          errors.push(`Top level: arguments for file: <error>${RenderVerifyAccessor(accessor)}</error> is an invalid directory to write file`);
+        } else if (await import_forge3.ForgeFile.$DirectoryExists(dir)) {
+          warnings.push(`Top level: arguments for file: <warning>${RenderVerifyAccessor(accessor)}</warning> already exists "${file}"`);
+        }
+      }
+    }
+  }
+  return { warnings, errors };
+}
+async function $VerifyDirectoryExists(directories, options) {
+  const warnings = options?.warnings ?? [];
+  const errors = options?.errors ?? [];
+  const fragments = (0, import_forge3.ExplodeAttributes)(directories);
+  for (const { accessor, value } of fragments) {
+    const dir = value;
+    if (dir === void 0) {
+      errors.push(`Top level: arguments for <error>{ out }</error> is undefined`);
+    } else if (await import_forge3.ForgeFile.$DirectoryExists(dir) === false) {
+      errors.push(`Top level: arguments for <error>{ out }</error> is an invalid directory "${dir}"`);
+    }
+  }
+  return { warnings, errors };
+}
+var BuilderConfig = class _BuilderConfig extends Object {
+  static async $From(packages) {
+    const builderData = (0, import_forge3.MergePackages)(packages, import_forge3.QuerySequence.Or({ builder: import_forge3.Intersects }));
+    const format = builderData.format;
+    const bundled = FilterBundled(builderData.bundled);
+    const platform = FilterPlatform(builderData.platform);
+    const metafile = builderData.meta;
+    const treeShaking = builderData["tree-shaking"];
+    const ignores = await import_forge3.ForgeFile.$Glob(builderData.ignores ?? []);
+    const transform = {
+      read: [],
+      write: []
+    };
+    const transformArg = builderData.transform;
+    if (transformArg?.write?.["obfuscate"] === true) transform.write.push("obfuscate");
+    if (transformArg?.write?.["gzip"] === true) transform.write.push("gzip");
+    const aliasesArgs = builderData.alias;
+    const aliases = {
+      files: aliasesArgs?.files ?? {},
+      directories: aliasesArgs?.directories ?? {}
+    };
+    const externals = await $ParseExternals(String(builderData.externals).split(/\s*,\s*/));
+    return new _BuilderConfig({ bundled, format, platform, metafile, treeShaking, ignores, write: "memory", externals, transform, aliases });
+  }
+  bundled;
+  platform;
+  format;
+  metafile;
+  externals;
+  verbose;
+  treeShaking;
+  ignores;
+  aliases;
+  write;
+  transform;
+  constructor(options) {
+    super();
+    options = options ?? {};
+    this.bundled = options.bundled ?? "merge" /* merge */;
+    this.platform = options.platform ?? "node";
+    this.format = options.format ?? "cjs";
+    this.treeShaking = options.treeShaking ?? true;
+    this.externals = options.externals ?? [];
+    this.verbose = options.verbose ?? "all" /* all */;
+    this.metafile = options.metafile === false ? false : true;
+    this.ignores = options.ignores ?? [];
+    this.write = options.write ?? "memory";
+    this.transform = {
+      read: options.transform?.read ?? [],
+      write: options.transform?.write ?? []
+    };
+    this.aliases = {
+      files: options.aliases?.files ?? {},
+      directories: options.aliases?.directories ?? {}
+    };
+  }
+  async $validate() {
+    const result = new import_forge3.Result();
+    switch (this.platform) {
+      case "browser":
+      case "node":
+      case "neutral":
+        break;
+      default:
+        result.add(new Error(`Invalid Platform: "${this.platform}"`), { platform: true, error: true });
+    }
+    switch (this.format) {
+      case "cjs":
+      case "esm":
+      case "iife":
+        break;
+      default:
+        result.add(new Error(`Invalid Format: "${this.format}"`), { format: true, error: true });
+    }
+    switch (this.verbose) {
+      case "all":
+      case "error":
+      case "warn":
+      case "log":
+        break;
+      default:
+        result.add(new Error(`Invalid Verbose: "${this.verbose}"`), { verbose: true, error: true });
+    }
+    return result;
+  }
+};
+async function $ParseExternals(externals) {
+  const { builtinModules } = require("node:module");
+  const results = /* @__PURE__ */ new Set(["esbuild", ...builtinModules, ...builtinModules.map((submodule) => `node:${submodule}`)]);
+  const externalStatement = new import_forge3.ForgeSyntaxStatement();
+  externalStatement.add(
+    new import_forge3.SequentialExpression({ json: true, keys: true, fragment: true }).add(/json/i, { literal: true }).add(".", { literal: true }).add("keys", { literal: true }).add(new import_forge3.ScopeExpression("(", ")"), { mount: true }).add(":", { literal: true }).add("//", { literal: true }).add(/.+/g, { file: true })
+  ).add(
+    new import_forge3.SequentialExpression({ json: true, values: true, fragment: true }).add(/json/i, { literal: true }).add(".", { literal: true }).add("values", { literal: true }).add(new import_forge3.ScopeExpression("(", ")"), { mount: true }).add(":", { literal: true }).add("//", { literal: true }).add(/.+/g, { file: true })
+  ).add(
+    new import_forge3.SequentialExpression({ json: true, root: true }).add(/json/i, { literal: true }).add(":", { literal: true }).add("//", { literal: true }).add(/.+/g, { file: true })
+  );
+  for (const entry of externals) {
+    externalStatement.frame();
+    const traversalParser = new import_forge3.ForgeSyntaxParser(externalStatement);
+    const syntaxResults = traversalParser.consume(entry);
+    if (syntaxResults.success) {
+      const tokens = syntaxResults.or({ json: true }).first;
+      const query = new import_forge3.QueryManager();
+      for (const [token, attributes] of tokens) query.add(token, attributes);
+      const file = query.or({ file: true }).all.join("");
+      const data = (0, import_forge3.DecodeAttributes)(await import_forge3.ForgeIO.$Fetch(file));
+      if (syntaxResults.has(import_forge3.QuerySequence.And({ json: true, values: true }))) {
+        const accessor = query.or({ mount: true }).slice(1, -1).join("").split(".");
+        for (const value of Object.values(import_forge3.Accessor.Fetch(accessor, data))) {
+          if (value.constructor === String) results.add(value);
+        }
+      } else if (syntaxResults.has(import_forge3.QuerySequence.And({ json: true, keys: true }))) {
+        const accessor = query.or({ mount: true }).slice(1, -1).join("").split(".");
+        for (const key of Object.keys(import_forge3.Accessor.Fetch(accessor, data))) {
+          if (key.constructor === String) results.add(key);
+        }
+      } else if (syntaxResults.has(import_forge3.QuerySequence.Not({ values: true, keys: true }))) {
+        if (data.constructor === Array) for (const entry2 of data) results.add(String(entry2));
+      }
+    } else {
+      results.add(entry);
+    }
+  }
+  return [...results];
+}
+function CalcCodeSize(code) {
+  let size;
+  switch (code.constructor) {
+    case ArrayBuffer:
+      return code.byteLength;
+    case String:
+      return code.length;
+  }
+}
+function UncacheFile(file) {
+  FileCache.Uncache(file);
+}
+async function $Transform({ root, contents, entry }, buildOptions, options) {
+  if (GetEnviromentParams().DRY_RUN) {
+    const result2 = new import_forge3.Result();
+    result2.add({ elapsed: 0, size: 0 }, { stats: true, transform: true });
+    result2.add({ ...buildOptions }, { options: true });
+    result2.add({ code: `console.log("DRY_RUN for $Transform( ... )")` }, { code: true });
+    return result2;
+  }
+  switch (buildOptions.format) {
+    case "forge-js":
+    case "forge-ts":
+    case "tsc":
+      throw new Error(`"forge-js", "forge-ts", are not yet implemented`);
+  }
+  const plugins = [];
+  plugins.push({
+    name: "forge-build-ignore",
+    setup(build) {
+      const ignores = buildOptions.ignores.map((file) => import_forge3.ForgePath.Resolve(file));
+      return;
+      build.onResolve({ filter: /./ }, async function(args) {
+        const { path, resolveDir } = args;
+        for (const ext of [".ts", ".tsx", ".jsx", ".js", ".mjs"]) {
+          const absolutePath = import_forge3.ForgePath.Resolve(resolveDir, `${path}${ext}`);
+          if (await import_forge3.ForgeFile.$FileExist(absolutePath) && ignores.includes(absolutePath)) {
+          }
+        }
+        return;
+      });
+    }
+  });
+  if (options?.cache !== false) plugins.push(CachePlugin);
+  if (options?.plugins) plugins.push(...options?.plugins);
+  const result = new import_forge3.Result();
+  result.add({ ...buildOptions }, { options: true });
+  const startTime = Date.now();
+  const { bundled, write, verbosity, treeShaking } = buildOptions;
+  let logLevel = "silent";
+  switch (verbosity) {
+    default:
+      logLevel = "silent";
+  }
+  const buildQuery = await (0, import_esbuild.build)({
+    stdin: {
+      contents,
+      // These are all optional:
+      sourcefile: entry,
+      resolveDir: root,
+      loader: "tsx"
+    },
+    bundle: true,
+    platform: buildOptions.platform,
+    write: false,
+    // dont produce a build file, but give me the build code as a result
+    format: buildOptions.format,
+    metafile: true,
+    loader: { ".ts": "ts", ".js": "js", ".tsx": "tsx", ".jsx": "jsx" },
+    treeShaking,
+    minify: buildOptions.transform.write.includes("minify"),
+    external: buildOptions.bundled ? await $ParseExternals(["esbuild", ...buildOptions.externals]) : void 0,
+    plugins,
+    logLevel
+  }).catch(function(error) {
+    if (error instanceof Error) {
+      const messages = error.message.split("\n");
+      for (let i = 1; i < messages.length; i++) {
+        const line = messages[i];
+        const execResult = /(?<file>(.+?)):((?<row>\d+):(?<column>\d+):) ERROR: (?<error>.+)/.exec(line);
+        if (execResult) result.add({ ...execResult.groups }, { error: true });
+      }
+    } else {
+      result.add({ error }, { error: true });
+    }
+  });
+  result.add({ elapsed: Date.now() - startTime }, { stats: true, esbuild: true, compile: true });
+  if (buildQuery === void 0) return result.reject();
+  const buildResult = buildQuery;
+  const inputs = buildResult.metafile.inputs;
+  result.add({ inputs }, { inputs: true });
+  const manifest = Object.keys(buildResult.metafile.inputs);
+  result.add({ manifest }, { manifest: true });
+  const { code, mapping } = await $ApplyWriteTransforms(buildResult.outputFiles[0].text, buildOptions);
+  if (code) result.add({ code }, { code: true });
+  if (mapping) result.add({ mapping }, { mappings: true });
+  const size = CalcCodeSize(code);
+  const elapsed = Date.now() - startTime;
+  result.add({ elapsed, size }, { stats: true, transform: true });
+  return result.resolve();
+}
+async function $Build(entryFile, buildOptions, options) {
+  const startTime = Date.now();
+  switch (buildOptions.format) {
+    case "forge-js":
+    case "forge-ts":
+    case "tsc":
+      throw new Error(`"forge-js", "forge-ts", are not yet implemented`);
+  }
+  const result = new import_forge3.Result();
+  const stats = await import_forge3.ForgeFile.$Stat(entryFile).catch((error) => void 0);
+  if (stats === void 0 || stats.isFile() === false) {
+    result.add({ error: `Entry file missing or not a file: "${entryFile}"` }, { error: true });
+    return result.reject();
+  }
+  const plugins = options?.plugins ?? [];
+  if (options?.cache !== false) plugins.push(CachePlugin);
+  result.add({ ...buildOptions }, { options: true });
+  result.add({ entry: entryFile }, { entry: true });
+  const buildQuery = await (0, import_esbuild.build)({
+    entryPoints: [entryFile],
+    bundle: true,
+    platform: buildOptions.platform,
+    write: false,
+    // dont produce a build file, but give me the build code as a result
+    format: buildOptions.format,
+    metafile: true,
+    loader: { ".ts": "ts", ".js": "js", ".tsx": "tsx", ".jsx": "jsx" },
+    treeShaking: buildOptions.treeShaking,
+    minify: buildOptions.transform.write.includes("minify"),
+    // logLevel: "silent",
+    external: await $ParseExternals(["esbuild", ...buildOptions.externals]),
+    plugins
+  }).catch(function(error) {
+    if (error instanceof Error) {
+      const messages = error.message.split("\n");
+      for (let i = 1; i < messages.length; i++) {
+        const line = messages[i];
+        const execResult = /(?<file>(.+?)):((?<row>\d+):(?<column>\d+):) ERROR: (?<error>.+)/.exec(line);
+        if (execResult) result.add({ ...execResult.groups }, { error: true });
+      }
+    } else {
+      result.add({ error }, { error: true });
+    }
+  });
+  result.add({ time: Date.now() - startTime }, { stats: true });
+  if (buildQuery === void 0) return result.reject();
+  const buildResult = buildQuery;
+  const inputs = buildResult.metafile.inputs;
+  const manifest = Object.keys(buildResult.metafile.inputs);
+  result.add({ inputs }, { inputs: true });
+  result.add({ manifest }, { manifest: true });
+  const { code, mapping } = await $ApplyWriteTransforms(buildResult.outputFiles[0].text, buildOptions);
+  if (code) result.add({ code }, { code: true });
+  if (mapping) result.add({ mapping }, { mapping: true });
+  return result.resolve();
+}
+async function $Obfuscate(code, options) {
+  const obfuscationResult = (0, import_javascript_obfuscator.obfuscate)(
+    code,
+    {
+      compact: true,
+      controlFlowFlattening: true,
+      controlFlowFlatteningThreshold: 1,
+      numbersToExpressions: true,
+      simplify: true,
+      stringArrayShuffle: true,
+      splitStrings: true,
+      stringArrayThreshold: 1,
+      sourceMap: true,
+      sourceMapsEnabled: true,
+      sourceMapMode: "separate"
+      // "inline"
+    }
+  );
+  return { code: obfuscationResult.getObfuscatedCode(), mapping: obfuscationResult.getSourceMap() };
+}
+async function $ApplyWriteTransforms(code, options) {
+  const writeTransforms = options.transform.write;
+  let mapping;
+  code = (options.platform == "node" ? "#! /usr/bin/env node\n\n" : "") + code;
+  if (writeTransforms.includes("obfuscate")) {
+    const { code: obfuscatedCode, mapping: obfuscatedMapping } = await $Obfuscate(code);
+    code = obfuscatedCode;
+    mapping = obfuscatedMapping;
+  }
+  if (writeTransforms.includes("gzip")) {
+    const buffer = await import_forge3.ForgeZip.$GZip(code);
+    if (writeTransforms.includes("base64")) return { code: import_forge3.Base64.Encode(buffer) };
+    return { code: (0, import_forge3.DecodeString)(buffer) };
+  } else if (writeTransforms.includes("brotli")) {
+  } else if (writeTransforms.includes("zip")) {
+  }
+  if (writeTransforms.includes("base64")) code = import_forge3.Base64.Encode(code);
+  return { code, mapping };
+}
+
+// ../Forge-Typescript-Source/src/ts/bin-utils.ts
+async function $FetchArguments() {
+  const compositeArguemnts = new import_forge4.ArgumentPackage();
+  const cliArguments = new import_forge4.CLIArgumentPackage();
+  cliArguments.add({
+    forge: {
+      verbose: "all" /* all */
+    }
+  }, { forge: true });
+  cliArguments.parse(process.argv);
+  const stdinPackage = new import_forge4.StdinArgumentPackage().add({ builder: new BuilderConfig() }, { builder: true });
+  await stdinPackage.$parse().catch((error) => console.yellow("StdinArgumentPackage.parse( ... ) race failure caught"));
+  compositeArguemnts.before(stdinPackage);
+  compositeArguemnts.after(cliArguments);
+  await compositeArguemnts.$validate({
+    async $flush(query, validations) {
+      const { forge: { copy, files } } = (0, import_forge4.MergeAttributes)(await Promise.all(query.or({ forge: import_forge4.Intersects }).all));
+      const errorAttributes = { ...import_forge4.ArgumentValidationErrorAttributes, forge: true };
+      console.log((0, import_forge4.MergeAttributes)(await Promise.all(query.or({ forge: import_forge4.Intersects }).all)));
+      if (files) {
+        console.yellow("has files", files);
+      }
+      if (copy) {
+        if (Array.isArray(copy) === false) {
+          validations.add(
+            new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy } }</error> is not an array of { source, targets }`, { cause: copy }),
+            { forge: { copy }, ...errorAttributes }
+          );
+        } else {
+          for (const cause of copy) {
+            const { source, targets } = cause;
+            if (source === void 0) {
+              validations.add(
+                new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy: { source } } }</error> is undefined`, { cause }),
+                { forge: { copy: { source: true } }, ...errorAttributes }
+              );
+            } else {
+              const results = await import_forge4.ForgeFile.$GlobExist([source]);
+              if (results.success === false) {
+                validations.add(
+                  new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy: { source } } }</error> is not a valid source:
+	${source}`, { cause }),
+                  { forge: { copy: { source: true } }, ...errorAttributes }
+                );
+              }
+            }
+            if (targets === void 0) {
+              validations.add(
+                new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy: { targets } } }</error> is undefined`, { cause }),
+                { forge: { copy: { targets: true } }, ...errorAttributes }
+              );
+            } else if (Array.isArray(targets) === false) {
+              validations.add(
+                new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy: { targets } } }</error> is not an array of file targets`, { cause }),
+                { forge: { copy: { targets: true } }, ...errorAttributes }
+              );
+            } else {
+              const results = await import_forge4.ForgeFile.$GlobExist([source]);
+              if (results.success === false) {
+                const invalidTargets = [];
+                for (const [target, attributes] of results) invalidTargets.push(target);
+                validations.add(
+                  new import_forge4.ArgumentValidationError(`[Forge] arguments for <error>{ forge: { copy: { targets } } }</error> is has the follwoing invalid targets:
+	${invalidTargets.join("\n	")}`, { cause }),
+                  { forge: { copy: { targets: true } }, ...errorAttributes }
+                );
+              }
+            }
+          }
+        }
+      }
+    }
+  });
+  return compositeArguemnts.$sanitize({
+    async $sanitize(packageComponent, attributes) {
+      const component = await packageComponent;
+      if (component.app) {
+        const { files } = component.app;
+        if (files) component.app.files = await $SanitizeGlob(files);
+      }
+      return component;
+    }
+  });
+}
+function ProcessWarnignsAndErrors({ args, warnings, errors }) {
+  const collectedSuccesses = /* @__PURE__ */ new Set();
+  const collectedWarnings = /* @__PURE__ */ new Set();
+  const collectedErrors = /* @__PURE__ */ new Set();
+  function FormatText(text) {
+    return text.replace(/<error>/g, "<red>").replace(/<\/error>/g, "</red>").replace(/<warning>/g, "<yellow>").replace(/<\/warning>/g, "</yellow>");
+  }
+  if (warnings && warnings.length) for (const warning of warnings) collectedWarnings.add(warning);
+  if (errors && errors.length) for (const error of errors) collectedErrors.add(error);
+  if (args) {
+    for (const overload of args) {
+      if (overload instanceof import_forge4.ArgumentPackage) {
+        const { successes, warnings: warnings2, errors: errors2 } = overload.validations;
+        if (successes.length) for (const success of successes) collectedSuccesses.add(success.message);
+        if (warnings2.length) for (const warning of warnings2) collectedWarnings.add(warning.message);
+        if (errors2.length) for (const error of errors2) collectedErrors.add(error.message);
+      } else if (overload instanceof import_forge4.ArgumentValues) {
+      } else {
+        console.red("WRONG ARGUMENT");
+        process.exit();
+      }
+    }
+  }
+  if (collectedSuccesses.size) {
+    console.green("Successes:");
+    for (const success of collectedSuccesses) console.parse(`	<cyan>${FormatText(success)}`);
+  }
+  if (collectedWarnings.size) {
+    console.yellow("Warnings:");
+    for (const warnings2 of collectedWarnings) console.parse(`	<cyan>${FormatText(warnings2)}`);
+  }
+  if (collectedErrors.size) {
+    console.red("Errors:");
+    for (const error of collectedErrors) console.parse(`	<cyan>${FormatText(error)}`);
+    console.red("\nAborting build!!!");
+    process.exit();
+  }
+}
+
+// ../Forge-Typescript-Source/src/ts/build/BuildClient.ts
+var import_forge7 = require("@onyx-ignition/forge");
+var import_promises = require("node:fs/promises");
+
+// ../Forge-Typescript-Source/src/ts/build/library/LibraryBuilder.ts
+var import_forge5 = require("@onyx-ignition/forge");
+var import_crypto = require("crypto");
+function ExportPlugin(files, hashes, resolves) {
+  const errors = [];
+  return {
+    name: "forge-export-library",
+    setup: function(build) {
+      build.onResolve({ filter: /.+/ }, async function(args) {
+        let { path, resolveDir, importer } = args;
+        if (resolves.directories) {
+          for (const [match, replace] of Object.entries(resolves.directories)) {
+            if (path.startsWith(match)) path = path.replace(match, import_forge5.ForgePath.Resolve(replace) + "/");
+          }
+        }
+        for (const ext of [".ts", ".tsx", ".jsx", ".js"]) {
+          const absolutePath = import_forge5.ForgePath.Resolve(resolveDir, `${path}${ext}`);
+          const relativePath = import_forge5.ForgePath.Relative(resolveDir, absolutePath);
+          if (await import_forge5.ForgeFile.$FileExist(absolutePath)) {
+            if (resolves.files[absolutePath]) {
+              return { path: resolves.files[absolutePath], external: true };
+            } else if (files.includes(absolutePath)) {
+              try {
+                const importhashedImportPath = hashes.get(importer)?.path;
+                if (importhashedImportPath === void 0) {
+                  return { path: hashes.get(absolutePath).path, external: true, namespace: "remapped" };
+                } else {
+                  const path2 = import_forge5.ForgePath.Relative(import_forge5.ForgePath.Parse(importhashedImportPath).dir, hashes.get(absolutePath).path);
+                  return { path: path2, external: true, namespace: "remapped" };
+                }
+              } catch (error) {
+                console.green(importer);
+                console.red(error.message);
+                return;
+              }
+              const importParsed = import_forge5.ForgePath.Parse(importer);
+              if (importParsed.name == "{index}")
+                console.log("importer", hashes.get(importer)?.path ?? args);
+              console.log("current", hashes.get(absolutePath).path);
+              console.log("---");
+              return { path: hashes.get(absolutePath).path, external: true, namespace: "remapped" };
+              return { namespace: "ignore" };
+            }
+            console.red(`Unresolved file found`, absolutePath, resolves, files);
+            errors.push(`Unresolved file found: ${absolutePath}`);
+          }
+        }
+        return { path, external: true };
+      });
+      build.onLoad({ filter: /\.((ts|x$)|(js|x))/ }, async function(args) {
+        console.magenta("onload", args);
+        const { path } = args;
+        const contents = hashes.has(path) ? hashes.get(path).contents : await FileCache.$FetchString(path);
+        return { contents, loader: "tsx" };
+      });
+      build.onEnd(function() {
+        if (errors.length) console.log("errors", errors);
+        if (errors.length) throw new Error(`Error found compiling ${errors}`);
+      });
+    }
+  };
+}
+var LibraryBuilder = class {
+  _exportedComponents = /* @__PURE__ */ new Set();
+  _sanitizeSources({ root, files }, builderOptions2) {
+    const { aliases, ignores } = builderOptions2;
+    const sanitizedResolves = {};
+    for (const [file, resolve] of Object.entries(aliases.files)) {
+      const path = import_forge5.ForgePath.IsAbsolute(file) ? file : import_forge5.ForgePath.Resolve(root, file);
+      sanitizedResolves[path] = resolve;
+    }
+    files = files.filter((file) => ignores.includes(file) === false).map((file) => import_forge5.ForgePath.Resolve(file));
+    return [{
+      root,
+      files
+    }, {
+      files: sanitizedResolves,
+      directories: aliases.directories
+    }];
+  }
+  async _$extractImportations(file, root, vanillaJS) {
+    const parsedPath = import_forge5.ForgePath.Parse(file);
+    const name = parsedPath.name;
+    const code = await FileCache.$FetchString(file);
+    const importations = /* @__PURE__ */ new Set();
+    const skippedImportations = [];
+    const regExp = vanillaJS === true ? /(^|\n)\s*export\s+(default)?((async function)|function|class|var|const|let)\s+(?<component>[$\w]+)/gm : /(^|\n)\s*export\s+(default)?((async function)|function|class|enum|interface|var|const|let|type)\s+(?<component>[$\w]+)/gm;
+    let results;
+    while (results = regExp.exec(code)) {
+      const exportName = results.groups.component;
+      const tranformsResults = new RegExp(`${exportName}\\d+`).exec(code);
+      const transformedExport = tranformsResults ? tranformsResults[0] : exportName;
+      if (this._exportedComponents.has(exportName)) {
+        if (importations.has(exportName) === false) skippedImportations.push(exportName);
+      } else {
+        importations.add(exportName);
+      }
+      this._exportedComponents.add(transformedExport);
+    }
+    let importEntry = importations.size == 0 ? "// " : "";
+    importEntry += `import { ${[...importations].join(", ")} } from "${import_forge5.ForgePath.Relative(root, parsedPath.dir)}/${name}";`.replace(/\\/g, "/").replace(".//", "./");
+    if (skippedImportations.length) importEntry += ` // skipped imports :{ ${skippedImportations.join(", ")} }`;
+    return importEntry;
+  }
+  // public async $merge(sources: LibrarySources, alias: ForgeBuilderAliases, basic?: boolean): Promise<string> {
+  async $merge(packages) {
+    VerifyPackages(packages, {
+      "Library packaging validation failed": import_forge5.QuerySequence.And({ validate: true, library: true }),
+      "Library packaging sanitation failed": import_forge5.QuerySequence.And({ sanitize: true, library: true })
+    });
+    const forgeOptions = (0, import_forge5.MergePackages)(packages, import_forge5.QuerySequence.Traverse({ forge: true }));
+    const { sources: { files, root }, vanilla_js } = forgeOptions;
+    const importations = [];
+    for (const file of files) importations.push(await this._$extractImportations(file, root, false));
+    return `${importations.join("\n")};
+        
+export {
+
+${[...this._exportedComponents].map((value) => "	" + value.replace(/[^\w$]+/g, "_")).join(",\n")} 
+            
+};`;
+  }
+  async $bundle(packages) {
+    VerifyPackages(packages, {
+      "Library packaging validation failed": import_forge5.QuerySequence.And({ validate: true, library: true }),
+      "Library packaging sanitation failed": import_forge5.QuerySequence.And({ sanitize: true, library: true })
+    });
+    const forgeOptions = (0, import_forge5.MergePackages)(packages, import_forge5.QuerySequence.Traverse({ forge: true }));
+    const builderOptions2 = (0, import_forge5.MergePackages)(packages, import_forge5.QuerySequence.Traverse({ builder: true }));
+    const { sources } = forgeOptions;
+    const [{ files, root }, aliases] = this._sanitizeSources(sources, builderOptions2);
+    const contents = await this.$merge(packages);
+    const result = await $Transform({ root, contents }, builderOptions2, {
+      plugins: [{
+        name: "forge-library-bundle",
+        setup(build) {
+          build.onResolve({ filter: /.+/ }, async function(args) {
+            const { path, resolveDir } = args;
+            for (const ext of [".ts", ".tsx", ".jsx", ".js"]) {
+              const absolutePath = import_forge5.ForgePath.Resolve(resolveDir, `${path}${ext}`);
+              if (aliases[absolutePath]) return { path: aliases[absolutePath], external: true };
+              if (files.includes(absolutePath) === false) return { path, external: true };
+              if (await import_forge5.ForgeFile.$FileExist(absolutePath)) return { path: absolutePath, external: false };
+            }
+            return { path, external: true };
+          });
+        }
+      }]
+    });
+    return result.or({ code: true }).first.code;
+  }
+  // public async $export(sources: LibrarySources, buildOptions: ForgeBuilderOptions, libraryExport: { lib: string, ext: string, index: string }): Promise<IResult<Attributes>> {
+  async $export(packages) {
+    const exportResults = new import_forge5.Result();
+    try {
+      VerifyPackages(packages, {
+        "Library packaging validation failed": import_forge5.QuerySequence.And({ validate: true, library: true }),
+        "Library packaging sanitation failed": import_forge5.QuerySequence.And({ sanitize: true, library: true })
+      });
+      const validations = (0, import_forge5.MergeValidations)(packages);
+      const forgeOptions = (0, import_forge5.MergePackages)(packages, import_forge5.QuerySequence.Traverse({ forge: true }));
+      const builderOptions2 = (0, import_forge5.MergePackages)(packages, import_forge5.QuerySequence.Traverse({ builder: true }));
+      const { sources, lib, ext, index } = forgeOptions;
+      let [{ files, root }, aliases] = this._sanitizeSources(sources, builderOptions2);
+      files = files.filter((file) => builderOptions2.ignores.includes(file) === false);
+      const hashes = /* @__PURE__ */ new Map();
+      const { bundled } = builderOptions2;
+      for (const file of files) {
+        let path;
+        if (bundled == "preserve" /* preserve */) {
+          const parsedFile = import_forge5.ForgePath.Parse(file);
+          path = import_forge5.ForgePath.Join(lib, import_forge5.ForgePath.Relative(root, import_forge5.ForgePath.Join(parsedFile.dir, parsedFile.name))) + ext;
+        } else if (bundled == "mangle_static" /* mangle_static */) {
+          const hash = (0, import_crypto.createHash)("md5").update(String(hashes.size) + import_forge5.ForgePath.Join(root, lib, index)).digest("hex");
+          path = import_forge5.ForgePath.Join(lib, hash) + ext;
+        } else if (bundled == "mangle_random" /* mangle_random */) {
+          path = import_forge5.ForgePath.Join(lib, (0, import_forge5.QuickHash)()) + ext;
+        } else {
+          throw new Error(`incompable Bunbled: "${bundled}"`);
+        }
+        hashes.set(file, { path, contents: await FileCache.$FetchString(file) });
+      }
+      const mergePackage = new import_forge5.ArgumentPackage({ validations });
+      mergePackage.add({ sources: { files, root } }, { forge: true });
+      mergePackage.add({ ...builderOptions2 }, { builder: true });
+      const contents = await this.$merge([mergePackage]);
+      const plugins = builderOptions2.bundled == "preserve" /* preserve */ || builderOptions2.bundled == "mangle_static" /* mangle_static */ || builderOptions2.bundled == "mangle_random" /* mangle_random */ ? [ExportPlugin(files, hashes, aliases)] : [];
+      const transformResult = await $Transform({ root, contents, entry: index }, builderOptions2, { plugins });
+      if (transformResult.success === false) return transformResult;
+      const { code } = transformResult.or({ code: true }).first;
+      exportResults.add({ code, path: index }, { code: true, index: true });
+      for (const file of files) {
+        if (builderOptions2.ignores.includes(file)) {
+          console.red("ignore found", file);
+          continue;
+        }
+        const { contents: contents2, path } = hashes.get(file);
+        const fileParsed = import_forge5.ForgePath.Parse(file);
+        const transformResult2 = await $Transform({ root: fileParsed.dir, contents: contents2, entry: file }, builderOptions2, { plugins });
+        if (transformResult2.success === false) {
+          const errors = [];
+          for (const [component, attributes] of transformResult2.or({ error: true })) errors.push(`<red>Error[X]</red>
+
+    ${component.error}
+
+        <cyan>${file}:${component.row}:${component.column}:
+    `);
+          throw new Error(errors.join("\n\n"));
+        }
+        const { code: code2 } = transformResult2.or({ code: true }).first;
+        exportResults.add({ code: code2, path }, { code: true, dependency: true });
+      }
+      exportResults.resolve();
+    } catch (error) {
+      console.red(error);
+      exportResults.reject();
+    }
+    return exportResults;
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/types/TypesBuilder.ts
+var import_forge6 = require("@onyx-ignition/forge");
+var import_typescript = require("typescript");
+async function $BuildTypes(packages) {
+  VerifyPackages(packages, {
+    "Types packaging validation failed": import_forge6.QuerySequence.And({ validate: true, types: true }),
+    "Types packaging sanitation failed": import_forge6.QuerySequence.And({ sanitize: true, types: true })
+  });
+  const forgeOptions = (0, import_forge6.MergePackages)(packages, import_forge6.QuerySequence.Traverse({ forge: true }));
+  const builderOptions2 = (0, import_forge6.MergePackages)(packages, import_forge6.QuerySequence.Traverse({ builder: true }));
+  let { files, name, out } = forgeOptions;
+  const { ignores } = builderOptions2;
+  files = files.filter((value) => ignores.includes(value));
+  const startTime = Date.now();
+  const result = new import_forge6.Result();
+  if (GetEnviromentParams().DRY_RUN) {
+    return result.add({ code: `console.log("DRY RUN $BuildTypes( ... )")`, path: "./index.d.ts" }, { code: true, types: true }).add({ elapsed: 0, size: 0 }, { stats: true, types: true }).resolve();
+  }
+  try {
+    const compilerOptions = {
+      allowJs: true,
+      declaration: true,
+      emitDeclarationOnly: true
+    };
+    const createdFiles = {};
+    const host = (0, import_typescript.createCompilerHost)(compilerOptions);
+    host.writeFile = (fileName, contents) => createdFiles[fileName] = contents;
+    const program = (0, import_typescript.createProgram)(files, compilerOptions, host);
+    program.emit();
+    const codeSegments = ["\n", `// @ts-nocheck
+
+declare module "${name}" {
+`];
+    if (builderOptions2.bundled === "merge" /* merge */ || true) {
+      for (const [filename, contents] of Object.entries(createdFiles)) {
+        const code2 = contents.replace("export {};", "").replace(/\s*import.+?["'`].+?["'`];\s*/g, "\n").replace(/declare\s+/g, "").split("\n").map((line) => `	${line}`).join("\n");
+        codeSegments.push(code2);
+      }
+      codeSegments.push("\n}");
+      const { code } = await $ApplyWriteTransforms(codeSegments.join("\n"), { transform: { write: [] } });
+      result.add({ code, path: out }, { code: true });
+      const size = CalcCodeSize(code);
+      const elapsed = Date.now() - startTime;
+      result.add({ elapsed, size }, { stats: true, types: true });
+    } else if (builderOptions2.bundled == "preserve" /* preserve */) {
+      throw new Error(`not yet implemented bundled == "preserve"`);
+    } else {
+    }
+    return result.resolve();
+  } catch (error) {
+    console.red(error);
+    result.add({ error }, { error: true });
+    return result.reject();
+  }
+}
+
+// ../Forge-Typescript-Source/src/ts/build/BuildClient.ts
+function SerializeResult(result) {
+  const success = result.success;
+  const serializedResult = [];
+  for (const [component, attributes] of result) serializedResult.push([component, attributes]);
+  return {
+    success,
+    result: serializedResult
+  };
+}
+var BuildClient = class extends import_forge7.ForgeClient {
+  _contexts = /* @__PURE__ */ new Map();
+  /* constructor(options: { key?: string, name?: string, race?: Record<string, number> }) {
+  
+          super(options);
+  
+      } */
+  async $watch(data, session) {
+    let { file, event } = data;
+    file = file.replace(/\\/g, "/");
+    UncacheFile(file);
+    const promises = [];
+    for (const [hash, { filter, entry, target, build }] of this._contexts) {
+      if (filter.test(file) === false) continue;
+      promises.push($Build(entry, build));
+    }
+    await Promise.allSettled(promises);
+    return {
+      success: true,
+      message: `file :${file} flushed`
+    };
+  }
+  async $reset(data, session) {
+    const files = [
+      ...await import_forge7.ForgeFile.$Walk(import_forge7.ForgePath.Resolve(__dirname, "./lib"), { recursive: false, directory: true }),
+      ...await import_forge7.ForgeFile.$Walk(import_forge7.ForgePath.Resolve(__dirname, "./tmp"), { recursive: false, directory: true })
+    ];
+    const promises = [];
+    for (const file of files) {
+      promises.push((0, import_promises.rm)(file, { recursive: true, force: true }));
+    }
+    await Promise.allSettled(promises);
+    return {
+      success: true
+    };
+  }
+  async $execute(signal, data, session) {
+    console.cyan(`$execute`, signal);
+    switch (signal.toLowerCase()) {
+      /* case "uncache":
+                      return this.Uncache(data, session);
+      
+                  case "cache":
+                      return this.Cache(data, session); */
+      case "add-context":
+        return this.$startContext(data, session);
+      case "remove-context":
+        return this.$stopContext(data, session);
+      case "bundle":
+        return this.$bundle(data, session);
+      case "library":
+        return this.$library(data, session);
+      case "types":
+        return this.$types(data, session);
+    }
+    return { "execute": "empty function" };
+  }
+  async $route(request, response) {
+    throw "ADD SOMETHING";
+  }
+  async $startContext(data, session) {
+    const { entry, target } = data;
+    let filter;
+    try {
+      if (data.filter) filter = new RegExp(data.filter);
+    } catch (error) {
+      console.red(data.filter, error);
+    }
+    const errors = [];
+    const build = new BuilderConfig(data.build);
+    const hash = (0, import_forge7.QuickHash)();
+    this._contexts.set(hash, { filter, entry, target, build });
+    return {
+      success: true,
+      hash,
+      message: ``
+    };
+  }
+  async $stopContext(data, session) {
+    const hash = data.hash;
+    if (hash === void 0 || this._contexts.has(hash) === false) return {
+      success: false,
+      message: `context does no exist for ${hash}`
+    };
+    this._contexts.delete(hash);
+    return {
+      success: true,
+      message: `context does nto exist for ${hash}`
+    };
+  }
+  async $bundle(data, session) {
+    const { entry, build, target } = data;
+    if (entry === void 0 || entry == "") throw `"in" property missing from action data`;
+    return SerializeResult(await $Build(entry, build));
+  }
+  async $library(data, session) {
+    const { source, build } = data;
+    const { root } = source;
+    const files = source ? source.files : await import_forge7.ForgeFile.$Walk(source.walk);
+    const aliases = build.aliases;
+    const library = new LibraryBuilder();
+    if (build.bundled == "mangle_static" /* mangle_static */ || build.bundled == "mangle_random" /* mangle_random */ || build.bundled == "preserve" /* preserve */) {
+      return SerializeResult(await library.$export({ files, root }, new BuilderConfig(build), { lib: "./lib/", ext: ".js" }));
+    } else if (build.bundled == "merge" /* merge */) {
+      const code2 = await library.$bundle({ files, root }, new BuilderConfig(build));
+      return {
+        success: true,
+        result: [{ code: code2 }, { code: true, source: true }]
+      };
+    }
+    const code = await library.$merge({ root, files }, aliases);
+    return {
+      success: true,
+      result: [{ code }, { code: true, source: true }]
+    };
+  }
+  async $listen(port, key) {
+    if (this._server) return this._server;
+    if (isNaN(port) === true) throw new Error(`Port not supplied to Socket Server`);
+    this._server = new import_forge7.ForgeWebSocketServer(port, key);
+    this._server[import_forge7.Reactivity].subscribe(async function([socket, header, data]) {
+      if (header === void 0) return;
+      try {
+        this._$subscribeMessage("message", socket, header, data);
+      } catch (error) {
+        socket.reject(header, { error: String(error) });
+      }
+    }.bind(this));
+    return this._server;
+  }
+  async $types(data, session) {
+    const { entry, name, build, options: { ignore, temp } } = data;
+    return SerializeResult(await $BuildTypes(entry, name, build));
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/builder/BuilderPackage.ts
+var import_forge10 = require("@onyx-ignition/forge");
+
+// ../Forge-Typescript-Source/src/ts/build/builder/BuilderPackageSanitize.ts
+var import_forge8 = require("@onyx-ignition/forge");
+var BuilderPackageSanitize = class extends import_forge8.AsyncArgumentPackageSanitize {
+  constructor(options) {
+    options = options ?? {
+      default: {
+        component: {},
+        attributes: { builder: true }
+      }
+    };
+    options.default.component = new BuilderConfig(options.default?.component);
+    super(options);
+  }
+  async $sanitize(component, attributes) {
+    component = component instanceof Promise ? await component : component;
+    for (const [key, value] of Object.entries(component)) {
+      switch (key) {
+        case "ignores":
+          component.ignores = await $SanitizeGlob(value);
+          break;
+        case "externals":
+          switch (value?.constructor) {
+            case String:
+              component.externals = await $ParseExternals(String(value).split(/\s*,\s*/));
+              break;
+            case Array:
+              component.externals = await $ParseExternals(value);
+              break;
+          }
+          break;
+        case "transform":
+          const { read, write } = component.transform;
+          break;
+      }
+    }
+    return component;
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/builder/BuilderPackageValidate.ts
+var import_forge9 = require("@onyx-ignition/forge");
+var BuilderPackageValidate = class extends import_forge9.AsyncArgumentPackageValidate {
+  async $flush(query, validations) {
+    const builderParams = (0, import_forge9.MergeAttributes)(await Promise.all(query.or({ builder: import_forge9.Intersects }).all));
+    let { format, platform, bundled, ignores, transform } = builderParams;
+    const errorAttributes = { ...import_forge9.ArgumentValidationErrorAttributes, builder: true };
+    const warningAttributes = { ...import_forge9.ArgumentValidationWarningAttributes, builder: true };
+    const cause = builderParams;
+    if (format) {
+      validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ format }</warning> is optional and will default to <blue>cjs`, { cause }),
+        { format: true, ...warningAttributes }
+      );
+    } else {
+      format = String(format).toLowerCase();
+      if (["cjs", "esm", "iife"].includes(format) === false) validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ format }</warning> is an invalid value. Should be <blue>cjs | esm | iife`, { cause }),
+        { format: true, ...errorAttributes }
+      );
+    }
+    if (platform) {
+      validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ platform }</warning> is optional and will default to <blue>neutral`, { cause }),
+        { platform: true, ...warningAttributes }
+      );
+    } else {
+      platform = String(platform).toLowerCase();
+      if (["node", "neutral", "browser"].includes(platform) === false) validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ format }</warning> is an invalid value. Should be <blue>node | neutral | browser`, { cause }),
+        { platform: true, ...errorAttributes }
+      );
+    }
+    if (bundled) {
+      validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ bundled }</warning> is optional and will default to <blue>mangle-static`, { cause }),
+        { bundled: true, ...warningAttributes }
+      );
+    } else {
+      bundled = String(bundled).toLowerCase();
+      if (["preserve", "mangle-static", "mangle-random", "merge"].includes(bundled) === false) validations.add(
+        new import_forge9.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <error>{ bundled }</warning> is an invalid value. Should be <blue> preserve | mangle-static | mangle-random | merge`, { cause }),
+        { bundled: true, ...errorAttributes }
+      );
+    }
+    if (ignores) {
+      switch (ignores.constructor) {
+        case String:
+          ignores = ignores.split(/\s*,\s*/g);
+        // fall thorugh
+        case Array:
+          const results = await import_forge9.ForgeFile.$GlobExist(ignores);
+          if (results.success === false) {
+            const warnings = [];
+            for (const [warning, attributes] of results) warnings.push(warning);
+            validations.add(
+              new import_forge9.ArgumentValidationWarning(
+                `[${this.constructor.name}] arguments for <warning>{ ignores }</warning> has the following invalid targets:
+		<magenta>${warnings.join("\n		")}`,
+                { cause: warnings }
+              ),
+              { ignores: true, ...warningAttributes }
+            );
+          }
+          break;
+      }
+    }
+    if (transform) {
+      if (Array.isArray(transform.write)) {
+      }
+      if (Array.isArray(transform.read)) {
+      }
+    }
+    if (validations.errors.length === 0) validations.add(
+      new import_forge9.ArgumentValidationSuccess(`${this.constructor.name}] Package validated for builder`),
+      { builder: true, validate: true }
+    );
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/builder/BuilderPackage.ts
+var BuilderPackage = class _BuilderPackage extends import_forge10.ArgumentPackage {
+  /**
+   * Return an instance that has been merged from a { builder } mount, then validated and sanitized
+   * @param packages
+   * @returns {BuilderPackage}
+   */
+  static async $From(packages) {
+    const builder = (0, import_forge10.MergePackages)(packages, import_forge10.QuerySequence.Traverse({ builder: true }));
+    const packaging = new _BuilderPackage();
+    packaging.add(builder, { builder: true });
+    await packaging.$validate(new BuilderPackageValidate());
+    return packaging.$sanitize(new BuilderPackageSanitize());
+  }
+  async $validate(validator) {
+    return super.$validate(validator ?? new BuilderPackageValidate());
+  }
+  async $sanitize(sanitizer) {
+    return super.$sanitize(sanitizer ?? new BuilderPackageSanitize());
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/library/LibraryPackageSanitize.ts
+var import_forge11 = require("@onyx-ignition/forge");
+var LibraryPackageSanitize = class extends import_forge11.AsyncArgumentPackageSanitize {
+  _source = {};
+  constructor() {
+    super({
+      default: {
+        component: {
+          lib: "./lib",
+          ext: ".js"
+        },
+        attributes: { library: true, forge: true }
+      }
+    });
+  }
+  async $sanitize(component, attributes) {
+    if (component instanceof Promise) component = await component;
+    for (const [name, value] of Object.entries(component)) {
+      switch (name) {
+        case "files":
+          component.files = await $SanitizeGlob(value);
+          break;
+      }
+    }
+    return component;
+  }
+  async $flush(query) {
+    const forgeParams = (0, import_forge11.MergeAttributes)(await Promise.all(query.or({ forge: import_forge11.Intersects }).all));
+    const { root, files } = forgeParams;
+    query.add({ sources: { root, files } }, { forge: { sources: { root, files } } });
+  }
+  validate(packaging) {
+    super.validate(packaging);
+    if (packaging.validations.errors.length == 0) packaging.validations.add(new import_forge11.ArgumentValidationSuccess(`Package sanitized for Library`), { library: true, sanitize: true });
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/library/LibraryPackageValidate.ts
+var import_forge12 = require("@onyx-ignition/forge");
+var LibraryPackageValidate = class extends import_forge12.AsyncArgumentPackageValidate {
+  async $flush(query, validations) {
+    const forgeParams = (0, import_forge12.MergeAttributes)(await Promise.all(query.or({ forge: import_forge12.Intersects }).all));
+    const { sources, files, root, lib, ext, index } = forgeParams;
+    const cause = forgeParams;
+    const errorAttributes = { ...import_forge12.ArgumentValidationErrorAttributes, library: true };
+    const warningAttributes = { ...import_forge12.ArgumentValidationWarningAttributes, library: true };
+    if (sources) {
+      if (sources.files === void 0) validations.add(
+        new import_forge12.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ source: { files } }</error> is undefined`, { cause }),
+        { files: true, ...errorAttributes }
+      );
+      if (sources.root === void 0) validations.add(
+        new import_forge12.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ source: { root } }</error> is is undefined`, { cause }),
+        { root: true, ...errorAttributes }
+      );
+    } else {
+      if (files === void 0) validations.add(
+        new import_forge12.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ files }</error> is undefined`, { cause }),
+        { files: true, ...errorAttributes }
+      );
+      if (root === void 0) validations.add(
+        new import_forge12.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ root }</error> is is undefined`, { cause }),
+        { root: true, ...errorAttributes }
+      );
+    }
+    if (index === void 0) validations.add(
+      new import_forge12.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ index }</error> is is undefined`, { cause }),
+      { index: true, ...errorAttributes }
+    );
+    if (lib === void 0) validations.add(
+      new import_forge12.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ lib }</warning> is optional and will default to <blue>"./lib/"`, { cause }),
+      { lib: true, ...warningAttributes }
+    );
+    if (ext === void 0) validations.add(
+      new import_forge12.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ ext }</warning> is optional and will default to = <blue>".js"`, { cause }),
+      { ext: true, ...warningAttributes }
+    );
+    if (validations.errors.length === 0) validations.add(
+      new import_forge12.ArgumentValidationSuccess(`[${this.constructor.name}] package validated for Library`),
+      { library: true, validate: true }
+    );
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/npm/NPMBuilder.ts
+var import_forge13 = require("@onyx-ignition/forge");
+async function $BuildNPM(packages) {
+  VerifyPackages(packages, {
+    "NPM packaging validation failed": import_forge13.QuerySequence.And({ validate: true, npm: true }),
+    "NPM packaging sanitation failed": import_forge13.QuerySequence.And({ sanitize: true, npm: true })
+  });
+  const validations = (0, import_forge13.MergeValidations)(packages);
+  const forgeOptions = (0, import_forge13.MergePackages)(packages, import_forge13.QuerySequence.Traverse({ forge: true }));
+  const builderOptions2 = (0, import_forge13.MergePackages)(packages, import_forge13.QuerySequence.Traverse({ builder: true }));
+  const results = new import_forge13.Result();
+  const totalTime = Date.now();
+  const manifest = [];
+  {
+    if (process.env.verbose == "all" /* all */) console.blue(`starting index.d.ts >>>`);
+    const { files, name } = forgeOptions;
+    const typesPackage = new import_forge13.ArgumentPackage({ validations });
+    typesPackage.add({ ...builderOptions2, bundled: "merge" /* merge */ }, { builder: true });
+    typesPackage.add({ files, name, out: "./index.d.ts" }, { forge: true });
+    const typesResult = await $BuildTypes([typesPackage]);
+    if (typesResult.success === false) return results.merge(typesResult).reject();
+    const { code, path } = typesResult.or({ code: true }).first;
+    results.add({ code, path }, { code: true, types: true });
+    manifest.push("./index.d.ts");
+    const stats = typesResult.or({ stats: true }).first;
+    results.add(stats, { stats: true, types: true, npm: true });
+    console.blue(`index.d.ts compiled in: ${FormatElapsedTime(stats.elapsed)} s`);
+  }
+  {
+    const startTime = Date.now();
+    const { files, root, lib, ext } = forgeOptions;
+    const formats = [["cjs", "./index.js", ext.cjs], ["esm", "./index.mjs", ext.esm]];
+    const bundled = builderOptions2.bundled;
+    for (const [format, index, ext2] of formats) {
+      const library = new LibraryBuilder();
+      if (bundled == "mangle_static" /* mangle_static */ || bundled == "mangle_random" /* mangle_random */ || bundled == "preserve" /* preserve */) {
+        const libraryExportPackage = new import_forge13.ArgumentPackage({ validations });
+        libraryExportPackage.add({
+          sources: {
+            files,
+            root
+          },
+          formats,
+          files,
+          root,
+          lib,
+          ext: ext2,
+          index
+        }, { forge: true });
+        libraryExportPackage.add({ ...builderOptions2, format, bundled }, { builder: true });
+        libraryExportPackage.validations = (0, import_forge13.MergeValidations)(packages);
+        const libraryResults = await library.$export([libraryExportPackage]).catch(function(error) {
+          console.parse("-".repeat(20), "\n" + error.message, "\n" + "-".repeat(20));
+          process.exit();
+        });
+        if (libraryResults.success === false) return results.merge(libraryResults).reject();
+        for (const [component, attributes] of libraryResults.or({ code: true })) {
+          let { code, path } = component;
+          manifest.push(path);
+          const size = CalcCodeSize(code);
+          const elapsed2 = startTime - Date.now();
+          if (attributes.index === true) {
+            results.add({ code, path }, { code: true, library: true, index: true, format });
+            results.add({ elapsed: elapsed2, size }, { stats: true, library: true, index: true, format });
+          } else {
+            results.add({ code, path }, { code: true, library: true, dependency: true, format });
+            results.add({ elapsed: elapsed2, size }, { stats: true, library: true, dependency: true, format });
+          }
+        }
+      } else if (builderOptions2.bundled == "merge" /* merge */) {
+        const code = await library.$bundle(packages);
+        results.add({ code, path: index }, { code: true, library: true, index: true, format });
+        manifest.push(index);
+      } else {
+        throw new Error(`Invalid bundle option: ${builderOptions2.bundled}`);
+      }
+    }
+    const elapsed = Date.now() - startTime;
+    results.add({ elapsed }, { stats: true, library: true, npm: true });
+    results.add({ manifest }, { manifest: true });
+    console.blue(`library compiled in: ${FormatElapsedTime(elapsed)}s`);
+  }
+  if (forgeOptions.bin) {
+    builderOptions2.format = "cjs";
+    builderOptions2.platform = "node";
+    const npxResults = await $Transform(forgeOptions.bin, builderOptions2);
+    if (npxResults.success === false) return results.merge(npxResults).reject();
+    let { code } = npxResults.or({ code: true }).first;
+    results.add({ code, path: "./bin.js" }, { code: true, npx: true });
+    const stats = npxResults.or({ stats: true }).first;
+    results.add(stats, { stats: true, npx: true, npm: true });
+    console.blue("bin.js compiled in:", FormatElapsedTime(stats.elapsed), "s");
+  }
+  console.blue("NPM package compiled in", FormatElapsedTime(Date.now() - totalTime), "s");
+  return results;
+}
+
+// ../Forge-Typescript-Source/src/ts/build/npm/NPMPackageSanitize.ts
+var import_forge15 = require("@onyx-ignition/forge");
+
+// ../Forge-Typescript-Source/src/ts/build/types/TypesPackageSanitize.ts
+var import_forge14 = require("@onyx-ignition/forge");
+var TypesPackageSanitize = class extends import_forge14.AsyncArgumentPackageSanitize {
+  async $sanitize(component, attributes) {
+    await super.$sanitize(component, attributes);
+    if (component instanceof Promise) component = await component;
+    for (const [name, value] of Object.entries(component)) {
+      switch (name) {
+        case "files":
+          component.files = await $SanitizeGlob(value);
+          break;
+      }
+    }
+    return component;
+  }
+  validate(packaging) {
+    super.validate(packaging);
+    if (packaging.validations.errors.length == 0) packaging.validations.add(new import_forge14.ArgumentValidationSuccess(`Package sanitized for Types`), { types: true, sanitize: true });
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/npm/NPMPackageSanitize.ts
+var PackageSanitizeNPM = class extends import_forge15.AsyncArgumentPackageSanitize {
+  constructor() {
+    super({
+      default: {
+        component: {
+          lib: "./lib",
+          ext: {
+            cjs: ".js",
+            esm: ".mjs"
+          },
+          package_json: false
+        },
+        attributes: { npm: true, forge: true }
+      },
+      sanitizers: [
+        new TypesPackageSanitize(),
+        new LibraryPackageSanitize()
+      ]
+    });
+  }
+  async $sanitize(component, attributes) {
+    await super.$sanitize(component, attributes);
+    if (component instanceof Promise) component = await component;
+    for (const [name, value] of Object.entries(component)) {
+      switch (name) {
+        case "files":
+          component.files = await $SanitizeGlob(value);
+          break;
+        case "bin":
+          let buildValues = value;
+          let entry = buildValues.entry;
+          let contents = buildValues.contents ?? await import_forge15.ForgeFile.$ReadDecoded(entry);
+          let root = buildValues.root ?? import_forge15.ForgePath.Parse(entry).dir;
+          component.bin = {
+            contents,
+            root,
+            entry
+          };
+          break;
+      }
+    }
+    return component;
+  }
+  validate(packaging) {
+    super.validate(packaging);
+    if (packaging.validations.errors.length == 0) packaging.validations.add(new import_forge15.ArgumentValidationSuccess(`Package sanitized for NPM`), { npm: true, sanitize: true });
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/npm/NPMPackageValidate.ts
+var import_forge17 = require("@onyx-ignition/forge");
+
+// ../Forge-Typescript-Source/src/ts/build/types/TypesPackageValidate.ts
+var import_forge16 = require("@onyx-ignition/forge");
+var TypesPackageValidate = class extends import_forge16.AsyncArgumentPackageValidate {
+  async $flush(query, validations) {
+    await super.$flush(query, validations);
+    const params = (0, import_forge16.MergeAttributes)(await Promise.all(query.or({ forge: import_forge16.Intersects }).all));
+    const { files, name } = params;
+    const cause = params;
+    if (files === void 0) validations.add(
+      new import_forge16.ArgumentValidationError(`arguments for <error>{ files }</error> is undefined`, { cause }),
+      { files: true, ...import_forge16.ArgumentValidationErrorAttributes }
+    );
+    if (name === void 0) validations.add(
+      new import_forge16.ArgumentValidationError(`arguments for <error>{ name }</error> is undefined"`, { cause }),
+      { name: true, ...import_forge16.ArgumentValidationErrorAttributes }
+    );
+    if (validations.errors.length === 0) validations.add(
+      new import_forge16.ArgumentValidationSuccess(`Package validated for Types`),
+      { types: true, validate: true }
+    );
+  }
+};
+
+// ../Forge-Typescript-Source/src/ts/build/npm/NPMPackageValidate.ts
+var NPMPackageValidate = class extends import_forge17.AsyncArgumentPackageValidate {
+  constructor(options) {
+    super({
+      ...options,
+      validators: [
+        new TypesPackageValidate(),
+        new LibraryPackageValidate(),
+        ...options?.validators ?? []
+      ]
+    });
+  }
+  async $flush(query, validations) {
+    await super.$flush(query, validations);
+    const params = (0, import_forge17.MergeAttributes)(await Promise.all(query.or({ forge: import_forge17.Intersects }).all));
+    const { bin, ext, includes, package_json } = params;
+    const cause = params;
+    const purges = [];
+    if (validations.has(import_forge17.QuerySequence.Or({ library: true }))) {
+      purges.push(...validations.purge(import_forge17.QuerySequence.And({ library: true, index: true })));
+      purges.push(...validations.purge(import_forge17.QuerySequence.And({ library: true, ext: true })));
+      if (validations.has(import_forge17.QuerySequence.And({ library: true, error: true })) === false) validations.add(
+        new import_forge17.ArgumentValidationSuccess(`Package validated for Library`),
+        { library: true, validate: true }
+      );
+    } else {
+      console.red("NO tested validation found for library");
+      validations.add(
+        new import_forge17.ArgumentValidationError(`[${this.constructor.name}] No nested valiation found for [LibraryPackageValidate]"`, { cause }),
+        { npm: true, library: true, ...import_forge17.ArgumentValidationErrorAttributes }
+      );
+    }
+    if (purges.length) console.log(String(purges.map((val) => `${val?.constructor?.name}`)));
+    if (bin) {
+      const { entry, contents, root } = bin;
+      if (bin.constructor === String) {
+        validations.add(
+          new import_forge17.ArgumentValidationError(`[${this.constructor.name}] arguments type <error>{ bin }</error> is a string should be { bin: { entry } }"`, { cause }),
+          { bin: true, ...import_forge17.ArgumentValidationErrorAttributes }
+        );
+      } else if (entry) {
+        if (await import_forge17.ForgeFile.$FileExist(entry) === false) validations.add(
+          new import_forge17.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ bin: { entry } }</error> is missing"`, { cause }),
+          { bin: { entry: true }, ...import_forge17.ArgumentValidationErrorAttributes }
+        );
+      } else {
+        if (contents === void 0) validations.add(
+          new import_forge17.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ bin: { content } }</error> is undefined"`, { cause }),
+          { bin: { content: true }, ...import_forge17.ArgumentValidationErrorAttributes }
+        );
+        if (root === void 0) validations.add(
+          new import_forge17.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ bin: { root } }</error> is missing"`, { cause }),
+          { bin: { root: true }, ...import_forge17.ArgumentValidationErrorAttributes }
+        );
+      }
+    } else {
+      validations.add(
+        new import_forge17.ArgumentValidationError(`[${this.constructor.name}] arguments for <error>{ bin }</cyan> is undefined`, { cause }),
+        { bin: true, ...import_forge17.ArgumentValidationErrorAttributes }
+      );
+    }
+    if (ext?.cjs === void 0) validations.add(
+      new import_forge17.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ ext: { cjs } }</warning> is optional and will default to cjs = <blue>".js"`, { cause }),
+      { ext: { cjs: true }, ...import_forge17.ArgumentValidationWarningAttributes }
+    );
+    if (ext?.esm === void 0) validations.add(
+      new import_forge17.ArgumentValidationWarning(`[${this.constructor.name}] arguments for <warning>{ ext: { esm } }</warning> is optional and will default to esm = <blue>".mjs"`, { cause }),
+      { ext: { esm: true }, ...import_forge17.ArgumentValidationWarningAttributes }
+    );
+    if (validations.errors.length === 0) validations.add(
+      new import_forge17.ArgumentValidationSuccess(`Package validated for NPM`),
+      { npm: true, validate: true }
+    );
+  }
+};
+
+// ../Forge-Typescript-Source/src/Forge-Typescript-Source/src/ts/bin.ts
+(async function() {
+  const AppArguments = await $FetchArguments();
+  const forgePackage = AppArguments.mount(new import_forge18.AttributesArgumentPackageMount({ forge: true }));
+  const forgeParams = forgePackage.implode();
+  const builderPackage = await BuilderPackage.$From([AppArguments.mount(new import_forge18.AttributesArgumentPackageMount({ builder: true }))]);
+  if (GetEnviromentParams().VERBOSITY == "all" /* all */) {
+  }
+  if (forgeParams.watch || forgeParams.socket || forgeParams.http) {
+    console.parse("<red>Persist STARTED");
+    const application = new BuildClient({ race: { ".*": 500 } });
+    if (forgeParams.socket) {
+      const server = await application.$listen(forgeParams.socket.port);
+    }
+  }
+  const errors = [];
+  const warnings = [];
+  if (AppArguments.has(import_forge18.QuerySequence.Or({ app: { types: import_forge18.Intersects } })) || forgeParams.types === true) {
+    let { out } = forgeParams;
+    await $VerifyFile({ out }, { warnings, errors });
+    await forgePackage.$validate(new TypesPackageValidate());
+    const sanitizedPackage = await forgePackage.$sanitize(new TypesPackageSanitize());
+    ProcessWarnignsAndErrors({ errors, args: [sanitizedPackage, builderPackage] });
+    const result = await $BuildTypes([sanitizedPackage, builderPackage]);
+    ProcessBuilderResult(result, { footer: `<red>Error bundling types to "${out}" with the following errors:` });
+    const { code, path } = result.or({ code: true }).first;
+    await $OutputCompiledCode(code, out);
+  } else if (AppArguments.has(import_forge18.QuerySequence.Or({ app: { build: import_forge18.Intersects } })) || forgeParams.build === true) {
+    const { out, entry } = forgeParams;
+    await $VerifyFile({ entry }, { errors });
+    await $VerifyFile({ out }, { warnings, errors });
+    ProcessWarnignsAndErrors({ errors, warnings });
+    const results = await $Build(entry, builderOptions);
+    ProcessBuilderResult(results, { footer: `<red>errors building "${entry}" to "${out}"` });
+    const { code } = results.or({ code: true }).first;
+    await $OutputCompiledCode(code, out);
+    if (results.has(import_forge18.QuerySequence.Or({ mapping: true }))) await $OutputCompiledCode(code, out + ".map");
+  } else if (AppArguments.has(import_forge18.QuerySequence.Or({ app: { library: import_forge18.Intersects } })) || forgeParams.library === true) {
+    await forgePackage.$validate(new LibraryPackageValidate());
+    const sanitizedPackage = await forgePackage.$sanitize(new LibraryPackageSanitize());
+    const { out } = forgePackage.implode();
+    const { bundled } = builderPackage.implode();
+    if (["mangle_random" /* mangle_random */, "mangle_static" /* mangle_static */, "preserve" /* preserve */, "merge" /* merge */].includes(bundled) === false) {
+      errors.push(`[Process] arguments for <error>{ builder: { bundled } }</error> should be one of the dollowing options: mangle_random | mangle_static | preserve | merge`);
+    }
+    ProcessWarnignsAndErrors({ warnings, errors, args: [AppArguments] });
+    const library = new LibraryBuilder();
+    if (["mangle_random" /* mangle_random */, "mangle_static" /* mangle_static */, "preserve" /* preserve */].includes(bundled)) {
+      const results = await library.$export([sanitizedPackage, builderPackage]);
+      ProcessBuilderResult(results, { footer: `<red>Error transforming source into library` });
+      for (const [component, attributes] of results.or({ code: true })) {
+        const { code, path } = component;
+        const target = import_forge18.ForgePath.Join(out, path);
+        await $OutputCompiledCode(code, target);
+      }
+    } else if (bundled === "merge" /* merge */) {
+      const code = await library.$bundle([sanitizedPackage, builderPackage]);
+      await $OutputCompiledCode(code, out);
+    } else {
+      throw new Error(`Invalid bundle option for library: ${bundled}`);
+    }
+  } else if (AppArguments.has(import_forge18.QuerySequence.Traverse({ npm: true })) || forgeParams.npm === true) {
+    const { out, manifest, init, name } = forgeParams;
+    errors.push(...(await $VerifyDirectoryExists({ out })).errors);
+    let npmPackageSanitized;
+    if (true) {
+      await forgePackage.$validate(new NPMPackageValidate());
+      const sanitizer = new PackageSanitizeNPM();
+      npmPackageSanitized = await forgePackage.$sanitize(sanitizer);
+      ProcessWarnignsAndErrors({ errors, args: [forgePackage, builderPackage] });
+    } else {
+      await AppArguments.$validate(new NPMPackageValidate().mount({ forge: true }));
+      const sanitizer = new PackageSanitizeNPM().mount({ forge: true }, { forge: true });
+      npmPackageSanitized = await AppArguments.$sanitize(sanitizer);
+      ProcessWarnignsAndErrors({ errors, args: [AppArguments, builderPackage] });
+    }
+    const includes = [];
+    const results = await $BuildNPM([npmPackageSanitized, builderPackage]);
+    ProcessBuilderResult(results, { header: `<red>Errors found building a NPM package` });
+    for (let [{ code, path }, attributes] of results.or({ code: true })) {
+      if (import_forge18.QuerySequence.Or({ npx: true }).match(attributes)) {
+        const includesHeader = includes.map((include) => `require("${include}");`).join("\n");
+        code = String(code).replace(/#! \/usr\/bin\/env node/, `#! /usr/bin/env node
+${includesHeader}
+`);
+      }
+      const target = import_forge18.ForgePath.Resolve(out, path);
+      await $OutputCompiledCode(code, target);
+    }
+    if (init) {
+      const packageJSON = {
+        "name": name,
+        "author": "",
+        "version": "1.0.0",
+        "keywords": [name],
+        "description": "",
+        "bin": "./bin.js",
+        "main": "./index.js",
+        "exports": {
+          ".": {
+            "types": "./index.d.ts",
+            "require": "./index.js",
+            "import": "./index.mjs"
+          }
+        },
+        "scripts": {},
+        "license": "ISC",
+        "repository": {
+          "type": "git",
+          "url": ""
+        },
+        "dependencies": {}
+      };
+      const target = import_forge18.ForgePath.Resolve(out, `package.json`);
+      await $OutputCompiledCode(JSON.stringify(packageJSON), target);
+    }
+    if (manifest) {
+      const target = import_forge18.ForgePath.Resolve(out, manifest);
+      const files = results.or({ manifest: true }).last;
+      if (init) files.manifest.push(import_forge18.ForgePath.Resolve(out, `package.json`));
+      await $OutputCompiledCode(files.manifest.join("\n"), target);
+    }
+  } else {
+    console.yellow("no build option selected?");
+  }
+  if (forgeParams.copy) {
+    const startTime = Date.now();
+    for (const { source, targets } of forgeParams.copy) {
+      try {
+        if (GetEnviromentParams().DRY_RUN) {
+          console.parse(`[DRY_RUN]copying ${source} to:
+ ${targets.join("\n")}`);
+        } else {
+          const promises = [];
+          for (const target of targets) promises.push(import_forge18.ForgeFile.$CopyGlob([source], target));
+          console.log(await Promise.allSettled(promises));
+        }
+      } catch (error) {
+        console.red("error copying files", error?.message);
+        console.log(source, targets);
+      }
+    }
+  }
+  if (GetEnviromentParams().DRY_RUN) console.red("DRY ENDED");
+})();
+function ProcessBuilderResult(result, messaging) {
+  if (result.success == false) {
+    if (messaging?.header) console.parse(messaging?.header);
+    for (const [component, attributes] of result.or({ error: true })) console.parse(`<blue>	* <cyan>${component.error}`);
+    if (messaging?.footer) console.parse(messaging?.footer);
+    process.exit(1);
+  }
+}
