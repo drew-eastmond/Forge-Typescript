@@ -43,7 +43,7 @@
         "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
     },
     "dependencies": {
-        "@onyx-ignition/forge": "*",
+        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
         "@types/node": "^20.7.2",
         "@types/react": "^19.1.10",
         "compression": "^1.7.5",
