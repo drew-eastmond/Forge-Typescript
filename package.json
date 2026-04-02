@@ -49,7 +49,7 @@
         "compression": "^1.7.5",
         "esbuild": "^0.25.9",
         "express": "^4.21.2",
-        "javascript-obfuscator": "^5.4.1",
+        "javascript-obfuscator": "^0.14.3",
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
         "sass": "^1.85.0",
