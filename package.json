@@ -1,7 +1,7 @@
 {
     "name": "@onyx-ignition/forge-typescript",
     "author": "Drew Eastmond",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "keywords": [
         "forge",
         "onyx-ignition",
@@ -19,7 +19,7 @@
         "MCP",
         "SDK"
     ],
-    "description": "Typescript package for Forge ( Beta Test )",
+    "description": "Typescript package for Forge ( Canary )",
     "bin": "./bin.js",
     "main": "./index.js",
     "exports": {
@@ -35,7 +35,9 @@
         "library": "node ./bin.js [forge] [[library",
         "npm": "node ./bin.js [forge] [[npm",
         "start": "node ./bin.js -- [forge] [[start",
-        "test": "echo mock testing"
+        "bootstrap": "node --watch ./bootstrap.js -- [forge] [[http]] [[[port]]] 1337 [[[root]]] ./app/",
+        "regen": "node -e \"console.log(require(`node:fs`).readFileSync(`./stdin/npm-stdin.json`, `utf8`));\" | node ./bootstrap.js",
+        "test": "node test.js"
     },
     "license": "ISC",
     "repository": {

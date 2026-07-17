@@ -113,3 +113,10 @@ if (result.success == true) {
 }
 
 ```
+
+npm warn allow-scripts 3 packages have install scripts not yet covered by allowScripts:
+npm warn allow-scripts   @parcel/watcher@2.5.6 (install: node-gyp rebuild)
+npm warn allow-scripts   bufferutil@4.1.0 (install: node-gyp rebuild)
+npm warn allow-scripts   esbuild@0.25.12 (postinstall: node install.js)
+npm warn allow-scripts
+npm warn allow-scripts Run `npm install-scripts ls` to review, or `npm install-scripts approve <pkg>` to allow.

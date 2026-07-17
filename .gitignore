@@ -141,3 +141,6 @@ bootstrap.js
 *.js.map
 .npmignore
 tmp/
+/bootstrap.d.ts
+/bootstrap.json
+/test.js
