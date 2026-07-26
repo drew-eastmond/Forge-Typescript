@@ -1,7 +1,7 @@
 {
     "name": "@onyx-ignition/forge-typescript",
     "author": "Drew Eastmond",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "keywords": [
         "forge",
         "onyx-ignition",
@@ -16,7 +16,6 @@
         "minify",
         "serve",
         "javascript",
-        "MCP",
         "SDK"
     ],
     "description": "Typescript package for Forge ( Canary )",
@@ -36,7 +35,9 @@
         "npm": "node ./bin.js [forge] [[npm",
         "start": "node ./bin.js -- [forge] [[start",
         "bootstrap": "node --watch ./bootstrap.js -- [forge] [[http]] [[[port]]] 1337 [[[root]]] ./app/",
-        "regen": "node -e \"console.log(require(`node:fs`).readFileSync(`./stdin/npm-stdin.json`, `utf8`));\" | node ./bootstrap.js",
+        "regen-typescript": "node -e \"console.log(require(`node:fs`).readFileSync(`./stdin/typescript-regen-stdin.json`, `utf8`));\" | node ./bootstrap.js",
+        "regen-forge": "node -e \"console.log(require(`node:fs`).readFileSync(`./stdin/forge-regen-stdin.json`, `utf8`));\" | node ./bootstrap.js",
+        
         "test": "node test.js"
     },
     "license": "ISC",
@@ -45,17 +46,20 @@
         "url": "git+https://github.com/drew-eastmond/Forge-Typescript.git"
     },
     "dependencies": {
-        "@onyx-ignition/forge": "github:drew-eastmond/Forge",
+        "@onyx-ignition/forge": "*",
         "@types/node": "^20.7.2",
         "@types/react": "^19.1.10",
         "compression": "^1.7.5",
-        "esbuild": "^0.25.9",
+        "esbuild": "^0.28.1",
         "express": "^4.21.2",
-        "javascript-obfuscator": "^0.14.3",
+        "javascript-obfuscator": "^5.4.7",
         "react": "^19.1.1",
         "react-dom": "^19.1.1",
         "sass": "^1.85.0",
         "twig": "^2.0.0",
         "typescript": "^5.9.3"
+    },
+    "allowScripts": {
+        "esbuild@0.28.1": true
     }
 }

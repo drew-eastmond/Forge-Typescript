@@ -326,7 +326,7 @@ declare module "@onyx-ignition/forge-typescript" {
 	
 	export class BuilderHost extends ForgeHost {
 	    static Protocol: string;
-	    static EncodeRequestData(request: ForgeRequest, data: Serialize, attributes: Attributes): void;
+	    static AppendRequestData(request: ForgeRequest, data: Serialize, attributes: Attributes): void;
 	    write: Write;
 	    private _contexts;
 	    protected _$serializeResult(results: IBuilderResult, request: ForgeRequest, response: ForgeResponse): Promise<void>;
